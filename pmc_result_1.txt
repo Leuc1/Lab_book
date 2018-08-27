@@ -1,0 +1,564 @@
+1:  Composition and Functional Characterization of Microbiome Associated with Mucus of the Coral Fungia echinata Collected from Andaman Sea
+Jhasketan Badhai, Tarini S. Ghosh, Subrata K. Das
+Front Microbiol. 2016; 7: 936.  Published online 2016 Jun 16. doi: 10.3389/fmicb.2016.00936
+PMCID: PMC4909750
+
+- o METAGENOMA JÁ CONSTA NA LISTA
+
+2:  SUPER-FOCUS: a tool for agile functional analysis of shotgun metagenomic data
+Genivaldo Gueiros Z. Silva, Kevin T. Green, Bas E. Dutilh, Robert A. Edwards
+Bioinformatics. 2016 Feb 1; 32(3): 354–361.  Published online 2015 Oct 9. doi: 10.1093/bioinformatics/btv584
+PMCID: PMC4734042
+
+- FERRAMENTA, SEM PUBLICAÇÃO DE METAGENOMA
+
+3:  Comparative Metagenomic Analysis of Coral Microbial Communities Using a Reference-Independent Approach
+Camila Carlos, Daniel Bedo Assumpção Castro, Laura M. M. Ottoboni
+PLoS One. 2014; 9(11): e111626.  Published online 2014 Nov 7. doi: 10.1371/journal.pone.0111626
+PMCID: PMC4224422
+
+- O METAGENOMA JÁ CONSTA NA LISTA
+
+4:  CoMet—a web server for comparative functional profiling of metagenomes
+Thomas Lingner, Kathrin Petra Aßhauer, Fabian Schreiber, Peter Meinicke
+Nucleic Acids Res. 2011 Jul 1; 39(Web Server issue): W518–W523.  Published online 2011 May 26. doi: 10.1093/nar/gkr388
+PMCID: PMC3125781
+
+- FERRAMENTA
+
+5:  Whole Genome Sequencing of the Symbiont Pseudovibrio sp. from the Intertidal Marine Sponge Polymastia penicillus Revealed a Gene Repertoire for Host-Switching Permissive Lifestyle
+Anoop Alex, Agostinho Antunes
+Genome Biol Evol. 2015 Nov; 7(11): 3022–3032.  Published online 2015 Oct 31. doi: 10.1093/gbe/evv199
+PMCID: PMC5635592
+
+- METAGENOMA DE ESPONJA
+
+6:  HabiSign: a novel approach for comparison of metagenomes and rapid identification of habitat-specific sequences
+Tarini Shankar Ghosh, Monzoorul Haque Mohammed, Hannah Rajasingh, Sudha Chadaram, Sharmila S Mande
+BMC Bioinformatics. 2011; 12(Suppl 13): S9.  Published online 2011 Nov 30. doi: 10.1186/1471-2105-12-S13-S9
+PMCID: PMC3278849
+
+- FERRAMENTA
+
+7:  Metagenomic Analysis of the Viral Communities in Fermented Foods
+Eun-Jin Park, Kyoung-Ho Kim, Guy C. J. Abell, Min-Soo Kim, Seong Woon Roh, Jin-Woo Bae
+Appl Environ Microbiol. 2011 Feb; 77(4): 1284–1291.  Published online 2010 Dec 23. doi: 10.1128/AEM.01859-10
+PMCID: PMC3067239
+
+- NÃO É CORAL
+
+8:  Metagenomic analysis reveals a green sulfur bacterium as a potential coral symbiont
+Lin Cai, Guowei Zhou, Ren-Mao Tian, Haoya Tong, Weipeng Zhang, Jin Sun, Wei Ding, Yue Him Wong, James Y. Xie, Jian-Wen Qiu, Sheng Liu, Hui Huang, Pei-Yuan Qian
+Sci Rep. 2017; 7: 9320.  Published online 2017 Aug 24. doi: 10.1038/s41598-017-09032-4
+PMCID: PMC5571212
+
+- OLHAR
+
+9:  Sequencing at sea: challenges and experiences in Ion Torrent PGM sequencing during the 2013 Southern Line Islands Research Expedition
+Yan Wei Lim, Daniel A. Cuevas, Genivaldo Gueiros Z. Silva, Kristen Aguinaldo, Elizabeth A. Dinsdale, Andreas F. Haas, Mark Hatay, Savannah E. Sanchez, Linda Wegley-Kelly, Bas E. Dutilh, Timothy T. Harkins, Clarence C. Lee, Warren Tom, Stuart A. Sandin, Jennifer E. Smith, Brian Zgliczynski, Mark J.A. Vermeij, Forest Rohwer, Robert A. Edwards
+PeerJ. 2014; 2: e520.  Published online 2014 Aug 19. doi: 10.7717/peerj.520
+PMCID: PMC4145072
+
+- OLHAR
+
+10:  Turbulence-driven shifts in holobionts and planktonic microbial assemblages in St. Peter and St. Paul Archipelago, Mid-Atlantic Ridge, Brazil
+Ana Paula B. Moreira, Pedro M. Meirelles, Eidy de O. Santos, Gilberto M. Amado-Filho, Ronaldo B. Francini-Filho, Cristiane C. Thompson, Fabiano L. Thompson
+Front Microbiol. 2015; 6: 1038.  Published online 2015 Oct 2. doi: 10.3389/fmicb.2015.01038
+PMCID: PMC4591530
+
+- OLHAR
+
+11:  Distinguishing Species Using GC Contents in Mixed DNA or RNA Sequences
+Kamran Karimi, Daniel M Wuitchik, Matthew J Oldach, Peter D Vize
+Evol Bioinform Online. 2018; 14: 1176934318788866.  Published online 2018 Jul 18. doi: 10.1177/1176934318788866
+PMCID: PMC6052495
+
+12:  A de novo approach to disentangle partner identity and function in holobiont systems
+Arnaud Meng, Camille Marchet, Erwan Corre, Pierre Peterlongo, Adriana Alberti, Corinne Da Silva, Patrick Wincker, Eric Pelletier, Ian Probert, Johan Decelle, Stéphane Le Crom, Fabrice Not, Lucie Bittner
+Microbiome. 2018; 6: 105.  Published online 2018 Jun 9. doi: 10.1186/s40168-018-0481-9
+PMCID: PMC5994019
+
+13:  An improved primer set and amplification protocol with increased specificity and sensitivity targeting the Symbiodinium ITS2 region
+Benjamin C.C. Hume, Maren Ziegler, Julie Poulain, Xavier Pochon, Sarah Romac, Emilie Boissin, Colomban de Vargas, Serge Planes, Patrick Wincker, Christian R. Voolstra
+PeerJ. 2018; 6: e4816.  Published online 2018 May 23. doi: 10.7717/peerj.4816
+PMCID: PMC5970565
+
+14:  Using NanoSIMS coupled with microfluidics to visualize the early stages of coral infection by Vibrio coralliilyticus
+E. Gibbin, A. Gavish, I. Domart-Coulon, E. Kramarsky-Winter, O. Shapiro, A. Meibom, A. Vardi
+BMC Microbiol. 2018; 18: 39.  Published online 2018 Apr 20. doi: 10.1186/s12866-018-1173-0
+PMCID: PMC5910561
+
+15:  Host-microbe interactions in octocoral holobionts - recent advances and perspectives
+Jeroen A. J. M. van de Water, Denis Allemand, Christine Ferrier-Pagès
+Microbiome. 2018; 6: 64.  Published online 2018 Apr 2. doi: 10.1186/s40168-018-0431-6
+PMCID: PMC5880021
+
+- OLHAR
+
+16:  Inter-domain microbial diversity within the coral holobiont Siderastrea siderea from two depth habitats
+Guido Bonthond, Daniel G. Merselis, Katherine E. Dougan, Trevor Graff, William Todd, James W. Fourqurean, Mauricio Rodriguez-Lanetty
+PeerJ. 2018; 6: e4323.  Published online 2018 Feb 9. doi: 10.7717/peerj.4323
+PMCID: PMC5808317
+
+- OLHAR
+
+17:  Trace Metal Requirements and Interactions in Symbiodinium kawagutii
+Irene B. Rodriguez, Tung-Yuan Ho
+Front Microbiol. 2018; 9: 142.  Published online 2018 Feb 6. doi: 10.3389/fmicb.2018.00142
+PMCID: PMC5808119
+
+18:  Dominance of Endozoicomonas bacteria throughout coral bleaching and mortality suggests structural inflexibility of the Pocillopora verrucosa microbiome
+Claudia Pogoreutz, Nils Rädecker, Anny Cárdenas, Astrid Gärdes, Christian Wild, Christian R. Voolstra
+Ecol Evol. 2018 Feb; 8(4): 2240–2252.  Published online 2018 Jan 25. doi: 10.1002/ece3.3830
+PMCID: PMC5817147
+
+- OLHAR
+
+19:  Specific plasmid patterns and high rates of bacterial co‐occurrence within the coral holobiont
+Deborah C. A. Leite, Joana F. Salles, Emiliano N. Calderon, Jan D. van Elsas, Raquel S. Peixoto
+Ecol Evol. 2018 Feb; 8(3): 1818–1832.  Published online 2018 Jan 11. doi: 10.1002/ece3.3717
+PMCID: PMC5792611
+
+20:  Abundance and Multilocus Sequence Analysis of Vibrio Bacteria Associated with Diseased Elkhorn Coral (Acropora palmata) of the Florida Keys
+Keri M. Kemp, Jason R. Westrich, Magdy S. Alabady, Martinique L. Edwards, Erin K. Lipp
+Appl Environ Microbiol. 2018 Jan 15; 84(2): e01035-17.  Prepublished online 2017 Oct 27. Published online 2018 Jan 2. doi: 10.1128/AEM.01035-17
+PMCID: PMC5752851
+
+21:  A multi-trait systems approach reveals a response cascade to bleaching in corals
+Stephanie G. Gardner, Jean-Baptiste Raina, Matthew R. Nitschke, Daniel A. Nielsen, Michael Stat, Cherie A. Motti, Peter J. Ralph, Katherina Petrou
+BMC Biol. 2017; 15: 117.  Published online 2017 Dec 7. doi: 10.1186/s12915-017-0459-2
+PMCID: PMC5719617
+
+22:  13C and 15N assimilation and organic matter translocation by the endolithic community in the massive coral Porites lutea
+Laddawan Sangsawang, Beatriz Estela Casareto, Hideo Ohba, Hung Manh Vu, Aussanee Meekaew, Toshiyuki Suzuki, Thamasak Yeemin, Yoshimi Suzuki
+R Soc Open Sci. 2017 Dec; 4(12): 171201.  Published online 2017 Dec 6. doi: 10.1098/rsos.171201
+PMCID: PMC5750018
+
+-- OLHAR
+
+23:  Rare symbionts may contribute to the resilience of coral–algal assemblages
+Maren Ziegler, Víctor M Eguíluz, Carlos M Duarte, Christian R Voolstra
+ISME J. 2018 Jan; 12(1): 161–172.  Published online 2017 Nov 24. doi: 10.1038/ismej.2017.151
+PMCID: PMC5739009
+
+-- OLHAR
+
+24:  Dynamics of coral-associated bacterial communities acclimated to temperature stress based on recent thermal history
+Jia-Ho Shiu, Shashank Keshavmurthy, Pei-Wen Chiang, Hsing-Ju Chen, Shueh-Ping Lou, Ching-Hung Tseng, Hernyi Justin Hsieh, Chaolun Allen Chen, Sen-Lin Tang
+Sci Rep. 2017; 7: 14933.  Published online 2017 Nov 2. doi: 10.1038/s41598-017-14927-3
+PMCID: PMC5668310
+
+25:  Phage and Nucleocytoplasmic Large Viral Sequences Dominate Coral Viromes from the Arabian Gulf
+Huda Mahmoud, Liny Jose
+Front Microbiol. 2017; 8: 2063.  Published online 2017 Oct 24. doi: 10.3389/fmicb.2017.02063
+PMCID: PMC5660727
+
+-- DESCARTAR
+
+26:  Season, but not symbiont state, drives microbiome structure in the temperate coral Astrangia poculata
+Koty H. Sharp, Zoe A. Pratte, Allison H. Kerwin, Randi D. Rotjan, Frank J. Stewart
+Microbiome. 2017; 5: 120.  Published online 2017 Sep 15. doi: 10.1186/s40168-017-0329-8
+PMCID: PMC5603060
+
+-- OLHAR
+
+27:  De novo metatranscriptome assembly and coral gene expression profile of Montipora capitata with growth anomaly
+Monika Frazier, Martin Helmkampf, M. Renee Bellinger, Scott M. Geib, Misaki Takabayashi
+BMC Genomics. 2017; 18: 710.  Published online 2017 Sep 11. doi: 10.1186/s12864-017-4090-y
+PMCID: PMC5594617
+
+28:  A PCR-Based Assay Targeting the Major Capsid Protein Gene of a Dinorna-Like ssRNA Virus That Infects Coral Photosymbionts
+Jose Montalvo-Proaño, Patrick Buerger, Karen D. Weynberg, Madeleine J. H. van Oppen
+Front Microbiol. 2017; 8: 1665.  Published online 2017 Sep 1. doi: 10.3389/fmicb.2017.01665
+PMCID: PMC5585145
+
+-- DESCARTAR
+
+29:  Geographical variations in bacterial communities associated with soft coral Scleronephthya gracillimum
+Seonock Woo, Shan-Hua Yang, Hsing-Ju Chen, Yu-Fang Tseng, Sung-Jin Hwang, Stephane De Palmas, Vianney Denis, Yukimitsu Imahara, Fumihito Iwase, Seungshic Yum, Sen-Lin Tang
+PLoS One. 2017; 12(8): e0183663.  Published online 2017 Aug 31. doi: 10.1371/journal.pone.0183663
+PMCID: PMC5578639
+
+-- OLHAR
+
+30:  The microbial biosphere of the coral Acropora cervicornis in Northeastern Puerto Rico
+Filipa Godoy-Vitorino, Claudia P. Ruiz-Diaz, Abigail Rivera-Seda, Juan S. Ramírez-Lugo, Carlos Toledo-Hernández
+PeerJ. 2017; 5: e3717.  Published online 2017 Aug 29. doi: 10.7717/peerj.3717
+PMCID: PMC5580386
+
+- OLHAR
+
+31:  Association of coral algal symbionts with a diverse viral community responsive to heat shock
+Jan D. Brüwer, Shobhit Agrawal, Yi Jin Liew, Manuel Aranda, Christian R. Voolstra
+BMC Microbiol. 2017; 17: 174.  Published online 2017 Aug 17. doi: 10.1186/s12866-017-1084-5
+PMCID: PMC5561611
+
+32:  A comparison of two common sample preparation techniques for lipid and fatty acid analysis in three different coral morphotypes reveals quantitative and qualitative differences
+Jessica A. Conlan, Melissa M. Rocker, David S. Francis
+PeerJ. 2017; 5: e3645.  Published online 2017 Aug 2. doi: 10.7717/peerj.3645
+PMCID: PMC5544933
+
+33:  A genomic glance through the fog of plasticity and diversification in Pocillopora
+Erika C. Johnston, Zac H. Forsman, Jean-François Flot, Sebastian Schmidt-Roach, Jorge H. Pinzón, Ingrid S. S. Knapp, Robert J. Toonen
+Sci Rep. 2017; 7: 5991.  Published online 2017 Jul 20. doi: 10.1038/s41598-017-06085-3
+PMCID: PMC5519588
+
+34:  Acclimatization of symbiotic corals to mesophotic light environments through wavelength transformation by fluorescent protein pigments
+Edward G. Smith, Cecilia D'Angelo, Yoni Sharon, Dan Tchernov, Joerg Wiedenmann
+Proc Biol Sci. 2017 Jul 12; 284(1858): 20170320.  Published online 2017 Jul 5. doi: 10.1098/rspb.2017.0320
+PMCID: PMC5524488
+
+35:  Nitrogen Fixation Aligns with nifH Abundance and Expression in Two Coral Trophic Functional Groups
+Claudia Pogoreutz, Nils Rädecker, Anny Cárdenas, Astrid Gärdes, Christian Wild, Christian R. Voolstra
+Front Microbiol. 2017; 8: 1187.  Published online 2017 Jun 28. doi: 10.3389/fmicb.2017.01187
+PMCID: PMC5487474
+
+36:  Engineering Strategies to Decode and Enhance the Genomes of Coral Symbionts
+Rachel A. Levin, Christian R. Voolstra, Shobhit Agrawal, Peter D. Steinberg, David J. Suggett, Madeleine J. H. van Oppen
+Front Microbiol. 2017; 8: 1220.  Published online 2017 Jun 30. doi: 10.3389/fmicb.2017.01220
+PMCID: PMC5492045
+
+37:  Intraspecific differences in molecular stress responses and coral pathobiome contribute to mortality under bacterial challenge in Acropora millepora
+Rachel M. Wright, Carly D. Kenkel, Carly E. Dunn, Erin N. Shilling, Line K. Bay, Mikhail V. Matz
+Sci Rep. 2017; 7: 2609.  Published online 2017 Jun 1. doi: 10.1038/s41598-017-02685-1
+PMCID: PMC5454005
+
+38:  Low pH reduces the virulence of black band disease on Orbicella faveolata
+Erinn M. Muller, Nicole M. Leporacci, Keir J. Macartney, Alessandra G. Shea, Rachel E. Crane, Emily R. Hall, Kim B. Ritchie
+PLoS One. 2017; 12(6): e0178869.  Published online 2017 Jun 1. doi: 10.1371/journal.pone.0178869
+PMCID: PMC5453599
+
+39:  Bacterial Community Associated with the Reef Coral Mussismilia braziliensis's Momentum Boundary Layer over a Diel Cycle
+Cynthia B. Silveira, Gustavo B. Gregoracci, Felipe H. Coutinho, Genivaldo G. Z. Silva, John M. Haggerty, Louisi S. de Oliveira, Anderson S. Cabral, Carlos E. Rezende, Cristiane C. Thompson, Ronaldo B. Francini-Filho, Robert A. Edwards, Elizabeth A. Dinsdale, Fabiano L. Thompson
+Front Microbiol. 2017; 8: 784.  Published online 2017 May 22. doi: 10.3389/fmicb.2017.00784
+PMCID: PMC5438984
+
+40:  Microbial contributions to the persistence of coral reefs
+Nicole S Webster, Thorsten B H Reusch
+ISME J. 2017 Oct; 11(10): 2167–2174.  Published online 2017 May 16. doi: 10.1038/ismej.2017.66
+PMCID: PMC5607359
+
+-- OLHAR 
+
+41:  Phosphate deficiency promotes coral bleaching and is reflected by the ultrastructure of symbiotic dinoflagellates
+Sabrina Rosset, Jörg Wiedenmann, Adam J. Reed, Cecilia D'Angelo
+Mar Pollut Bull. 2017 May 15; 118(1-2): 180–187.  doi: 10.1016/j.marpolbul.2017.02.044
+PMCID: PMC5441187
+
+42:  Site-specific variation in gene expression from Symbiodinium spp. associated with offshore and inshore Porites astreoides in the lower Florida Keys is lost with bleaching and disease stress
+Briana Hauff Salas, Joshua A. Haslun, Kevin B. Strychar, Peggy H. Ostrom, James M. Cervino
+PLoS One. 2017; 12(3): e0173350.  Published online 2017 Mar 29. doi: 10.1371/journal.pone.0173350
+PMCID: PMC5371298
+
+43:  Beneficial Microorganisms for Corals (BMC): Proposed Mechanisms for Coral Health and Resilience
+Raquel S. Peixoto, Phillipe M. Rosado, Deborah Catharine de Assis Leite, Alexandre S. Rosado, David G. Bourne
+Front Microbiol. 2017; 8: 341.  Published online 2017 Mar 7. doi: 10.3389/fmicb.2017.00341
+PMCID: PMC5339234
+
+-- OLHAR
+
+44:  Transcriptomic Analysis of Thermally Stressed Symbiodinium Reveals Differential Expression of Stress and Metabolism Genes
+Sarah L. Gierz, Sylvain Forêt, William Leggat
+Front Plant Sci. 2017; 8: 271.  Published online 2017 Feb 28. doi: 10.3389/fpls.2017.00271
+PMCID: PMC5328969
+
+45:  Physiological plasticity related to zonation affects hsp70 expression in the reef-building coral Pocillopora verrucosa
+Davide Poli, Elena Fabbri, Stefano Goffredo, Valentina Airi, Silvia Franzellitti
+PLoS One. 2017; 12(2): e0171456.  Published online 2017 Feb 15. doi: 10.1371/journal.pone.0171456
+PMCID: PMC5310758
+
+46:  Bacterial community dynamics are linked to patterns of coral heat tolerance
+Maren Ziegler, Francois O. Seneca, Lauren K. Yum, Stephen R. Palumbi, Christian R. Voolstra
+Nat Commun. 2017; 8: 14213.  Published online 2017 Feb 10. doi: 10.1038/ncomms14213
+PMCID: PMC5309854
+
+- OLHAR
+
+47:  Broadcast Spawning Coral Mussismilia hispida Can Vertically Transfer its Associated Bacterial Core
+Deborah C. A. Leite, Pedro Leão, Amana G. Garrido, Ulysses Lins, Henrique F. Santos, Débora O. Pires, Clovis B. Castro, Jan D. van Elsas, Carla Zilberberg, Alexandre S. Rosado, Raquel S. Peixoto
+Front Microbiol. 2017; 8: 176.  Published online 2017 Feb 7. doi: 10.3389/fmicb.2017.00176
+PMCID: PMC5293827
+
+48:  Effects of ocean acidification on the potency of macroalgal allelopathy to a common coral
+Carlos Del Monaco, Mark E. Hay, Patrick Gartrell, Peter J. Mumby, Guillermo Diaz-Pulido
+Sci Rep. 2017; 7: 41053.  Published online 2017 Feb 1. doi: 10.1038/srep41053
+PMCID: PMC5286515
+
+49:  Microbiome variation in corals with distinct depth distribution ranges across a shallow–mesophotic gradient (15–85 m)
+Bettina Glasl, Pim Bongaerts, Nathalie H. Elisabeth, Ove Hoegh-Guldberg, Gerhard J. Herndl, Pedro R. Frade
+Coral Reefs. 2017; 36(2): 447–452.  Published online 2017 Jan 10. doi: 10.1007/s00338-016-1517-x
+PMCID: PMC5434129
+
+- OLHAR
+
+50:  The Assimilation of Diazotroph-Derived Nitrogen by Scleractinian Corals Depends on Their Metabolic Status
+Vanessa N. Bednarz, Renaud Grover, Jean-François Maguer, Maoz Fine, Christine Ferrier-Pagès
+mBio. 2017 Jan-Feb; 8(1): e02058-16.  Published online 2017 Jan 10. doi: 10.1128/mBio.02058-16
+PMCID: PMC5241398
+
+51:  Allelochemicals Produced by Brown Macroalgae of the Lobophora Genus Are Active against Coral Larvae and Associated Bacteria, Supporting Pathogenic Shifts to Vibrio Dominance
+Kathleen M. Morrow, Katrina Bromhall, Cherie A. Motti, Colin B. Munn, David G. Bourne
+Appl Environ Microbiol. 2017 Jan 1; 83(1): e02391-16.  Prepublished online 2016 Oct 21. Published online 2016 Dec 15. doi: 10.1128/AEM.02391-16
+PMCID: PMC5165121
+
+52:  Evidence for a role of viruses in the thermal sensitivity of coral photosymbionts
+Rachel Ashley Levin, Christian Robert Voolstra, Karen Dawn Weynberg, Madeleine Josephine Henriette van Oppen
+ISME J. 2017 Mar; 11(3): 808–812.  Published online 2016 Dec 2. doi: 10.1038/ismej.2016.154
+PMCID: PMC5322306
+
+53:  The Shifts of Diazotrophic Communities in Spring and Summer Associated with Coral Galaxea astreata, Pavona decussata, and Porites lutea
+Yanying Zhang, Qingsong Yang, Juan Ling, Joy D. Van Nostrand, Zhou Shi, Jizhong Zhou, Junde Dong
+Front Microbiol. 2016; 7: 1870.  Published online 2016 Nov 22. doi: 10.3389/fmicb.2016.01870
+PMCID: PMC5118425
+
+54:  Distinguishing between Microbial Habitats Unravels Ecological Complexity in Coral Microbiomes
+Amy Apprill, Laura G. Weber, Alyson E. Santoro
+mSystems. 2016 Sep-Oct; 1(5): e00143-16.  Published online 2016 Oct 25. doi: 10.1128/mSystems.00143-16
+PMCID: PMC5080407
+
+- OLHAR
+
+55:  In situ visualization of bacterial populations in coral tissues: pitfalls and solutions
+Naohisa Wada, Frederic J. Pollock, Bette L. Willis, Tracy Ainsworth, Nobuhiro Mano, David G. Bourne
+PeerJ. 2016; 4: e2424.  Published online 2016 Sep 20. doi: 10.7717/peerj.2424
+PMCID: PMC5036075
+
+56:  Correction to ‘Metabolomics of reef benthic interactions reveals a bioactive lipid involved in coral defence’
+Robert A. Quinn, Mark J. A. Vermeij, Aaron C. Hartmann, Ines Galtier d'Auriac, Sean Benler, Andreas Haas, Steven D. Quistad, Yan Wei Lim, Mark Little, Stuart Sandin, Jennifer E. Smith, Pieter C. Dorrestein, Forest Rohwer
+Proc Biol Sci. 2016 Aug 31; 283(1837): 20161485.  doi: 10.1098/rspb.2016.1485Corrects: Proc Biol Sci. 2016 Apr 27; 283(1829): 20160469. 
+PMCID: PMC5013801
+
+57:  Taxonomic and Functional Metagenomic Signature of Turfs in the Abrolhos Reef System (Brazil)
+Juline M. Walter, Diogo A. Tschoeke, Pedro M. Meirelles, Louisi de Oliveira, Luciana Leomil, Márcio Tenório, Rogério Valle, Paulo S. Salomon, Cristiane C. Thompson, Fabiano L. Thompson
+PLoS One. 2016; 11(8): e0161168.  Published online 2016 Aug 22. doi: 10.1371/journal.pone.0161168
+PMCID: PMC4993507
+
+58:  Multi-marker metabarcoding of coral skeletons reveals a rich microbiome and diverse evolutionary origins of endolithic algae
+Vanessa Rossetto Marcelino, Heroen Verbruggen
+Sci Rep. 2016; 6: 31508.  Published online 2016 Aug 22. doi: 10.1038/srep31508
+PMCID: PMC4992875
+
+59:  Isolation of an antimicrobial compound produced by bacteria associated with reef-building corals
+Jean-Baptiste Raina, Dianne Tapiolas, Cherie A. Motti, Sylvain Foret, Torsten Seemann, Jan Tebben, Bette L. Willis, David G. Bourne
+PeerJ. 2016; 4: e2275.  Published online 2016 Aug 18. doi: 10.7717/peerj.2275
+PMCID: PMC4994080
+
+60:  Ocean acidification influences host DNA methylation and phenotypic plasticity in environmentally susceptible corals
+Hollie M. Putnam, Jennifer M. Davidson, Ruth D. Gates
+Evol Appl. 2016 Oct; 9(9): 1165–1178.  Published online 2016 Aug 2. doi: 10.1111/eva.12408
+PMCID: PMC5039329
+
+61:  Transcriptome of the Caribbean stony coral Porites astreoides from three developmental stages
+Tamer A. Mansour, Joshua J. C. Rosenthal, C. Titus Brown, Loretta M. Roberson
+Gigascience. 2016; 5: 33.  Published online 2016 Aug 2. doi: 10.1186/s13742-016-0138-1
+PMCID: PMC4969664
+
+62:  The Microbial Signature Provides Insight into the Mechanistic Basis of Coral Success across Reef Habitats
+Alejandra Hernandez-Agreda, William Leggat, Pim Bongaerts, Tracy D. Ainsworth
+mBio. 2016 Jul-Aug; 7(4): e00560-16.  Published online 2016 Jul 26. doi: 10.1128/mBio.00560-16
+PMCID: PMC4981706
+
+63:  Differential specificity between closely related corals and abundant Endozoicomonas endosymbionts across global scales
+Matthew J Neave, Rita Rachmawati, Liping Xun, Craig T Michell, David G Bourne, Amy Apprill, Christian R Voolstra
+ISME J. 2017 Jan; 11(1): 186–200.  Published online 2016 Jul 8. doi: 10.1038/ismej.2016.95
+PMCID: PMC5335547
+
+64:  Highly Variable Bacterial Communities Associated with the Octocoral Antillogorgia elisabethae
+Veronica Robertson, Brad Haltli, Erin P. McCauley, David P. Overy, Russell G. Kerr
+Microorganisms. 2016 Sep; 4(3): 23.  Published online 2016 Jul 5. doi: 10.3390/microorganisms4030023
+PMCID: PMC5039583
+
+- OLHAR
+
+65:  Cell proliferation and migration during early development of a symbiotic scleractinian coral
+Agathe Lecointe, Isabelle Domart-Coulon, Alain Paris, Anders Meibom
+Proc Biol Sci. 2016 May 25; 283(1831): 20160206.  doi: 10.1098/rspb.2016.0206
+PMCID: PMC4892791
+
+66:  Integral Light-Harvesting Complex Expression In Symbiodinium Within The Coral Acropora aspera Under Thermal Stress
+Sarah L. Gierz, Benjamin R. Gordon, William Leggat
+Sci Rep. 2016; 6: 25081.  Published online 2016 Apr 27. doi: 10.1038/srep25081
+PMCID: PMC4846871
+
+67:  Exploring the Symbiodinium rare biosphere provides evidence for symbiont switching in reef-building corals
+Nadine M Boulotte, Steven J Dalton, Andrew G Carroll, Peter L Harrison, Hollie M Putnam, Lesa M Peplow, Madeleine JH van Oppen
+ISME J. 2016 Nov; 10(11): 2693–2701.  Published online 2016 Apr 19. doi: 10.1038/ismej.2016.54
+PMCID: PMC5113844
+
+- OLHAR
+
+68:  Seasonal Variability in Calorimetric Energy Content of Two Caribbean Mesophotic Corals
+Viktor W. Brandtneris, Marilyn E. Brandt, Peter W. Glynn, Joanna Gyory, Tyler B. Smith
+PLoS One. 2016; 11(4): e0151953.  Published online 2016 Apr 6. doi: 10.1371/journal.pone.0151953
+PMCID: PMC4822962
+
+69:  Microbes Drive Evolution of Animals and Plants: the Hologenome Concept
+Eugene Rosenberg, Ilana Zilber-Rosenberg
+mBio. 2016 Mar-Apr; 7(2): e01395-15.  Published online 2016 Mar 31. doi: 10.1128/mBio.01395-15
+PMCID: PMC4817260
+
+70:  The microbiome of coral surface mucus has a key role in mediating holobiont health and survival upon disturbance
+Bettina Glasl, Gerhard J Herndl, Pedro R Frade
+ISME J. 2016 Sep; 10(9): 2280–2292.  Published online 2016 Mar 8. doi: 10.1038/ismej.2016.9
+PMCID: PMC4989324
+
+- OLHAR
+
+71:  Genomic Insight into the Host–Endosymbiont Relationship of Endozoicomonas montiporae CL-33T with its Coral Host
+Jiun-Yan Ding, Jia-Ho Shiu, Wen-Ming Chen, Yin-Ru Chiang, Sen-Lin Tang
+Front Microbiol. 2016; 7: 251.  Published online 2016 Mar 8. doi: 10.3389/fmicb.2016.00251
+PMCID: PMC4781883
+
+72:  A coral-on-a-chip microfluidic platform enabling live-imaging microscopy of reef-building corals
+Orr H. Shapiro, Esti Kramarsky-Winter, Assaf R. Gavish, Roman Stocker, Assaf Vardi
+Nat Commun. 2016; 7: 10860.  Published online 2016 Mar 4. doi: 10.1038/ncomms10860Correction in: Nat Commun. 2016; 7: 11680. 
+PMCID: PMC4785229
+
+73:  RNA-Seq of the Caribbean reef-building coral Orbicella faveolata (Scleractinia-Merulinidae) under bleaching and disease stress expands models of coral innate immunity
+David A. Anderson, Marcus E. Walz, Ernesto Weil, Peter Tonellato, Matthew C. Smith
+PeerJ. 2016; 4: e1616.  Published online 2016 Feb 15. doi: 10.7717/peerj.1616
+PMCID: PMC4768675
+
+74:  Dimethylsulfoniopropionate, superoxide dismutase and glutathione as stress response indicators in three corals under short-term hyposalinity stress
+Stephanie G. Gardner, Daniel A. Nielsen, Olivier Laczka, Ronald Shimmon, Victor H. Beltran, Peter J. Ralph, Katherina Petrou
+Proc Biol Sci. 2016 Feb 10; 283(1824): 20152418.  doi: 10.1098/rspb.2015.2418
+PMCID: PMC4760162
+
+75:  Marine microbial communities of the Great Barrier Reef lagoon are influenced by riverine floodwaters and seasonal weather events
+Florent E. Angly, Candice Heath, Thomas C. Morgan, Hemerson Tonin, Virginia Rich, Britta Schaffelke, David G. Bourne, Gene W. Tyson
+PeerJ. 2016; 4: e1511.  Published online 2016 Jan 5. doi: 10.7717/peerj.1511
+PMCID: PMC4734448
+
+-- OLHAR
+
+76:  Cryptic effects of habitat declines: coral-associated fishes avoid coral-seaweed interactions due to visual and chemical cues
+Rohan M. Brooker, Simon J. Brandl, Danielle L. Dixson
+Sci Rep. 2016; 6: 18842.  Published online 2016 Jan 4. doi: 10.1038/srep18842
+PMCID: PMC4698739
+
+-- DESCARTAR
+
+77:  Imaging the uptake of nitrogen-fixing bacteria into larvae of the coral Acropora millepora
+Kimberley A Lema, Peta L Clode, Matt R Kilburn, Ruth Thornton, Bette L Willis, David G Bourne
+ISME J. 2016 Jul; 10(7): 1804–1808.  Published online 2015 Dec 22. doi: 10.1038/ismej.2015.229
+PMCID: PMC4918436
+
+78:  Spatial Homogeneity of Bacterial Communities Associated with the Surface Mucus Layer of the Reef-Building Coral Acropora palmata
+Dustin W. Kemp, Adam R. Rivers, Keri M. Kemp, Erin K. Lipp, James W. Porter, John P. Wares
+PLoS One. 2015; 10(12): e0143790.  Published online 2015 Dec 14. doi: 10.1371/journal.pone.0143790Correction in: PLoS One. 2016; 11(1): e0146987. 
+PMCID: PMC4682823
+
+79:  Impact of oil spills on coral reefs can be reduced by bioremediation using probiotic microbiota
+Henrique Fragoso ados Santos, Gustavo Adolpho Santos Duarte, Caio TavoraCoelho da Costa Rachid, Ricardo Moreira Chaloub, Emiliano Nicolas Calderon, Laura Fernandes de Barros Marangoni, Adalto Bianchini, Adriana Haddad Nudi, Flávia Lima do Carmo, Jan Dirk van Elsas, Alexandre Soares Rosado, Clovis Barreira e Castro, Raquel Silva Peixoto
+Sci Rep. 2015; 5: 18268.  Published online 2015 Dec 14. doi: 10.1038/srep18268
+PMCID: PMC4677405
+
+80:  Discovery of symbiotic nitrogen fixation and chemoautotrophy in cold-water corals
+Jack J. Middelburg, Christina E. Mueller, Bart Veuger, Ann I. Larsson, Armin Form, Dick van Oevelen
+Sci Rep. 2015; 5: 17962.  Published online 2015 Dec 8. doi: 10.1038/srep17962
+PMCID: PMC4672307
+
+81:  Limits to the thermal tolerance of corals adapted to a highly fluctuating, naturally extreme temperature environment
+Verena Schoepf, Michael Stat, James L. Falter, Malcolm T. McCulloch
+Sci Rep. 2015; 5: 17639.  Published online 2015 Dec 2. doi: 10.1038/srep17639
+PMCID: PMC4667274
+
+82:  Relative Pigment Composition and Remote Sensing Reflectance of Caribbean Shallow-Water Corals
+Juan L. Torres-Pérez, Liane S. Guild, Roy A. Armstrong, Jorge Corredor, Anabella Zuluaga-Montero, Ramón Polanco
+PLoS One. 2015; 10(11): e0143709.  Published online 2015 Nov 30. doi: 10.1371/journal.pone.0143709
+PMCID: PMC4664284
+
+83:  Functional significance of dinitrogen fixation in sustaining coral productivity under oligotrophic conditions
+Ulisse Cardini, Vanessa N. Bednarz, Malik S. Naumann, Nanne van Hoytema, Laura Rix, Rachel A. Foster, Mamoon M. D. Al-Rshaidat, Christian Wild
+Proc Biol Sci. 2015 Nov 7; 282(1818): 20152257.  doi: 10.1098/rspb.2015.2257
+PMCID: PMC4650168
+
+84:  Baseline coral disease surveys within three marine parks in Sabah, Borneo
+Jennifer Miller, Michael J. Sweet, Elizabeth Wood, John Bythell
+PeerJ. 2015; 3: e1391.  Published online 2015 Nov 3. doi: 10.7717/peerj.1391
+PMCID: PMC4699778
+
+85:  Diversity and distribution of Actinobacteria associated with reef coral Porites lutea
+Weiqi Kuang, Jie Li, Si Zhang, Lijuan Long
+Front Microbiol. 2015; 6: 1094.  Published online 2015 Oct 21. doi: 10.3389/fmicb.2015.01094
+PMCID: PMC4612714
+
+- OLHAR
+
+86:  Microbial diversity and activity in the Nematostella vectensis holobiont: insights from 16S rRNA gene sequencing, isolate genomes, and a pilot-scale survey of gene expression
+Jia Y. Har, Tim Helbig, Ju H. Lim, Samodha C. Fernando, Adam M. Reitzel, Kevin Penn, Janelle R. Thompson
+Front Microbiol. 2015; 6: 818.  Published online 2015 Sep 2. doi: 10.3389/fmicb.2015.00818
+PMCID: PMC4557100
+
+87:  Light microenvironment and single-cell gradients of carbon fixation in tissues of symbiont-bearing corals
+Daniel Wangpraseurt, Mathieu Pernice, Paul Guagliardo, Matt R Kilburn, Peta L Clode, Lubos Polerecky, Michael Kühl
+ISME J. 2016 Mar; 10(3): 788–792.  Published online 2015 Aug 4. doi: 10.1038/ismej.2015.133
+PMCID: PMC4817679
+
+88:  A Compartmental Comparison of Major Lipid Species in a Coral-Symbiodinium Endosymbiosis: Evidence that the Coral Host Regulates Lipogenesis of Its Cytosolic Lipid Bodies
+Hung-Kai Chen, Shin-Ni Song, Li-Hsueh Wang, Anderson B. Mayfield, Yi-Jyun Chen, Wan-Nan U. Chen, Chii-Shiarng Chen
+PLoS One. 2015; 10(7): e0132519.  Published online 2015 Jul 28. doi: 10.1371/journal.pone.0132519
+PMCID: PMC4517871
+
+89:  Chromerid genomes reveal the evolutionary path from photosynthetic algae to obligate intracellular parasites
+Yong H Woo, Hifzur Ansari, Thomas D Otto, Christen M Klinger, Martin Kolisko, Jan Michálek, Alka Saxena, Dhanasekaran Shanmugam, Annageldi Tayyrov, Alaguraj Veluchamy, Shahjahan Ali, Axel Bernal, Javier del Campo, Jaromír Cihlář, Pavel Flegontov, Sebastian G Gornik, Eva Hajdušková, Aleš Horák, Jan Janouškovec, Nicholas J Katris, Fred D Mast, Diego Miranda-Saavedra, Tobias Mourier, Raeece Naeem, Mridul Nair, Aswini K Panigrahi, Neil D Rawlings, Eriko Padron-Regalado, Abhinay Ramaprasad, Nadira Samad, Aleš Tomčala, Jon Wilkes, Daniel E Neafsey, Christian Doerig, Chris Bowler, Patrick J Keeling, David S Roos, Joel B Dacks, Thomas J Templeton, Ross F Waller, Julius Lukeš, Miroslav Oborník, Arnab Pain
+eLife. 2015; 4: e06974.  Published online 2015 Jul 15. doi: 10.7554/eLife.06974
+PMCID: PMC4501334
+
+90:  Microbiome structure of the fungid coral Ctenactis echinata aligns with environmental differences
+Cornelia Roder, Till Bayer, Manuel Aranda, Maren Kruse, Christian R. Voolstra
+Mol Ecol. 2015 Jul; 24(13): 3501–3511.  Published online 2015 Jun 19. doi: 10.1111/mec.13251
+PMCID: PMC4736464
+
+91:  Heritable differences in fitness-related traits among populations of the mustard hill coral, Porites astreoides
+C D Kenkel, S P Setta, M V Matz
+Heredity (Edinb) 2015 Dec; 115(6): 509–516.  Published online 2015 Jun 17. doi: 10.1038/hdy.2015.52
+PMCID: PMC4806898
+
+92:  The coral core microbiome identifies rare bacterial taxa as ubiquitous endosymbionts
+Tracy D Ainsworth, Lutz Krause, Thomas Bridge, Gergely Torda, Jean-Baptise Raina, Martha Zakrzewski, Ruth D Gates, Jacqueline L Padilla-Gamiño, Heather L Spalding, Celia Smith, Erika S Woolsey, David G Bourne, Pim Bongaerts, Ove Hoegh-Guldberg, William Leggat
+ISME J. 2015 Oct; 9(10): 2261–2274.  Published online 2015 Apr 17. doi: 10.1038/ismej.2015.39
+PMCID: PMC4579478
+
+- OLHAR
+
+93:  Threatened Caribbean Coral Is Able to Mitigate the Adverse Effects of Ocean Acidification on Calcification by Increasing Feeding Rate
+Erica K. Towle, Ian C. Enochs, Chris Langdon
+PLoS One. 2015; 10(4): e0123394.  Published online 2015 Apr 15. doi: 10.1371/journal.pone.0123394Correction in: PLoS One. 2015; 10(9): e0139398. 
+PMCID: PMC4398515
+
+94:  Habitat-specific environmental conditions primarily control the microbiomes of the coral Seriatopora hystrix
+Olga Pantos, Pim Bongaerts, Paul G Dennis, Gene W Tyson, Ove Hoegh-Guldberg
+ISME J. 2015 Sep; 9(9): 1916–1927.  Published online 2015 Feb 10. doi: 10.1038/ismej.2015.3
+PMCID: PMC4542040
+
+95:  Chemotaxis by natural populations of coral reef bacteria
+Jessica Tout, Thomas C Jeffries, Katherina Petrou, Gene W Tyson, Nicole S Webster, Melissa Garren, Roman Stocker, Peter J Ralph, Justin R Seymour
+ISME J. 2015 Aug; 9(8): 1764–1777.  Published online 2015 Jan 23. doi: 10.1038/ismej.2014.261
+PMCID: PMC4511932
+
+96:  The reef-building coral Siderastrea siderea exhibits parabolic responses to ocean acidification and warming
+Karl D. Castillo, Justin B. Ries, John F. Bruno, Isaac T. Westfield
+Proc Biol Sci. 2014 Dec 22; 281(1797): 20141856.  doi: 10.1098/rspb.2014.1856
+PMCID: PMC4240989
+
+97:  Large Scale Patterns of Antimicrofouling Defenses in the Hard Coral Pocillopora verrucosa in an Environmental Gradient along the Saudi Arabian Coast of the Red Sea
+Martin Wahl, Abdulmohsin Al Sofyani, Mahasweta Saha, Inken Kruse, Mark Lenz, Yvonne Sawall
+PLoS One. 2014; 9(12): e106573.  Published online 2014 Dec 8. doi: 10.1371/journal.pone.0106573
+PMCID: PMC4259301
+
+98:  Compartment-specific transcriptomics in a reef-building coral exposed to elevated temperatures
+Anderson B Mayfield, Yu-Bin Wang, Chii-Shiarng Chen, Chung-Yen Lin, Shu-Hwa Chen
+Mol Ecol. 2014 Dec; 23(23): 5816–5830.  Published online 2014 Nov 27. doi: 10.1111/mec.12982
+PMCID: PMC4265203
+
+99:  Application of 1H-NMR Metabolomic Profiling for Reef-Building Corals
+Emilia M. Sogin, Paul Anderson, Philip Williams, Chii-Shiarng Chen, Ruth D. Gates
+PLoS One. 2014; 9(10): e111274.  Published online 2014 Oct 29. doi: 10.1371/journal.pone.0111274
+PMCID: PMC4213140
+
+100:  Thermal Stress Triggers Broad Pocillopora damicornis Transcriptomic Remodeling, while Vibrio coralliilyticus Infection Induces a More Targeted Immuno-Suppression Response
+Jeremie Vidal-Dupiol, Nolwenn M. Dheilly, Rodolfo Rondon, Christoph Grunau, Céline Cosseau, Kristina M. Smith, Michael Freitag, Mehdi Adjeroud, Guillaume Mitta
+PLoS One. 2014; 9(9): e107672.  Published online 2014 Sep 26. doi: 10.1371/journal.pone.0107672
+PMCID: PMC4178034
+
