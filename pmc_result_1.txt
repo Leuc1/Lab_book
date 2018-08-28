@@ -51,6 +51,20 @@ PMCID: PMC3067239
 Lin Cai, Guowei Zhou, Ren-Mao Tian, Haoya Tong, Weipeng Zhang, Jin Sun, Wei Ding, Yue Him Wong, James Y. Xie, Jian-Wen Qiu, Sheng Liu, Hui Huang, Pei-Yuan Qian
 Sci Rep. 2017; 7: 9320.  Published online 2017 Aug 24. doi: 10.1038/s41598-017-09032-4
 PMCID: PMC5571212
+SRR2937345
+SRR2937346
+SRR2937347
+SRR2937348
+SRR2937349
+SRR2937350
+SRR2937351
+SRR2937352
+SRR2937353
+SRR2937354
+SRR2937355
+SRR2937356
+Espécie: Platygyra carnosa
+Aparentemente saudável
 
 - OLHAR
 
@@ -59,7 +73,7 @@ Yan Wei Lim, Daniel A. Cuevas, Genivaldo Gueiros Z. Silva, Kristen Aguinaldo, El
 PeerJ. 2014; 2: e520.  Published online 2014 Aug 19. doi: 10.7717/peerj.520
 PMCID: PMC4145072
 
-- OLHAR
+- OLHAR - No SRA, não tem diferenciando qual metagenoma é de coral, de alga, pode levar tempo para ter certeza. O artigo também não relata a espécie de coral da qual foram feitas as análises. Pedir ajuda: ION Torrent é um método apropriado?
 
 10:  Turbulence-driven shifts in holobionts and planktonic microbial assemblages in St. Peter and St. Paul Archipelago, Mid-Atlantic Ridge, Brazil
 Ana Paula B. Moreira, Pedro M. Meirelles, Eidy de O. Santos, Gilberto M. Amado-Filho, Ronaldo B. Francini-Filho, Cristiane C. Thompson, Fabiano L. Thompson
