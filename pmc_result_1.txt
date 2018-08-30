@@ -107,7 +107,7 @@ Jeroen A. J. M. van de Water, Denis Allemand, Christine Ferrier-Pagès
 Microbiome. 2018; 6: 64.  Published online 2018 Apr 2. doi: 10.1186/s40168-018-0431-6
 PMCID: PMC5880021
 
-- OLHAR
+- Artigo de revisão
 
 16:  Inter-domain microbial diversity within the coral holobiont Siderastrea siderea from two depth habitats
 Guido Bonthond, Daniel G. Merselis, Katherine E. Dougan, Trevor Graff, William Todd, James W. Fourqurean, Mauricio Rodriguez-Lanetty
@@ -126,7 +126,7 @@ Claudia Pogoreutz, Nils Rädecker, Anny Cárdenas, Astrid Gärdes, Christian Wil
 Ecol Evol. 2018 Feb; 8(4): 2240–2252.  Published online 2018 Jan 25. doi: 10.1002/ece3.3830
 PMCID: PMC5817147
 
-- OLHAR
+- AMPLICON
 
 19:  Specific plasmid patterns and high rates of bacterial co‐occurrence within the coral holobiont
 Deborah C. A. Leite, Joana F. Salles, Emiliano N. Calderon, Jan D. van Elsas, Raquel S. Peixoto
@@ -174,7 +174,7 @@ Koty H. Sharp, Zoe A. Pratte, Allison H. Kerwin, Randi D. Rotjan, Frank J. Stewa
 Microbiome. 2017; 5: 120.  Published online 2017 Sep 15. doi: 10.1186/s40168-017-0329-8
 PMCID: PMC5603060
 
--- OLHAR
+-- DESCARTAR - 16s
 
 27:  De novo metatranscriptome assembly and coral gene expression profile of Montipora capitata with growth anomaly
 Monika Frazier, Martin Helmkampf, M. Renee Bellinger, Scott M. Geib, Misaki Takabayashi
@@ -193,14 +193,14 @@ Seonock Woo, Shan-Hua Yang, Hsing-Ju Chen, Yu-Fang Tseng, Sung-Jin Hwang, Stepha
 PLoS One. 2017; 12(8): e0183663.  Published online 2017 Aug 31. doi: 10.1371/journal.pone.0183663
 PMCID: PMC5578639
 
--- OLHAR
+-- "High-throughput 454 pyrosequencing of the hypervariable V1 to V4 regions of bacterial 16S ribosomal RNA "  -> PCR. DESCARTAR
 
 30:  The microbial biosphere of the coral Acropora cervicornis in Northeastern Puerto Rico
 Filipa Godoy-Vitorino, Claudia P. Ruiz-Diaz, Abigail Rivera-Seda, Juan S. Ramírez-Lugo, Carlos Toledo-Hernández
 PeerJ. 2017; 5: e3717.  Published online 2017 Aug 29. doi: 10.7717/peerj.3717
 PMCID: PMC5580386
 
-- OLHAR
+- "We characterized the microbial communities by sequencing the 16S rRNA gene region V4 with the Illumina platform." -> 16s. DESCARTAR
 
 31:  Association of coral algal symbionts with a diverse viral community responsive to heat shock
 Jan D. Brüwer, Shobhit Agrawal, Yi Jin Liew, Manuel Aranda, Christian R. Voolstra
@@ -330,7 +330,7 @@ Amy Apprill, Laura G. Weber, Alyson E. Santoro
 mSystems. 2016 Sep-Oct; 1(5): e00143-16.  Published online 2016 Oct 25. doi: 10.1128/mSystems.00143-16
 PMCID: PMC5080407
 
-- OLHAR
+- DESCARTAR; UTILIZOU 16s; RESERVAR PARA LEITURA
 
 55:  In situ visualization of bacterial populations in coral tissues: pitfalls and solutions
 Naohisa Wada, Frederic J. Pollock, Bette L. Willis, Tracy Ainsworth, Nobuhiro Mano, David G. Bourne
@@ -382,7 +382,7 @@ Veronica Robertson, Brad Haltli, Erin P. McCauley, David P. Overy, Russell G. Ke
 Microorganisms. 2016 Sep; 4(3): 23.  Published online 2016 Jul 5. doi: 10.3390/microorganisms4030023
 PMCID: PMC5039583
 
-- OLHAR
+- DESCARTAR; 16s
 
 65:  Cell proliferation and migration during early development of a symbiotic scleractinian coral
 Agathe Lecointe, Isabelle Domart-Coulon, Alain Paris, Anders Meibom
@@ -472,6 +472,8 @@ Jack J. Middelburg, Christina E. Mueller, Bart Veuger, Ann I. Larsson, Armin For
 Sci Rep. 2015; 5: 17962.  Published online 2015 Dec 8. doi: 10.1038/srep17962
 PMCID: PMC4672307
 
+- DESCARATAR NÃO FEZ METAGENOMA
+
 81:  Limits to the thermal tolerance of corals adapted to a highly fluctuating, naturally extreme temperature environment
 Verena Schoepf, Michael Stat, James L. Falter, Malcolm T. McCulloch
 Sci Rep. 2015; 5: 17639.  Published online 2015 Dec 2. doi: 10.1038/srep17639
@@ -492,17 +494,21 @@ Jennifer Miller, Michael J. Sweet, Elizabeth Wood, John Bythell
 PeerJ. 2015; 3: e1391.  Published online 2015 Nov 3. doi: 10.7717/peerj.1391
 PMCID: PMC4699778
 
+- DESCARTAR NÃO FIZERAM METAGENOMA
+
 85:  Diversity and distribution of Actinobacteria associated with reef coral Porites lutea
 Weiqi Kuang, Jie Li, Si Zhang, Lijuan Long
 Front Microbiol. 2015; 6: 1094.  Published online 2015 Oct 21. doi: 10.3389/fmicb.2015.01094
 PMCID: PMC4612714
 
-- OLHAR
+- 16S DESCARTAR
 
 86:  Microbial diversity and activity in the Nematostella vectensis holobiont: insights from 16S rRNA gene sequencing, isolate genomes, and a pilot-scale survey of gene expression
 Jia Y. Har, Tim Helbig, Ju H. Lim, Samodha C. Fernando, Adam M. Reitzel, Kevin Penn, Janelle R. Thompson
 Front Microbiol. 2015; 6: 818.  Published online 2015 Sep 2. doi: 10.3389/fmicb.2015.00818
 PMCID: PMC4557100
+
+- DESCARTAR, NÃO É CORAL
 
 87:  Light microenvironment and single-cell gradients of carbon fixation in tissues of symbiont-bearing corals
 Daniel Wangpraseurt, Mathieu Pernice, Paul Guagliardo, Matt R Kilburn, Peta L Clode, Lubos Polerecky, Michael Kühl
@@ -523,6 +529,8 @@ PMCID: PMC4501334
 Cornelia Roder, Till Bayer, Manuel Aranda, Maren Kruse, Christian R. Voolstra
 Mol Ecol. 2015 Jul; 24(13): 3501–3511.  Published online 2015 Jun 19. doi: 10.1111/mec.13251
 PMCID: PMC4736464
+
+-DESCARTAR 16s
 
 91:  Heritable differences in fitness-related traits among populations of the mustard hill coral, Porites astreoides
 C D Kenkel, S P Setta, M V Matz
@@ -555,6 +563,8 @@ PMCID: PMC4511932
 Karl D. Castillo, Justin B. Ries, John F. Bruno, Isaac T. Westfield
 Proc Biol Sci. 2014 Dec 22; 281(1797): 20141856.  doi: 10.1098/rspb.2014.1856
 PMCID: PMC4240989
+
+- DESCARTAR; NÃO FEZ METAGENOMA
 
 97:  Large Scale Patterns of Antimicrofouling Defenses in the Hard Coral Pocillopora verrucosa in an Environmental Gradient along the Saudi Arabian Coast of the Red Sea
 Martin Wahl, Abdulmohsin Al Sofyani, Mahasweta Saha, Inken Kruse, Mark Lenz, Yvonne Sawall
