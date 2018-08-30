@@ -252,12 +252,14 @@ Nicole S Webster, Thorsten B H Reusch
 ISME J. 2017 Oct; 11(10): 2167–2174.  Published online 2017 May 16. doi: 10.1038/ismej.2017.66
 PMCID: PMC5607359
 
--- OLHAR 
+-- RESERVAR PARA LEITURA; REVISÃO. 
 
 41:  Phosphate deficiency promotes coral bleaching and is reflected by the ultrastructure of symbiotic dinoflagellates
 Sabrina Rosset, Jörg Wiedenmann, Adam J. Reed, Cecilia D'Angelo
 Mar Pollut Bull. 2017 May 15; 118(1-2): 180–187.  doi: 10.1016/j.marpolbul.2017.02.044
 PMCID: PMC5441187
+
+- DESCARTAR; NÃO FEZ METAGENOMA
 
 42:  Site-specific variation in gene expression from Symbiodinium spp. associated with offshore and inshore Porites astreoides in the lower Florida Keys is lost with bleaching and disease stress
 Briana Hauff Salas, Joshua A. Haslun, Kevin B. Strychar, Peggy H. Ostrom, James M. Cervino
@@ -269,7 +271,7 @@ Raquel S. Peixoto, Phillipe M. Rosado, Deborah Catharine de Assis Leite, Alexand
 Front Microbiol. 2017; 8: 341.  Published online 2017 Mar 7. doi: 10.3389/fmicb.2017.00341
 PMCID: PMC5339234
 
--- OLHAR
+-- RESERVAR PARA LEITURA
 
 44:  Transcriptomic Analysis of Thermally Stressed Symbiodinium Reveals Differential Expression of Stress and Metabolism Genes
 Sarah L. Gierz, Sylvain Forêt, William Leggat
@@ -286,7 +288,7 @@ Maren Ziegler, Francois O. Seneca, Lauren K. Yum, Stephen R. Palumbi, Christian 
 Nat Commun. 2017; 8: 14213.  Published online 2017 Feb 10. doi: 10.1038/ncomms14213
 PMCID: PMC5309854
 
-- OLHAR
+- DESCARTAR; 16s
 
 47:  Broadcast Spawning Coral Mussismilia hispida Can Vertically Transfer its Associated Bacterial Core
 Deborah C. A. Leite, Pedro Leão, Amana G. Garrido, Ulysses Lins, Henrique F. Santos, Débora O. Pires, Clovis B. Castro, Jan D. van Elsas, Carla Zilberberg, Alexandre S. Rosado, Raquel S. Peixoto
@@ -484,6 +486,8 @@ Juan L. Torres-Pérez, Liane S. Guild, Roy A. Armstrong, Jorge Corredor, Anabell
 PLoS One. 2015; 10(11): e0143709.  Published online 2015 Nov 30. doi: 10.1371/journal.pone.0143709
 PMCID: PMC4664284
 
+- DESCARTAR; PELO TÍTULO, JÁ PUDE PERCEBER QUE NÃO SE TRADA DE METAGENOMA OU COMUNIDADE MICROBIANA
+
 83:  Functional significance of dinitrogen fixation in sustaining coral productivity under oligotrophic conditions
 Ulisse Cardini, Vanessa N. Bednarz, Malik S. Naumann, Nanne van Hoytema, Laura Rix, Rachel A. Foster, Mamoon M. D. Al-Rshaidat, Christian Wild
 Proc Biol Sci. 2015 Nov 7; 282(1818): 20152257.  doi: 10.1098/rspb.2015.2257
@@ -542,7 +546,7 @@ Tracy D Ainsworth, Lutz Krause, Thomas Bridge, Gergely Torda, Jean-Baptise Raina
 ISME J. 2015 Oct; 9(10): 2261–2274.  Published online 2015 Apr 17. doi: 10.1038/ismej.2015.39
 PMCID: PMC4579478
 
-- OLHAR
+- 16S; RESERVAR PARA LEITURA
 
 93:  Threatened Caribbean Coral Is Able to Mitigate the Adverse Effects of Ocean Acidification on Calcification by Increasing Feeding Rate
 Erica K. Towle, Ian C. Enochs, Chris Langdon
@@ -553,6 +557,8 @@ PMCID: PMC4398515
 Olga Pantos, Pim Bongaerts, Paul G Dennis, Gene W Tyson, Ove Hoegh-Guldberg
 ISME J. 2015 Sep; 9(9): 1916–1927.  Published online 2015 Feb 10. doi: 10.1038/ismej.2015.3
 PMCID: PMC4542040
+
+- DESCARTAR; 16s
 
 95:  Chemotaxis by natural populations of coral reef bacteria
 Jessica Tout, Thomas C Jeffries, Katherina Petrou, Gene W Tyson, Nicole S Webster, Melissa Garren, Roman Stocker, Peter J Ralph, Justin R Seymour
