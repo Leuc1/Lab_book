@@ -1,4 +1,4 @@
-  \documentclass[12pt,a4paper]{report}
+ \documentclass[12pt, a4paper]{report}
  \usepackage[dvipdfmx]{graphicx}
  \usepackage{listings}
  \usepackage[pdftex]{hyperref}
@@ -13,11 +13,12 @@
  \usepackage{longtable}
  \usepackage{tcolorbox}
 \usepackage{longtable}
+\usepackage[brazil]{babel}
 
  \newcommand\tab[1][0.5cm]{\hspace*{#1}}
  \newcommand{\command}[1]{\textcolor{blue}{#1}}
- \newcommand{\titulo}{{\bf Lab Book}\\{\it project title}\\Author}
- \newcommand{\autor}{Advisor\\Institute}
+ \newcommand{\titulo}{{\bf Lab Book}\\{\it Cientific Iniciation - Coral Metagenomes}\\Letícia Costa Cavalcante}
+ \newcommand{\autor}{Pedro Meirelles\\Institute of Biology - UFBA}
 
 
 \title{\titulo}
@@ -142,7 +143,7 @@ The list of articles used until now is:
 
 \clearpage
 \newpage
-The list os correspondent phyla and articles is above:\\
+The list os correspondent phyla and articles is above\:
 
 \begin{center}
 \begin{longtable}{ccc}
@@ -240,6 +241,10 @@ The list os correspondent phyla and articles is above:\\
 10.1038/nature12352	&	Candidatus Nanohaloarchaeota	\\
 10.1038/ncomms13219	&	Candidatus Eisenbacteria	\\
 10.1186/s40168-015-0077-6	&	candidate division WOR-3	\\
+10.1038/nature21031 &  Lokiarchaeota \\
+10.1038/nature21031 & Odinarchaeota \\
+10.1038/nature21031 & Heimdallarchaeota \\
+
  \hline
   \end{longtable}
 \end{center}
@@ -248,89 +253,383 @@ The list os correspondent phyla and articles is above:\\
 
 \subsection{Bibliographic search for metagenomes}
 The reserarch for coral metagenomes started last year. The actual list is:
-\begin{longtable}
+
+\begin{center}
+\begin{longtable}{c}
+\caption{table 1}\\
 \hline
-mgm4440319.3	\\
-mgm4440370.3	\\
-mgm4440371.3	\\
-mgm4440372.3	\\
-mgm4440373.3	\\
-mgm4440374.3	\\
-mgm4440375.3	\\
-mgm4440376.3	\\
-mgm4440377.3	\\
-mgm4440378.3	\\
-mgm4440379.3	\\
-mgm4440380.3	\\
-mgm4440381.3	\\
-mgm4445755.3	\\
-mgm4445756.3	\\
-mgm4480739.3	\\
-mgm4480740.3	\\
-mgm4480741.3	\\
-mgm4480748.3	\\
-mgm4480750.3	\\
-mgm4487909.3	\\
-mgm4487910.3	\\
-mgm4487911.3	\\
-mgm4516541.3	\\
-mgm4516694.3	\\
-mgm4653307.3	\\
-mgm4694757.3	\\
-mgm4694758.3	\\
-mgm4694759.3	\\
-mgm4694760.3	\\
-SRR1275409	\\
-SRR1275449	\\
-SRR1283349	\\
-SRR1283371	\\
-SRR1283377	\\
-SRR1283433	\\
-SRR1283435	\\
-SRR1283437	\\
-SRR1286223	\\
-SRR1286225	\\
-SRR1286226	\\
-SRR1286227	\\
-SRR1286229	\\
-SRR1286232	\\
-SRR1822488	\\
-SRR1822516	\\
-SRR3499156	\\
-SRR3569370	\\
-SRR3694369	\\
-SRR3694370	\\
-SRR3694371	\\
-SRR3694372	\\
-SRR5215424	\\
-SRR5215454	\\
-SRR5215455	\\
-SRR5215456	\\
-SRR5215457	\\
-SRR5215458	\\
-SRR5215462	\\
-SRR5605611	\\
+  IDs\\
 \hline
-\end{longtable}
+mgm4440319.3\\
+mgm4440370.3\\
+mgm4440371.3\\
+mgm4440372.3\\
+mgm4440373.3\\
+mgm4440374.3\\
+mgm4440375.3\\
+mgm4440376.3\\
+mgm4440377.3\\
+mgm4440378.3\\
+mgm4440379.3\\
+mgm4440380.3\\
+mgm4440381.3\\
+mgm4445755.3\\
+mgm4445756.3\\
+mgm4480739.3\\
+mgm4480740.3\\
+mgm4480741.3\\
+mgm4480748.3\\
+mgm4480750.3\\
+mgm4487909.3\\
+mgm4487910.3\\
+mgm4487911.3\\
+mgm4516541.3\\
+mgm4516694.3\\
+mgm4653307.3\\
+mgm4694757.3\\
+mgm4694758.3\\
+mgm4694759.3\\
+mgm4694760.3\\
+SRR1275409\\
+SRR1275449\\
+SRR1283349\\
+SRR1283371\\
+SRR1283377\\
+SRR1283433\\
+SRR1283435\\
+SRR1283437\\
+SRR1286223\\
+SRR1286225\\
+SRR1286226\\
+SRR1286227\\
+SRR1286229\\
+SRR1286232\\
+SRR1822488\\
+SRR1822516\\
+SRR3499156\\
+SRR3569370\\
+SRR3694369\\
+SRR3694370\\
+SRR3694371\\
+SRR3694372\\
+SRR5215424\\
+SRR5215454\\
+SRR5215455\\
+SRR5215456\\
+SRR5215457\\
+SRR5215458\\
+SRR5215462\\
+SRR5605611\\
+ \end{longtable}
+\end{center}
+
 
 I found these metagenomes in the article: "Metagenomic analysis reveals a green sulfur bacterium as a potential coral symbiont"
-SRR2937345
-SRR2937346
-SRR2937347
-SRR2937348
-SRR2937349
-SRR2937350
-SRR2937351
-SRR2937352
-SRR2937353
-SRR2937354
-SRR2937355
-SRR2937356
+
+\begin{center}
+\begin{longtable}{c}
+SRR2937345\\
+SRR2937346\\
+SRR2937347\\
+SRR2937348\\
+SRR2937349\\
+SRR2937350\\
+SRR2937351\\
+SRR2937352\\
+SRR2937353\\
+SRR2937354\\
+SRR2937355\\
+SRR2937356\\
+ \end{longtable}
+\end{center}
+
+
 Espécie: Platygyra carnosa
 Healthy
 
+I found other metagenomes of coral from article\: doi \"10.3389/fmars.2018.00101\"
 I uptated the file pmc\_results\_1.txt in the repository Lab\_book. I continue to look the articles in results. 
-Pesquisado por black band disease consortium, encontrei o artigo\: Unraveling the microbial processes of black band disease in corals through integrated genomics, com as seguintes amostras\: SRR3569370 
+Estou atualizando a lista pmc\_results\_2.txt
+Na pesquisa bibliografica\, olhando o título ja me faz perceber se devo descartar e olhar. E olho aqueles que marquei para olhar. Ao olhar, leio o resumo procurando por metodos.  E vou para os metodos do artigo para checar.
+Checking the sizes of metagenomes files. The mg-rast metagenomes base have 72 Gb. 
+
+The pipeline of bioinformatic is different for MG\-RAST and NCBI.
+The size of NCBI should be superestimated, because the ncbi says the file size of sra file, but most of them is paired-end metagenomes, so when we apply fastq-dump, its generate two files fastq. 
+
+\chapter{Download of metagenomes}
+\section{Download of mg-rast files} 
+Espaço no SDU
+Disponível para o ebiodiv: 10Tb
+Bia: 5Tb
+Rilquer: 2T
+Remanescente: 3Tb
+
+\begin{tcolorbox}[width=6.3in]
+ \scriptsize 
+ - Working folder: \textit{scratch/ebiodiv/leticia.cavalcante/mg\_rast}
+ \end{tcolorbox}
+
+I insert the list of metagenomes in the files before using it. After this, I used the following command line:
+
+\begin{tcolorbox}[width=6.3in]
+ \scriptsize 
+ - Command: \textit{nohup bash download\_curl\_mgrast\_corais.sh > download\_curl\_mgrast\_corais.nohupout \&}
+ \end{tcolorbox}
+
+\section{Download of NCBI metagenomes}
+I use the script download\_sra\_wget\_corais.sh, libs folder. I used the wget, because the curl is getting some problem in SDU.
+I noted that the size of the files is different:
+
+
+\begin{table}[!htb]
+  \caption{Comparing sizes of files}
+  \centering
+  \begin{tabular}{ccc}
+  \hline 
+       ID of metagenome&the size in NCBI site&size of file in SDU\\
+  \hline
+	SRR6785058&317.00 Mb&318M\\
+	SRR6785057&364.00 Mb&365M\\
+	SRR6785056&560.00 Mb&561M\\
+	SRR6785055&624.00 Mb&625M\\
+  \hline
+  \end{tabular}
+  \label{table2}
+ \end{table}
+
+So I checked the others files:
+
+\begin{table}[!htb]
+  \caption{Comparing sizes of files 2}
+  \centering
+  \begin{tabular}{cccc}
+  \hline 
+       ID of metagenome&the size in NCBI site&size of file in SDU&size of cleanned file\\
+  \hline
+	mgm4440319.3.299.1&30M&29.1 MB&28M\\
+	mgm4440370.3.299.1&3,6M&3.5 MB&3,5M\\
+	mgm4440371.3.299.1&5,0M&4.9 MB&4,8M\\
+	mgm4440372.3.299.1&6,0M&6.0 MB&5,9M\\
+	mgm4440373.3.299.1&6,2M&6.1 MB&6,0M\\
+	mgm4440374.3.299.1&4,1M&4.1 MB&4,0M\\
+	mgm4440375.3.299.1&3,8M&3.7 MB&3,7M\\
+	mgm4440376.3.299.1&3,9M&3.9 MB&3,8M\\
+	mgm4440377.3.299.1&3,5M&3.5 MB&3,4M\\
+	mgm4440378.3.299.1&6,2M&6.2 MB&6,1M\\
+	mgm4440379.3.299.1&7,0M&7.0 MB&6,9M\\
+	mgm4440380.3.299.1&5,2M&5.2 MB&5,2M\\
+	mgm4440381.3.299.1&6,4M&6.4 MB&6,4M\\
+	mgm4445755.3.299.1&158M&157.0 MB&155M\\
+	mgm4445756.3.299.1&150M&149.9 MB&147M\\
+	mgm4480739.3.299.1&8,0M&7.9 MB&7,9M\\
+	mgm4480740.3.299.1&12M&11.3 MB&12M\\
+	mgm4480741.3.299.1&8,5M&8.5 MB&8,5M\\
+	mgm4480742.3.299.1&10M&12.9 MB&10M\\
+	mgm4480743.3.299.1&15M&10.0 MB&14M\\
+	mgm4484839.3.299.1&13M&14.1 MB&13M\\
+	mgm4487909.3.299.1&17M&16.5 MB&17M\\
+	mgm4487910.3.299.1&36M&35.6 MB&36M\\
+	mgm4487911.3.299.1&12M&11.4 MB&12M\\
+	mgm4516541.3.299.1&161M&160.2 MB&163M\\
+	mgm4516694.3.299.1&193M&192.9 MB&193M\\
+	mgm4653307.3.299.1&17M&16.0 MB&17M\\
+	mgm4694757.3.299.1&1,9G&1.8 GB&1,9G\\
+	mgm4694758.3.299.1&2,2G&2.1 GB&2,2G\\
+	mgm4694759.3.299.1&1,7G&1.7 GB&1,8G\\
+	mgm4694760.3.299.1&592M&1.6 GB&597M\\
+  \hline
+  \end{tabular}
+  \label{table3}
+ \end{table}
+
+\chapter{Format Conversion of NCBI metagenomes}
+ 
+\chapter{Quality filter}
+This step is only required for NCBI metagenomes. The command line was proposed by Bia:
+\begin{itemize}
+\item trim\_qual\_left 25
+\item trim\_qual\_right 25
+\end{itemize}
+
+
+\chapter{Uniformity filter (size and N bases)}
+\section{Command line}
+Parameters:
+\begin{itemize}
+\item min\_len 80 
+\item ns\_max\_p 2 
+\item out\_format 1
+\end{itemize}
+
+\begin{tcolorbox}[width=6.3in]
+ \scriptsize 
+ - Command: \textit{nohup bash slurm\_job\_prinseq\_single\_corais\_FASTA.bash \&> slurm\_prinseq\_corais.out \&}
+ \end{tcolorbox}
+
+Deu erro o job\:
+nohup: ignorando entrada
+
+\begin{tcolorbox}[width=6.3in]
+ \scriptsize 
+Location of PRINSEQ dir and scripts: /scratch/app/prinseq/0.20.4/bin
+srun\: Warning: can't run 1 processes on 21 nodes, setting nnodes to 1
+srun\: Requested partition configuration not available now
+srun\: job 212425 queued and waiting for resources
+srun\: Force Terminated job 212425
+srun\: Job has been cancelled
+srun\: error: Unable to allocate resources: No error
+srun\: Warning: can't run 1 processes on 21 nodes, setting nnodes to 1
+srun\: Requested partition configuration not available now
+srun\: job 212428 queued and waiting for resources
+srun\: Force Terminated job 212428
+srun\: Job has been cancelled
+\end{tcolorbox}
+
+
+ \begin{figure}
+  \centering 
+  \includegraphics[width=1.0\textwidth]{figures/Captura-2018-09-10 09-35-27.png}
+  \caption{Erro no job no SDU}
+  \label{texworks} 
+ \end{figure}
+
+Ressubmeti o job com:
+
+\begin{tcolorbox}[width=6.3in]
+- Command: \textit{sbatch slurm\_job\_prinseq\_single\_corais\_FASTA.bash}
+\end{tcolorbox}
+
+
+\chapter{Profilling metagenomes}
+\section{Mg-Rast metagenomes}
+I used the following script in the following folder:
+
+\begin{tcolorbox}[width=6.3in]
+- Folder: \textit{scratch/ebiodiv/leticia.cavalcante/mg\_rast/filtered\_prinseq\_good}\\
+- Command: \textit{sbatch slurm\_job\_kraken2\_corais.sh}
+\end{tcolorbox}
+
+The job doesn't work, o erro aparece na proxima figura
+
+Ressubmeti o job, modificando a localizacao da DB do Kraken para a home do Rilquer. Numero do job: 216410
+ \begin{figure}
+  \centering 
+  \includegraphics[width=1.0\textwidth]{figures/Captura2.png}
+  \caption{2o erro no job no SDU}
+  \label{texworks} 
+ \end{figure} 
+
+Esse problema foi resolvido modificando o endereco da base para o scratch do Rilquer.
+
+\begin{figure}
+  \centering 
+  \includegraphics[width=0.9\textwidth]{figures/workflow-aquifers-reviewed_03-09-18.pdf}
+  \caption{Pipeline of taxonomic annotation}
+  \label{texworks} 
+  \end{figure}
+
+\section{Kraken-biom}
+Pasta onde está instalado kraken-biom: \\
+/home/leticia/.local/bin
+
+Para executar:
+python2.7 .\/kraken-biom \\
+
+Executar o help do kraken-biom: \\
+kraken-biom -h \\
+
+Abrir no vim o arquivo .bashrc e inserir: \\
+export PATH=\$PATH:/home/leticia/.local/bin/kraken-biom \\
+
+Executar o help do kraken-biom: \\
+kraken-biom -h \\
+
+ 
+Eu fiz um teste da etapa "Creation of BIOM table of abundances" da pipeline da bia com os seguintes passos:
+Na pasta\: 
+ /home/leticia/Documentos/libs/leticia\_profiling\_metagenomes: 
+
+\begin{itemize}
+\item kraken-biom selected\_file -o table.biom --max D --min P 
+\item biom convert -i table.biom -o table.from\_biom\_with\_taxonomy.txt --to-tsv --header-key taxonomy 
+\item perl filterRank.pl \-\-input table.from\_biom\_with\_taxonomy.txt --rank p > abundance.matrix 
+\end{itemize}
+
+\section{Teste com o kraken no scratch}
+Linha de teste: \\
+perl selectGroups.pl \-\-input mgm4440370\_prinseq\_good\_SiDP.fasta\_kraken.report --file\_groups groups.txt > selected\_file
+
+
+
+\begin{tcolorbox}[width=6.3in]
+- First Command: \textit{sbatch slurm\_job\_kraken2\_corais.sh}\\
+- Second Command: \textit{\\
+kraken2 --db /prj/ebiodiv/rilquer.silva/Serrapilheira \\
+/Kraken2\_custom\_DB/ mgm4440370\_prinseq\_good\_SiDP.fasta \\
+--output mgm4440370\_prinseq\_good\_SiDP.fasta\_kraken.profiled \\
+--use-names --report mgm4440370\_prinseq\_good\_SiDP.fasta\_kraken.report}
+\end{tcolorbox}
+
+Ja testei o comando acima na home do SDU e agora no scratch
+
+\chapter{Functional annotation of metagenomes}
+\begin{figure}
+  \centering 
+  \includegraphics[width=0.7\textwidth]{figures/pipeline_functional.jpg}
+  \caption{Pipeline of functional annotation}
+  \label{texworks} 
+  \end{figure}
+
+
+\chapter{references}
+Articles list:
+\begin{itemize}
+\item 10.1371/journal.pone.0071301: Relata resultados que eu acreditava ter sido a primeira a encontrar
+\item 10.1038/nature14486: reconstruction of microorganism's genomes we use
+\item 10.1038/nmicrobiol.2016.48: three of life, including the Candidate Phyla Radiation
+\item 10.1146/annurev.micro.57.030502.090759: speaks about the uncultured majority of microorganisms
+\item  10.1038/ismej.2016.174: revision of rare biosphere
+\item 10.1038/nrmicro3400: another revision of rare biosphere
+\item 10.1126/science.1224041: metabolic activities of Candidatus Parcubacteria, one of super-phyla of CPR
+\item 10.1128/MMBR.00009-08: Revision of bioinformatic methods and steps for metagenomic
+\item 10.1186/s40168-018-0428-1: Sponge as holobiont. Note: This article has a important information about microbial ecology: 
+"Network and modeling analyses aim to disentangle the strength and nature (positive, negative, or neutral) of the interactions and predict their dynamics. Bacteria-bacteria network analysis of the core microbiota in different sponge species has revealed a low connective network with very few strong and many weak unidirectional interactions (i.e., amensalism [−/0] and commensalism [+/0] prevailed over cooperation [+/+] and competition [−/−]. These findings are consistent with mathematical models that predict that weak and non-cooperative interactions help to stabilize highly diverse microbial communities, whereas cooperation yields instability in the long term by fueling positive feedbacks"
+\item 10.1016/j.tim.2009.09.004: Microbial disease and the coral holobiont
+\item 10.3389/fmicb.2017.00618: Comparative Metagenomics of the Polymicrobial Black Band Disease of Corals
+\item 10.1038/nrmicro1643: The role of ecological theory in microbial ecology
+\item 10.1038/nrmicro3218: Explaining microbial genomic diversity in light of evolutionary ecology
+\item 10.1111/j.1462-2920.2009.01935.x: Metagenomic analysis of stressed coral holobionts
+\item 10.1038/nature06810: Functional metagenomic profiling of nine biomes
+\item 10.3389/fcimb.2014.00176: Microbes in the coral holobiont: partners through evolution, development, and ecological interactions
+\item 10.1038/ismej.2015.39: The coral core microbiome identifies rare bacterial
+taxa as ubiquitous endosymbionts
+\item 10.1111/j.1462-2920.2007.01383.x: Metagenomic analysis of the microbial community
+associated with the coral Porites astreoides
+\item  10.1038/nmicrobiol.2015.32: Metagenomics uncovers gaps in amplicon-based
+detection of microbial diversity
+\item 10.1038/ismej.2016.45: Challenges in microbial ecology: building predictive
+understanding of community function and dynamics
+\item 10.1111/j.1462-2920.2009.02113.x: Microbial functional structure of Montastraea faveolata,
+an important Caribbean reef-building coral, differs
+between healthy and yellow-band diseased colonies
+\item 10.1111/j.1758-2229.2010.00234.x: 
+\end{itemize}
+
+\chapter{Softwares, instalacao e linhas}
+
+\section{Profilling metagenomes}
+
+Instalar o kraken-biome
+
+\begin{tcolorbox}[width=6.5in]
+- Folder: \textit{/home/leticia}\\
+- Command: \textit{pip install kraken-biom}\\
+- Site: \textit{https://github.com/smdabdoub/kraken-biom}
+\end{tcolorbox}
+
+
+Para transferencia: 
+
 
  \bibliographystyle{apalike}
  \bibliography{ref}
