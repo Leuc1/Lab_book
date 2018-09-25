@@ -442,8 +442,20 @@ So I checked the others files:
   \label{table3}
  \end{table}
 
+A Bia me informou que o SDU arrendonda os valores de tamanho dos arquivos, entao até o momento nao
+tive problemas com o download dos arquivos do mg\_rast
+
 \chapter{Format Conversion of NCBI metagenomes}
  
+Adaptei o script da Bia para fazer a conversao do dos arquivos .sra\\
+Inicialmente submeti apenas um na cpu\_dev para testar:\\ 
+
+\begin{tcolorbox}[width=5.3in]
+ \scriptsize 
+\normalsize  Script: \textit{teste\_slurm\_job\_fastq\_dump\_corais.sh}\\
+\normalsize  Numero do job: \textit{220896}
+ \end{tcolorbox}
+
 \chapter{Quality filter}
 This step is only required for NCBI metagenomes. The command line was proposed by Bia:
 \begin{itemize}
@@ -462,7 +474,6 @@ Parameters:
 \end{itemize}
 
 \begin{tcolorbox}[width=6.3in]
- \scriptsize 
  - Command: \textit{nohup bash slurm\_job\_prinseq\_single\_corais\_FASTA.bash \&> slurm\_prinseq\_corais.out \&}
  \end{tcolorbox}
 
@@ -627,9 +638,13 @@ Instalar o kraken-biome
 - Site: \textit{https://github.com/smdabdoub/kraken-biom}
 \end{tcolorbox}
 
+Para atualizacao: \\
+git commit \\
+git push origin master \\
 
-Para transferencia: 
-
+Para transferencia: \\
+maquina remota para local:
+scp leticia.cavalcante@login.sdumont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt /home/leticia/Documentos/dados
 
  \bibliographystyle{apalike}
  \bibliography{ref}
