@@ -456,6 +456,34 @@ Inicialmente submeti apenas um na cpu\_dev para testar:\\
 \normalsize  Numero do job: \textit{220896}
  \end{tcolorbox}
 
+Deu certo. \\
+O Rilquer me ajudou a criar um script que cria jobs de anotacao com o kraken2 para cada dois metagenomas. \\
+O nome do script é 'creatijobfile.sh', ele unirá dois scripts: 'header' e 'ending' \\
+Adaptei para criar jobs do fastq-dump para cada 2 arquivos .sra, haja visto que não tenho uma boa ideia do quanto cada fastq-dump demorará. \\
+
+Jobs submetidos dia 27/09/2018:
+\begin{itemize}
+\item job\_0.sh - job 221475
+\item job\_100.sh - job 221476
+\item job\_102.sh - job 221477
+\item job\_104.sh - job 221478
+\item job\_106.sh - job 221480
+\item job\_108.sh - job 221481
+\item job\_10.sh - job 221482
+\item job\_110.sh - job 221483
+\item job\_112.sh - job 221484
+\item job\_114.sh - job 221485
+\item job\_116.sh - job 221486
+\item job\_118.sh - job 221487
+\item job\_120.sh - job 221488
+\item job\_122.sh - job 221489
+\item job\_124.sh - job 221490
+\item job\_126.sh - job 221493
+\item job\_12.sh - job 221495
+
+
+\end{itemize}
+
 \chapter{Quality filter}
 This step is only required for NCBI metagenomes. The command line was proposed by Bia:
 \begin{itemize}
@@ -571,7 +599,6 @@ Linha de teste: \\
 perl selectGroups.pl \-\-input mgm4440370\_prinseq\_good\_SiDP.fasta\_kraken.report --file\_groups groups.txt > selected\_file
 
 
-
 \begin{tcolorbox}[width=6.3in]
 - First Command: \textit{sbatch slurm\_job\_kraken2\_corais.sh}\\
 - Second Command: \textit{\\
@@ -583,6 +610,56 @@ kraken2 --db /prj/ebiodiv/rilquer.silva/Serrapilheira \\
 
 Ja testei o comando acima na home do SDU e agora no scratch
 
+\newpage
+
+
+\section{Analises e obtencao de figuras}
+Apliquei o tutorial do professor para obtenção de figuras no R para visualização dos resultados. \\
+\begin{tcolorbox}[width=6.3in]
+- Script: \textit{analisys.R}\\
+- Folder: \textit{/home/leticia/Documentos/libs/R}
+\end{tcolorbox}
+
+Figuras obtidas:
+
+\begin{figure}[!h]
+  \centering 
+  \includegraphics[width=0.9\textwidth]{figures/output_PCA_corais_2018_10_01.jpg}
+  \caption{Análise de componentes principais com todos os filos como variaveis}
+  \label{texworks} 
+  \end{figure}
+
+Na analise acima, as variaveis são muitas e ficam muito sobrepostas, fazendo com que haja grande poluicao visual. O professor recomendou em marco a utilizar uma analise de Random Forest, para que as variaveis mais importantes para os metagenomas que trabalho sejam ranqueadas. \\
+
+\newpage
+\begin{figure}[!h]
+  \centering 
+  \includegraphics[width=0.7\textwidth]{figures/randomforest_taxonomic_corais_2018_10_01.jpeg}
+  \caption{Random Forest ranqueando filos}
+  \label{texworks} 
+  \end{figure}
+
+Eu utilizei os 20 primeiros filos ranqueados para fazer o PCA. Segue esse PCA abaixo:
+
+\begin{figure}[!h]
+  \centering 
+  \includegraphics[width=0.7\textwidth]{figures/output_rf_20_PCA_corais_2018_10_01.jpg}
+  \caption{PCA com 20 filos utilizados no PCA}
+  \label{texworks} 
+  \end{figure}
+\newpage
+Uma tendencia se manteve: foi a separação das amostras por genero.  Mas a poluicao visual ainda continuou, por isso fiz um random forest com os 15 primeiros filos indicados pelo random forest. Segue abaixo: 
+\begin{figure}[!h]
+  \centering 
+  \includegraphics[width=0.9\textwidth]{figures/output_rf_15_PCA_corais_2018_10_01.jpg}
+  \caption{PCA com 15 filos como variaveis}
+  \label{texworks} 
+  \end{figure}
+
+Algumas tendencias tambem se mantiveram e a explicação dos eixos melhorou levemente. As amostras agrupadas no quadrante direito superior são mais diferentes das que estão no quadrante esquerdo do que das que estão no quadrante inferior direito. Na reuniao feita no dia 03/10/2018, o Amaro, o professor e Miguel me sinalizaram que existe uma separacao forte entre generos, indicando que os grupos candidatos podem ser genero - específicos. Surgiu a sugestão de leitura de textos em core microbiome e especificidade de filos entre generos. 
+
+
+\newpage
 \chapter{Functional annotation of metagenomes}
 \begin{figure}
   \centering 
@@ -624,11 +701,21 @@ understanding of community function and dynamics
 an important Caribbean reef-building coral, differs
 between healthy and yellow-band diseased colonies
 \item 10.1111/j.1758-2229.2010.00234.x: 
+\item 10.1038/ismej.2011.116: Assessing the complex sponge microbiota: core, variable and species-specific bacterial communities
+in marine sponges
 \end{itemize}
 
 \chapter{Softwares, instalacao e linhas}
 
 \section{Profilling metagenomes}
+
+\chapter{Fundamentos teoricos}
+
+
+\chapter{meetings}
+
+
+
 
 Instalar o kraken-biome
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.27)  25 SEP 2018 19:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.27)  4 OCT 2018 18:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -631,6 +631,18 @@ LaTeX Warning: Label `texworks' multiply defined.
 
 LaTeX Warning: Label `texworks' multiply defined.
 
+
+LaTeX Warning: Label `texworks' multiply defined.
+
+
+LaTeX Warning: Label `texworks' multiply defined.
+
+
+LaTeX Warning: Label `texworks' multiply defined.
+
+
+LaTeX Warning: Label `texworks' multiply defined.
+
 )
 \openout1 = `Lab_book.aux'.
 
@@ -719,18 +731,19 @@ Missing character: There is no Ã in font cmr17!
 Missing character: There is no ­ in font cmr17!
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Lab_book.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Lab_book.tocpdfTeX warn
+ing (ext4): destination with the same identifier (name{page.1}) has been alread
+y used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 ...{\numberline {12}meetings}{32}{chapter.12}
+                                                   [1
+
+])
 \tf@toc=\write7
 \openout7 = `Lab_book.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.33  \newpage
-               [1
-
-]
+ [2]
 Cap\'{\i }tulo 1.
 
 Overfull \hbox (2.33331pt too wide) in paragraph at lines 46--46
@@ -738,7 +751,7 @@ Overfull \hbox (2.33331pt too wide) in paragraph at lines 46--46
  []
 
 
-LaTeX Warning: Citation `latex-main' on page 2 undefined on input line 50.
+LaTeX Warning: Citation `latex-main' on page 3 undefined on input line 50.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
@@ -760,7 +773,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<figures/texworks-linux.png, id=148, 1922.18124pt x 1083.04625pt>
+<figures/texworks-linux.png, id=167, 1922.18124pt x 1083.04625pt>
 File: figures/texworks-linux.png Graphic file (type png)
 <use figures/texworks-linux.png>
 Package pdftex.def Info: figures/texworks-linux.png  used on input line 70.
@@ -770,9 +783,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[2
+[3
 
-] [3 <./figures/texworks-linux.png>]
+] [4 <./figures/texworks-linux.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
@@ -783,7 +796,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
- [4]
+ [5]
 Cap\'{\i }tulo 2.
 
 Overfull \hbox (25.31836pt too wide) in paragraph at lines 122--123
@@ -803,16 +816,16 @@ Overfull \hbox (1.70326pt too wide) in paragraph at lines 124--125
 brc . org / view / Taxonomy / 2 # view _ tab =
  []
 
-[5
+[6
 
-] [6] [7
+] [7] [8
 
-] [8] [9] [10]
+] [9] [10] [11]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ­ in font cmr12!
- [11]
+ [12]
 Cap\'{\i }tulo 3.
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no § in font cmr12!
@@ -830,137 +843,227 @@ Overfull \hbox (2.33331pt too wide) in paragraph at lines 377--377
 
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
-[12
+[13
 
-] [13]
+] [14]
 Cap\'{\i }tulo 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 450--452
 
  []
 
-[14
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
 
-]
-Cap\'{\i }tulo 5.
+Underfull \hbox (badness 10000) in paragraph at lines 459--463
+
+ []
+
 [15
+
+] [16]
+Cap\'{\i }tulo 5.
+[17
 
 ]
 Cap\'{\i }tulo 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--478
+Underfull \hbox (badness 10000) in paragraph at lines 505--506
 []\OT1/cmr/m/n/12 - Com-mand: \OT1/cmr/m/it/12 nohup bash slurm[]job[]prinseq[]
 single[]corais[]FASTA.bash &>
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 478--478
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 506--506
 [][] 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 497--497
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 525--525
 [][] 
  []
 
 
 LaTeX Warning: File `figures/Captura-2018-09-10 09-35-27.png' not found on inpu
-t line 502.
+t line 530.
 
-<figures/Captura-2018-09-10 09-35-27.png, id=236, 1927.2pt x 1084.05pt>
+<figures/Captura-2018-09-10 09-35-27.png, id=259, 1927.2pt x 1084.05pt>
 File: figures/Captura-2018-09-10 09-35-27.png Graphic file (type png)
 <use figures/Captura-2018-09-10 09-35-27.png>
 Package pdftex.def Info: figures/Captura-2018-09-10 09-35-27.png  used on input
- line 502.
+ line 530.
 (pdftex.def)             Requested size: 452.9679pt x 254.78487pt.
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 511--511
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 539--539
 [][] 
  []
 
-[16
+[18
 
-] [17 <./figures/Captura-2018-09-10 09-35-27.png>]
+] [19 <./figures/Captura-2018-09-10 09-35-27.png>]
 Cap\'{\i }tulo 7.
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 521--521
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 549--549
 [][] 
  []
 
-<figures/Captura2.png, id=248, 1927.2pt x 1084.05pt>
+<figures/Captura2.png, id=272, 1927.2pt x 1084.05pt>
 File: figures/Captura2.png Graphic file (type png)
 <use figures/Captura2.png>
-Package pdftex.def Info: figures/Captura2.png  used on input line 528.
+Package pdftex.def Info: figures/Captura2.png  used on input line 556.
 (pdftex.def)             Requested size: 452.9679pt x 254.78487pt.
-<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=249, 677.53125pt x 948.543
+<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=273, 677.53125pt x 948.543
 75pt>
 File: figures/workflow-aquifers-reviewed_03-09-18.pdf Graphic file (type pdf)
 <use figures/workflow-aquifers-reviewed_03-09-18.pdf>
 Package pdftex.def Info: figures/workflow-aquifers-reviewed_03-09-18.pdf  used 
-on input line 537.
+on input line 565.
 (pdftex.def)             Requested size: 407.66833pt x 570.75168pt.
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¡ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 546--548
+Underfull \hbox (badness 10000) in paragraph at lines 574--576
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--551
+Underfull \hbox (badness 10000) in paragraph at lines 577--579
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 552--554
+Underfull \hbox (badness 10000) in paragraph at lines 580--582
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--557
+Underfull \hbox (badness 10000) in paragraph at lines 583--585
 
  []
 
 
-Overfull \hbox (44.24776pt too wide) in paragraph at lines 559--562
+Overfull \hbox (44.24776pt too wide) in paragraph at lines 587--590
 \OT1/cmr/m/n/12 com os se-guin-tes pas-sos: Na pasta /ho-me/-le-ti-ci-a/-Do-cu-
 men-tos/-libs/-le-ti-cia[]profiling[]metagenomes: 
  []
 
 
-Overfull \hbox (21.71855pt too wide) in paragraph at lines 566--567
+Overfull \hbox (21.71855pt too wide) in paragraph at lines 594--595
 []\OT1/cmr/m/n/12 perl fil-ter-Rank.pl --in-put ta-ble.from[]biom[]with[]taxono
 my.txt --rank p > abun-dance.matrix 
  []
 
-[18
+[20
 
 ]
-Overfull \hbox (10.51062pt too wide) in paragraph at lines 570--572
+Overfull \hbox (10.51062pt too wide) in paragraph at lines 598--600
 \OT1/cmr/m/n/12 perl se-lect-Groups.pl --in-put mgm4440370[]prinseq[]good[]SiDP
 .fasta[]kraken.report --file[]groups
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 582--582
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 609--609
 [][] 
  []
 
-[19 <./figures/Captura2.png>] [20 <./figures/workflow-aquifers-reviewed_03-09-1
+[21 <./figures/Captura2.png>] [22 <./figures/workflow-aquifers-reviewed_03-09-1
 8.pdf>]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no § in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no § in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--621
+
+ []
+
+
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 621--621
+[][] 
+ []
+
+<figures/output_PCA_corais_2018_10_01.jpg, id=311, 867.24pt x 867.24pt>
+File: figures/output_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
+<use figures/output_PCA_corais_2018_10_01.jpg>
+Package pdftex.def Info: figures/output_PCA_corais_2018_10_01.jpg  used on inpu
+t line 627.
+(pdftex.def)             Requested size: 407.66833pt x 407.66902pt.
+Missing character: There is no Ã in font cmr8!
+Missing character: There is no ¡ in font cmr8!
+Missing character: There is no Ã in font cmr8!
+Missing character: There is no ¡ in font cmr8!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--633
+
+ []
+
+[23 <./figures/output_PCA_corais_2018_10_01.jpg>]
+<figures/randomforest_taxonomic_corais_2018_10_01.jpeg, id=317, 730.22812pt x 5
+81.92406pt>
+File: figures/randomforest_taxonomic_corais_2018_10_01.jpeg Graphic file (type 
+jpg)
+<use figures/randomforest_taxonomic_corais_2018_10_01.jpeg>
+Package pdftex.def Info: figures/randomforest_taxonomic_corais_2018_10_01.jpeg 
+ used on input line 637.
+(pdftex.def)             Requested size: 317.07614pt x 252.68207pt.
+<figures/output_rf_20_PCA_corais_2018_10_01.jpg, id=318, 867.24pt x 867.24pt>
+File: figures/output_rf_20_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
+<use figures/output_rf_20_PCA_corais_2018_10_01.jpg>
+Package pdftex.def Info: figures/output_rf_20_PCA_corais_2018_10_01.jpg  used o
+n input line 646.
+(pdftex.def)             Requested size: 317.07614pt x 317.07591pt.
+ [24 <./figures/randomforest_taxonomic_corais_2018_10_01.jpeg> <./figures/outpu
+t_rf_20_PCA_corais_2018_10_01.jpg>]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no § in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+<figures/output_rf_15_PCA_corais_2018_10_01.jpg, id=326, 867.24pt x 867.24pt>
+File: figures/output_rf_15_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
+<use figures/output_rf_15_PCA_corais_2018_10_01.jpg>
+Package pdftex.def Info: figures/output_rf_15_PCA_corais_2018_10_01.jpg  used o
+n input line 654.
+(pdftex.def)             Requested size: 407.66833pt x 407.66902pt.
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no § in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+ [25 <./figures/output_rf_15_PCA_corais_2018_10_01.jpg>]
 Cap\'{\i }tulo 8.
-<figures/pipeline_functional.jpg, id=287, 327.2225pt x 743.77875pt>
+<figures/pipeline_functional.jpg, id=332, 327.2225pt x 743.77875pt>
 File: figures/pipeline_functional.jpg Graphic file (type jpg)
 <use figures/pipeline_functional.jpg>
-Package pdftex.def Info: figures/pipeline_functional.jpg  used on input line 58
-9.
+Package pdftex.def Info: figures/pipeline_functional.jpg  used on input line 66
+6.
 (pdftex.def)             Requested size: 317.07614pt x 720.71548pt.
 
-LaTeX Warning: Float too large for page by 69.7086pt on input line 592.
+LaTeX Warning: Float too large for page by 69.7086pt on input line 669.
 
-[21
+[26
 
-] [22 <./figures/pipeline_functional.jpg>]
+] [27 <./figures/pipeline_functional.jpg>]
 Cap\'{\i }tulo 9.
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
@@ -971,42 +1074,50 @@ Missing character: There is no ’ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
-[23
+[28
 
-] [24]
+] [29]
 Cap\'{\i }tulo 10.
+[30
 
-Overfull \hbox (16.7871pt too wide) in paragraph at lines 639--639
+]
+Cap\'{\i }tulo 11.
+[31
+
+]
+Cap\'{\i }tulo 12.
+
+Overfull \hbox (16.7871pt too wide) in paragraph at lines 726--726
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--644
+Underfull \hbox (badness 10000) in paragraph at lines 728--731
 
  []
 
 
-Overfull \hbox (168.33954pt too wide) in paragraph at lines 645--648
+Overfull \hbox (168.33954pt too wide) in paragraph at lines 732--735
 \OT1/cmr/m/n/12 maquina re-mota para lo-cal: scp le-ti-cia.cavalcante@login.sdu
 mont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt
  []
 
-(./Lab_book.bbl [25
+(./Lab_book.bbl [32
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [26
+) [33
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 654.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 654.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 741.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 741.
  (./Lab_book.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 654.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 654.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 741.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 741.
 Package rerunfilecheck Info: File `Lab_book.out' has not changed.
-(rerunfilecheck)             Checksum: 5AB37AF512CFD4673C340FBB8429D5D1;1642.
+(rerunfilecheck)             Checksum: 7CCD5DBC4CEDDD8AE4CFE9963F1B41B7;1821.
 
 
 LaTeX Warning: There were undefined references.
@@ -1014,13 +1125,13 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 654.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 741.
  ) 
 Here is how much of TeX's memory you used:
- 18944 strings out of 492982
- 343574 string characters out of 6134896
- 429798 words of memory out of 5000000
- 22124 multiletter control sequences out of 15000+600000
+ 18983 strings out of 492982
+ 344748 string characters out of 6134896
+ 429799 words of memory out of 5000000
+ 22144 multiletter control sequences out of 15000+600000
  12764 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,9n,73p,949b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1036,10 +1147,10 @@ msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on Lab_book.pdf (27 pages, 1252364 bytes).
+Output written on Lab_book.pdf (34 pages, 2756613 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 314 compressed objects within 4 object streams
- 66 named destinations out of 1000 (max. 500000)
- 238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 430 PDF objects out of 1000 (max. 8388607)
+ 359 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

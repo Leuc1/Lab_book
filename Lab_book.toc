@@ -1,26 +1,29 @@
 \babel@toc {brazil}{}
-\contentsline {chapter}{\numberline {1}May 2018}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}13}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Learning \LaTeX }{2}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Math environment}{3}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}15 - Short-term project proposal}{4}{subsection.1.1.3}
-\contentsline {chapter}{\numberline {2}Creation of data base of metagenomes and genomes}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}28}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Bibliographic search for genomes}{5}{subsection.2.1.1}
-\contentsline {section}{\numberline {2.2}28}{9}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Bibliographic search for metagenomes}{9}{subsection.2.2.1}
-\contentsline {chapter}{\numberline {3}Download of metagenomes}{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}Download of mg-rast files}{12}{section.3.1}
-\contentsline {section}{\numberline {3.2}Download of NCBI metagenomes}{12}{section.3.2}
-\contentsline {chapter}{\numberline {4}Format Conversion of NCBI metagenomes}{14}{chapter.4}
-\contentsline {chapter}{\numberline {5}Quality filter}{15}{chapter.5}
-\contentsline {chapter}{\numberline {6}Uniformity filter (size and N bases)}{16}{chapter.6}
-\contentsline {section}{\numberline {6.1}Command line}{16}{section.6.1}
-\contentsline {chapter}{\numberline {7}Profilling metagenomes}{18}{chapter.7}
-\contentsline {section}{\numberline {7.1}Mg-Rast metagenomes}{18}{section.7.1}
-\contentsline {section}{\numberline {7.2}Kraken-biom}{18}{section.7.2}
-\contentsline {section}{\numberline {7.3}Teste com o kraken no scratch}{19}{section.7.3}
-\contentsline {chapter}{\numberline {8}Functional annotation of metagenomes}{21}{chapter.8}
-\contentsline {chapter}{\numberline {9}references}{23}{chapter.9}
-\contentsline {chapter}{\numberline {10}Softwares, instalacao e linhas}{25}{chapter.10}
-\contentsline {section}{\numberline {10.1}Profilling metagenomes}{25}{section.10.1}
+\contentsline {chapter}{\numberline {1}May 2018}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}13}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Learning \LaTeX }{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Math environment}{4}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}15 - Short-term project proposal}{5}{subsection.1.1.3}
+\contentsline {chapter}{\numberline {2}Creation of data base of metagenomes and genomes}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}28}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Bibliographic search for genomes}{6}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}28}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Bibliographic search for metagenomes}{10}{subsection.2.2.1}
+\contentsline {chapter}{\numberline {3}Download of metagenomes}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Download of mg-rast files}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Download of NCBI metagenomes}{13}{section.3.2}
+\contentsline {chapter}{\numberline {4}Format Conversion of NCBI metagenomes}{15}{chapter.4}
+\contentsline {chapter}{\numberline {5}Quality filter}{17}{chapter.5}
+\contentsline {chapter}{\numberline {6}Uniformity filter (size and N bases)}{18}{chapter.6}
+\contentsline {section}{\numberline {6.1}Command line}{18}{section.6.1}
+\contentsline {chapter}{\numberline {7}Profilling metagenomes}{20}{chapter.7}
+\contentsline {section}{\numberline {7.1}Mg-Rast metagenomes}{20}{section.7.1}
+\contentsline {section}{\numberline {7.2}Kraken-biom}{20}{section.7.2}
+\contentsline {section}{\numberline {7.3}Teste com o kraken no scratch}{21}{section.7.3}
+\contentsline {section}{\numberline {7.4}Analises e obtencao de figuras}{23}{section.7.4}
+\contentsline {chapter}{\numberline {8}Functional annotation of metagenomes}{26}{chapter.8}
+\contentsline {chapter}{\numberline {9}references}{28}{chapter.9}
+\contentsline {chapter}{\numberline {10}Softwares, instalacao e linhas}{30}{chapter.10}
+\contentsline {section}{\numberline {10.1}Profilling metagenomes}{30}{section.10.1}
+\contentsline {chapter}{\numberline {11}Fundamentos teoricos}{31}{chapter.11}
+\contentsline {chapter}{\numberline {12}meetings}{32}{chapter.12}
