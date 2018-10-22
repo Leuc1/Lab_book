@@ -14,6 +14,9 @@
  \usepackage{tcolorbox}
 \usepackage{longtable}
 \usepackage[brazil]{babel}
+\usepackage{listings}
+\usepackage{float}
+
 
  \newcommand\tab[1][0.5cm]{\hspace*{#1}}
  \newcommand{\command}[1]{\textcolor{blue}{#1}}
@@ -480,9 +483,54 @@ Jobs submetidos dia 27/09/2018:
 \item job\_124.sh - job 221490
 \item job\_126.sh - job 221493
 \item job\_12.sh - job 221495
-
-
 \end{itemize}
+
+Jobs submetidos dia 09/10/2018:
+\begin{itemize}
+\item job\_14.sh - slurm 226902
+\item job\_16.sh - slurm 226903
+\item job\_18.sh - slurm 226904
+\item job\_20.sh - slurm 226905
+\item job\_22.sh - slurm 226906
+\item job\_24.sh - slurm 226907
+\item job\_26.sh - slurm 226908
+\item job\_28.sh - slurm 226909
+\item job\_2.sh - slurm 226910
+\item job\_30.sh - slurm 226911
+\item job\_32.sh - slurm 226912
+\end{itemize}
+
+Jobs submetidos dia 19/10/2018:
+\begin{itemize}
+\item job\_34.sh - slurm 231744
+\item job\_36.sh - slurm 231745
+\item job\_38.sh - slurm 231746
+\item job\_40.sh - slurm 231747
+\item job\_42.sh - slurm 231748
+\item job\_44.sh - slurm 231749
+\item job\_46.sh - slurm 231750
+\item job\_48.sh - slurm 231751
+\item job\_4.sh - slurm 231752
+\item job\_50.sh - slurm 231753
+\item job\_52.sh - slurm 231754
+\item job\_54.sh - slurm 231755
+\end{itemize}
+
+\chapter{Adaptacao dos identificadores}
+
+Esse passo fez-se necessário nas análises anteriores, pois quando eu fazia a limpeza, os arquivos de outputs que saiam eram apenas os singletons. 
+The output files were named as SRAXXX\_good\_singletons\_1 and SRAXXX\_good\_singletons\_2 and there aren’t any other output files beyond these and the files with bad sequences. 
+O Pablo fez a seguinte sugestão:
+
+%cat SRR1275409\_pass\_1.fastq | sed -r 's/(SRR1275409.[0-9]+).([0-9]+)/\1\_left/\' > SRR1275409\_pass\_1.corr.fastq
+
+%cat SRR1275409\_pass\_2.fastq | sed -r 's/(SRR1275409.[0-9]+).([0-9]+)/\1\_right/\' > SRR1275409\_pass\_2.corr.fastq
+
+\begin{lstlisting}[breaklines]
+cat SRR1275409_pass_1.fastq | sed -r 's/(SRR1275409.[0-9]+).([0-9]+)/\1_left/' > SRR1275409_pass_1.corr.fastq
+
+cat SRR1275409_pass_2.fastq | sed -r 's/(SRR1275409.[0-9]+).([0-9]+)/\1_right/' > SRR1275409_pass_2.corr.fastq
+\end{lstlisting}
 
 \chapter{Quality filter}
 This step is only required for NCBI metagenomes. The command line was proposed by Bia:
@@ -529,7 +577,6 @@ srun\: Job has been cancelled
   \centering 
   \includegraphics[width=1.0\textwidth]{figures/Captura-2018-09-10 09-35-27.png}
   \caption{Erro no job no SDU}
-  \label{texworks} 
  \end{figure}
 
 Ressubmeti o job com:
@@ -555,7 +602,6 @@ Ressubmeti o job, modificando a localizacao da DB do Kraken para a home do Rilqu
   \centering 
   \includegraphics[width=1.0\textwidth]{figures/Captura2.png}
   \caption{2o erro no job no SDU}
-  \label{texworks} 
  \end{figure} 
 
 Esse problema foi resolvido modificando o endereco da base para o scratch do Rilquer.
@@ -563,8 +609,7 @@ Esse problema foi resolvido modificando o endereco da base para o scratch do Ril
 \begin{figure}
   \centering 
   \includegraphics[width=0.9\textwidth]{figures/workflow-aquifers-reviewed_03-09-18.pdf}
-  \caption{Pipeline of taxonomic annotation}
-  \label{texworks} 
+  \caption{Pipeline of taxonomic annotation} 
   \end{figure}
 
 \section{Kraken-biom}
@@ -611,8 +656,47 @@ kraken2 --db /prj/ebiodiv/rilquer.silva/Serrapilheira \\
 Ja testei o comando acima na home do SDU e agora no scratch
 
 \newpage
+\section{Profiling no Atlantico com a ajuda do Rilquer}
+O Rilquer fez um script que automatiza o processo, em que a limpeza e anotacao ocorrem simultanetamente. Fiz um teste com esse script para um metagenoma com a seguinte linha:
 
+\begin{tcolorbox}[width=6.3in]
+- Comand: \textit{taxonprofiling -s mgm4440378.3.299.1 -f MGRAST -k /home/pedro/Kraken2\_custom\_DB}\\
+- Script: taxonprofiling\\
+- Folder: /fsprofpedro/holobionts/mgrast\\
+- Para chamar o script: taxonprofiling
+\end{tcolorbox}
 
+Sairam 4 outputs:
+\begin{itemize}
+\item mgm4440378\_kraken\_class
+\item mgm4440378\_kraken\_output
+\item mgm4440378\_kraken\_report
+\item mgm4440378\_kraken\_unclass
+\end{itemize}
+
+De acordo com a pipeline da Bia, o arquivo a ser usado e o report. Teste a seguir com a pasta com os metagenomas do mg-rast inteiro:
+
+\begin{tcolorbox}[width=6.3in]
+-Comand: \textit{taxonprofiling -d /fsprofpedro/holobionts/mgrast -f MGRAST -k /home/pedro/Kraken2\_custom\_DB}\\
+- Folder: /fsprofpedro/holobionts
+\end{tcolorbox}
+
+No email do Rilquer, vi que tenho que submeter o job para uma fila que não tem acesso ao fsprofpedro. Então criei uma pasta temporaria chamada mgrast\_temp, no home/pedro
+
+\begin{tcolorbox}
+- Job: \textit{profiling\_metagenomes\_corais\_mgrast.sh}\\
+- Folder temporario em que as amostras foram copiadas: /home/pedro/mgrast\_temp \\
+-Folder de submissao:  /home/pedro/
+\end{tcolorbox}
+
+Na pasta /fsprofpedro/holobionts, tem um exemplo de job chamado jobexample. Submissao:
+\begin{tcolorbox}
+-Folder de submissao: /home/pedro/mgrast\_temp \\
+- Numero: 122283.atlantico\\
+- Command: qsub profiling\_metagenomes\_corais\_mgrast.sh
+\end{tcolorbox}
+
+\newpage
 \section{Analises e obtencao de figuras}
 Apliquei o tutorial do professor para obtenção de figuras no R para visualização dos resultados. \\
 \begin{tcolorbox}[width=6.3in]
@@ -626,37 +710,52 @@ Figuras obtidas:
   \centering 
   \includegraphics[width=0.9\textwidth]{figures/output_PCA_corais_2018_10_01.jpg}
   \caption{Análise de componentes principais com todos os filos como variaveis}
-  \label{texworks} 
   \end{figure}
 
-Na analise acima, as variaveis são muitas e ficam muito sobrepostas, fazendo com que haja grande poluicao visual. O professor recomendou em marco a utilizar uma analise de Random Forest, para que as variaveis mais importantes para os metagenomas que trabalho sejam ranqueadas. \\
+Na analise acima, as variaveis são muitas e ficam muito sobrepostas, fazendo com que haja grande poluicao visual. O professor recomendou em marco a utilizar uma analise de Random Forest, para que as variaveis mais importantes para os metagenomas que trabalho sejam ranqueadas. O random forest é um algoritmo de machine learning que, a partir das duas categorias de saúde (categorias de supervisao), elencará as variáveis mais importantes para classificar as amostras nesses dois estados. o random forest abaixo é supervisionado por estado de saúde \\
 
-\newpage
 \begin{figure}[!h]
   \centering 
   \includegraphics[width=0.7\textwidth]{figures/randomforest_taxonomic_corais_2018_10_01.jpeg}
   \caption{Random Forest ranqueando filos}
-  \label{texworks} 
   \end{figure}
 
 Eu utilizei os 20 primeiros filos ranqueados para fazer o PCA. Segue esse PCA abaixo:
 
 \begin{figure}[!h]
   \centering 
-  \includegraphics[width=0.7\textwidth]{figures/output_rf_20_PCA_corais_2018_10_01.jpg}
+  \includegraphics[width=0.6\textwidth]{figures/output_rf_20_PCA_corais_2018_10_01.jpg}
   \caption{PCA com 20 filos utilizados no PCA}
-  \label{texworks} 
   \end{figure}
 \newpage
 Uma tendencia se manteve: foi a separação das amostras por genero.  Mas a poluicao visual ainda continuou, por isso fiz um random forest com os 15 primeiros filos indicados pelo random forest. Segue abaixo: 
 \begin{figure}[!h]
   \centering 
-  \includegraphics[width=0.9\textwidth]{figures/output_rf_15_PCA_corais_2018_10_01.jpg}
+  \includegraphics[width=0.9\textwidth]{figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png}
   \caption{PCA com 15 filos como variaveis}
-  \label{texworks} 
   \end{figure}
 
-Algumas tendencias tambem se mantiveram e a explicação dos eixos melhorou levemente. As amostras agrupadas no quadrante direito superior são mais diferentes das que estão no quadrante esquerdo do que das que estão no quadrante inferior direito. Na reuniao feita no dia 03/10/2018, o Amaro, o professor e Miguel me sinalizaram que existe uma separacao forte entre generos, indicando que os grupos candidatos podem ser genero - específicos. Surgiu a sugestão de leitura de textos em core microbiome e especificidade de filos entre generos. 
+Algumas tendencias tambem se mantiveram e a explicação dos eixos melhorou levemente. As amostras agrupadas no quadrante direito superior são mais diferentes das que estão no quadrante esquerdo do que das que estão no quadrante inferior direito. Na reuniao feita no dia 03/10/2018, o Amaro, o professor e Miguel me sinalizaram que existe uma separacao forte entre generos, indicando que os grupos candidatos podem ser genero - específicos. Surgiu a sugestão de leitura de textos em core microbiome e especificidade de filos entre generos e o professor sugeriu fazer um random forest nao supervisionado que segue abaixo. O professor Garcia no congresso sugeriu utilizar os auto valores do PCA para ver quais podem ser mais relevantes (?).
+
+\begin{figure}[H]
+\centering
+  \includegraphics[scale=0.5]{figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg}
+  \caption{Random Forest nao supervisionado}
+  \end{figure}
+
+Fiz um pca (libs/R/analisys.R) a partir dos primeiros 15 filos indicados no Random Forest  nao supervisionado acima. Segue abaixo:
+
+\begin{figure}[H]
+  \centering 
+  \includegraphics[width=0.6\textwidth]{figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png}
+  \caption{PCA a partir dos 20 filos primeiros filos que aparecem acima no random forest}
+  \end{figure}
+
+\begin{figure}[H]
+  \centering 
+  \includegraphics[width=0.7\textwidth]{figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png}
+  \caption{PCA a partir dos 15 filos primeiros filos que aparecem acima no random forest nao supervisionado}
+  \end{figure}
 
 
 \newpage
@@ -665,7 +764,6 @@ Algumas tendencias tambem se mantiveram e a explicação dos eixos melhorou leve
   \centering 
   \includegraphics[width=0.7\textwidth]{figures/pipeline_functional.jpg}
   \caption{Pipeline of functional annotation}
-  \label{texworks} 
   \end{figure}
 
 
