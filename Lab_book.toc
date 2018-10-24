@@ -22,10 +22,13 @@
 \contentsline {section}{\numberline {8.2}Kraken-biom}{22}{section.8.2}
 \contentsline {section}{\numberline {8.3}Teste com o kraken no scratch}{23}{section.8.3}
 \contentsline {section}{\numberline {8.4}Profiling no Atlantico com a ajuda do Rilquer}{25}{section.8.4}
-\contentsline {section}{\numberline {8.5}Analises e obtencao de figuras}{26}{section.8.5}
-\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{31}{chapter.9}
-\contentsline {chapter}{\numberline {10}references}{33}{chapter.10}
-\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{35}{chapter.11}
-\contentsline {section}{\numberline {11.1}Profilling metagenomes}{35}{section.11.1}
-\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{36}{chapter.12}
-\contentsline {chapter}{\numberline {13}meetings}{37}{chapter.13}
+\contentsline {subsection}{\numberline {8.4.1}MG RAST metagenomes}{25}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}SRA metagenomes}{26}{subsection.8.4.2}
+\contentsline {section}{\numberline {8.5}Analises e obtencao de figuras}{27}{section.8.5}
+\contentsline {section}{\numberline {8.6}Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{32}{section.8.6}
+\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{39}{chapter.9}
+\contentsline {chapter}{\numberline {10}references}{41}{chapter.10}
+\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{43}{chapter.11}
+\contentsline {section}{\numberline {11.1}Profilling metagenomes}{43}{section.11.1}
+\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{44}{chapter.12}
+\contentsline {chapter}{\numberline {13}meetings}{45}{chapter.13}
