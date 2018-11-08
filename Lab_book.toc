@@ -9,14 +9,19 @@
 \contentsline {subsection}{\numberline {2.1.1}Bibliographic search for genomes}{6}{subsection.2.1.1}
 \contentsline {section}{\numberline {2.2}28}{10}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Bibliographic search for metagenomes}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Amostras do MG-RAST indicadas pelo professor e Miguel}{12}{subsection.2.2.2}
 \contentsline {chapter}{\numberline {3}Download of metagenomes}{13}{chapter.3}
 \contentsline {section}{\numberline {3.1}Download of mg-rast files}{13}{section.3.1}
 \contentsline {section}{\numberline {3.2}Download of NCBI metagenomes}{13}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Amostras indicadas por Miguel na reuniao de 30 de novembro}{14}{subsection.3.2.1}
 \contentsline {chapter}{\numberline {4}Format Conversion of NCBI metagenomes}{15}{chapter.4}
+\contentsline {subsection}{\numberline {4.0.1}Taxonprofiling}{17}{subsection.4.0.1}
 \contentsline {chapter}{\numberline {5}Adaptacao dos identificadores}{18}{chapter.5}
 \contentsline {chapter}{\numberline {6}Quality filter}{19}{chapter.6}
+\contentsline {subsection}{\numberline {6.0.1}Taxonprofiling}{19}{subsection.6.0.1}
 \contentsline {chapter}{\numberline {7}Uniformity filter (size and N bases)}{20}{chapter.7}
 \contentsline {section}{\numberline {7.1}Command line}{20}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Utilizacao do Taxonprofiling}{21}{subsection.7.1.1}
 \contentsline {chapter}{\numberline {8}Profilling metagenomes}{22}{chapter.8}
 \contentsline {section}{\numberline {8.1}Mg-Rast metagenomes}{22}{section.8.1}
 \contentsline {section}{\numberline {8.2}Kraken-biom}{22}{section.8.2}
@@ -24,11 +29,12 @@
 \contentsline {section}{\numberline {8.4}Profiling no Atlantico com a ajuda do Rilquer}{25}{section.8.4}
 \contentsline {subsection}{\numberline {8.4.1}MG RAST metagenomes}{25}{subsection.8.4.1}
 \contentsline {subsection}{\numberline {8.4.2}SRA metagenomes}{26}{subsection.8.4.2}
-\contentsline {section}{\numberline {8.5}Analises e obtencao de figuras}{27}{section.8.5}
-\contentsline {section}{\numberline {8.6}Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{32}{section.8.6}
-\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{39}{chapter.9}
-\contentsline {chapter}{\numberline {10}references}{41}{chapter.10}
-\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{43}{chapter.11}
-\contentsline {section}{\numberline {11.1}Profilling metagenomes}{43}{section.11.1}
-\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{44}{chapter.12}
-\contentsline {chapter}{\numberline {13}meetings}{45}{chapter.13}
+\contentsline {section}{\numberline {8.5}Analises e obtencao de figuras}{28}{section.8.5}
+\contentsline {section}{\numberline {8.6}Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{33}{section.8.6}
+\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{40}{chapter.9}
+\contentsline {chapter}{\numberline {10}references}{42}{chapter.10}
+\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{44}{chapter.11}
+\contentsline {section}{\numberline {11.1}Profilling metagenomes}{44}{section.11.1}
+\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{45}{chapter.12}
+\contentsline {chapter}{\numberline {13}meetings}{46}{chapter.13}
+\contentsline {subsection}{\numberline {13.0.1}30 de outubro 2018}{46}{subsection.13.0.1}

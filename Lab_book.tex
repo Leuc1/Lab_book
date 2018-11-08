@@ -359,6 +359,24 @@ Checking the sizes of metagenomes files. The mg-rast metagenomes base have 72 Gb
 The pipeline of bioinformatic is different for MG\-RAST and NCBI.
 The size of NCBI should be superestimated, because the ncbi says the file size of sra file, but most of them is paired-end metagenomes, so when we apply fastq-dump, its generate two files fastq. 
 
+\subsection{Amostras do MG-RAST indicadas pelo professor e Miguel}
+Na reuniao feita em 30 de outubro, o professor e Miguel indicaram amostras existentes de Madracis para serem analisadas. O artigo é entitulado: "Turbulence-driven shifts in holobionts and planktonic microbial assemblages in St. Peter and St. Paul Archipelago, Mid-Atlantic Ridge, Brazil". DOI: 10.3389/fmicb.2015.01038. Amostras inclusas: 
+\begin{itemize}
+\item mgm4486661.3
+\item mgm4486662.3
+\item mgm4486663.3
+\item mgm4486664.3
+\item mgm4486665.3
+\item mgm4486666.3
+\item mgm4486667.3
+\item mgm4486668.3
+\item mgm4486669.3
+\end{itemize}
+O estado de saude dessas amostras nao esta claramente indicado no MG-RAST, mas pelo nome da amostra. No artigo, as amostras de Madracis branqueadas estão nomeadas com madble.
+
+O professor indicou procurar pelo laboratorio do professor Alexandre Rosado, para encontrar mais amostras de metagenomas de corais feitas no Brasil, especificamente nos trabalho de Raquel Peixoto (nao estava encontrando antes porque pensava que o nome era Raquel Rosado). Indo em seu perfil no google academico, utilizei o recurso de ctrl f, pesquisando por coral. Os trabalhos que continham 'coral' no título não são de metagenoma. 
+
+
 \chapter{Download of metagenomes}
 \section{Download of mg-rast files} 
 Espaço no SDU
@@ -402,7 +420,7 @@ I noted that the size of the files is different:
 
 So I checked the others files:
 
-\begin{table}[!htb]
+\begin{table}[H]
   \caption{Comparing sizes of files 2}
   \centering
   \begin{tabular}{cccc}
@@ -447,6 +465,10 @@ So I checked the others files:
 
 A Bia me informou que o SDU arrendonda os valores de tamanho dos arquivos, entao até o momento nao
 tive problemas com o download dos arquivos do mg\_rast
+
+\subsection{Amostras indicadas por Miguel na reuniao de 30 de novembro}
+Fiz um loop para baixar as amostras chamado: loop\_download\_6\_november.sh, funcionou no computador local, mas nao no servidor por algum motivo ligado a internet. Por isso, fiz o download das amostras no computador local e as transferi para o cluster Atlantico.
+
 
 \chapter{Format Conversion of NCBI metagenomes}
  
@@ -516,6 +538,10 @@ Jobs submetidos dia 19/10/2018:
 \item job\_54.sh - slurm 231755
 \end{itemize}
 
+\subsection{Taxonprofiling}
+Essa subsecao foi escrita apos o Rilquer construir um script que unifica as etapas de bioinformatica em um script unico.
+Com script do Rilquer chamando Taxonprofiling, todas as etapas de bioinformatica estão unidas em um so script. Os jobs acimas estão guardados, mas com a utilizacao do script que o Rilquer construiu, as amostras estao sendo analisadas no Atlantico, cluster da UFBA
+
 \chapter{Adaptacao dos identificadores}
 
 Esse passo fez-se necessário nas análises anteriores, pois quando eu fazia a limpeza, os arquivos de outputs que saiam eram apenas os singletons. 
@@ -538,6 +564,23 @@ This step is only required for NCBI metagenomes. The command line was proposed b
 \item trim\_qual\_left 25
 \item trim\_qual\_right 25
 \end{itemize}
+
+\subsection{Taxonprofiling}
+Essa subsecao foi escrita apos o Rilquer construir um script que unifica as etapas de bioinformatica em um script unico.
+A etapa do quality filter foi modificada pelo Rilquer, apos ele insistir com o professor sobre qual seriam os melhores parametros de qualidade. 
+
+Segue criterios de qualidade:
+\begin{itemize}
+\item min\_qual\_score 13
+\item trim\_qual\_left 13
+\item trim\_qual\_right 13
+\end{itemize}
+
+Linha parcial abaixo: 
+
+\begin{lstlisting}[breaklines]
+-min_qual_score 13 -trim_qual_left 13 -trim_qual_right 13 -ns_max_n 2
+\end{lstlisting}
 
 
 \chapter{Uniformity filter (size and N bases)}
@@ -573,7 +616,7 @@ srun\: Job has been cancelled
 \end{tcolorbox}
 
 
- \begin{figure}
+ \begin{figure}[H]
   \centering 
   \includegraphics[width=1.0\textwidth]{figures/Captura-2018-09-10 09-35-27.png}
   \caption{Erro no job no SDU}
@@ -585,6 +628,20 @@ Ressubmeti o job com:
 - Command: \textit{sbatch slurm\_job\_prinseq\_single\_corais\_FASTA.bash}
 \end{tcolorbox}
 
+\subsection{Utilizacao do Taxonprofiling}
+Essa subsecao foi escrita apos o Rilquer construir um script que unifica as etapas de bioinformatica em um script unico.
+Os criterios foram modificados para:
+\begin{itemize}
+\item -min\_len 50
+\item -ns\_max\_n 2
+\end{itemize}
+
+\textbf{Linha total}:
+\begin{lstlisting}[breaklines]
+prinseq-lite -verbose -fastq ${OUTDIR}/fastqdump_output/${id}_pass_1.fastq -fastq2 ${OUTDIR}/fastqdump_output/${id}_pass_2.fastq -min_len 50 -min_qual_score 13 -trim_qual_left 13 -trim_qual_right 13 -ns_max_n 2 -out_format 1
+
+\end{lstlisting}
+ 
 
 \chapter{Profilling metagenomes}
 \section{Mg-Rast metagenomes}
@@ -713,15 +770,28 @@ Comman 3: perl filterRank.pl --input table\_corais\_mg\_rast.from\_biom\_with\_t
 
 Output gerado: \textbf{abundance\_corais\_mgrast\_2.matrix} . O output gerado foi modificado no R, transposto, colocado em porcentagem e com os detalhes de genero, especie e estado de saude e retirei a linha gerada quando transformei em data frame, com X1, X2 e etc. 
 
+Coloquei para rodar novamente as amostras do MG-RAST para as matrizes de família serem geradas. Job: 123190.atlantico
+
 \subsection{SRA metagenomes}
 Originalmente, os arquivos estão no folder:\textbf {/fsprofpedro/holobionts/SRA}. O total de arquivos é 158764768. Para fazer o trabalho de fastq dump, limpeza e anotacao, os arquivos devem estar no seguinte folder:
 
 \begin{tcolorbox}[width=6.3in]
 - Folder: \textit{/home/pedro/holobionts\_temp/SRA} \\
 - Command: \textit{qsub profiling\_metagenomes\_corais\_SRA.sh}\\
-- Linha: \textit{taxonprofiling -d /home/pedro/holobionts\_temp/SRA -f SRA -t /fsprofpedro/aquifer\_dataset/sratoolkit.2.9.2-ubuntu64 -k /home/pedro/DB -o /home/pedro/holobionts\_temp/SRA/ -r p,f}
+- Linha: \textit{taxonprofiling -d /home/pedro/holobionts\_temp/SRA -f SRA -t /home/pedro/sratoolkit.2.9.2-ubuntu64 -k /home/pedro/DB -o /home/pedro/holobionts\_temp/SRA/ -r p,f}
 \end{tcolorbox}
 
+Submeti o job para amostras do SRA no Atlantico, job 123186.atlantico.  Notei que o job gerou os arquivos limpos, mas não encontro as matrizes de abundancias. Pedi ajuda do Rilquer. Testei uma linha isoladamente. 
+
+\begin{lstlisting}[breaklines]
+taxonprofiling -s /home/pedro/holobionts_temp/SRA/SRR6793730.sra -f SRA -t /home/pedro/sratoolkit.2.9.2-ubuntu64 -k /home/pedro/DB -o /home/pedro/holobionts_temp/SRA/ -r p,c,o,f,g
+\end{lstlisting}[breaklines]
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/erro_26_10.png}
+\caption{Erro com o script taxon profiling se manifestando ao não gerar as matrizes de abundância}
+\end{figure}
 
 
 \newpage
@@ -904,6 +974,26 @@ git push origin master \\
 Para transferencia: \\
 maquina remota para local:
 scp leticia.cavalcante@login.sdumont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt /home/leticia/Documentos/dados
+
+\subsection{30 de outubro 2018}
+Na reuniao com Amaro, Miguel e o professor, mostrei os slides contendo os resultados obtidos com analises dos metagenomas utilizando a base de dados definitiva. Foram levantadas as seguintes questoes:
+\begin{itemize}
+\item As analises por familias não nos disseram muita coisa, alem de nao conter familias dos grupos nao cultivados por nao existir tal resolucao taxonomica. Por isso, utilizaremos apenas filo para trabalhar
+\item Fazer um PCA utilizando especies de coral sem identificar status de saude visualmente
+\item Fazer um PCA utilizando apenas amostras de corais saudaveis, identificando apenas genero
+\end{itemize}
+Tipo, se quero ver a diferenca existente entre as comunidades de generos de corais diferentes, devo fazer a analise só utilizando saudaveis em um caso e em outro sem identificar o estado de saude.
+
+\begin{itemize}
+\item Fazer um pca identificando apenas corais saudaveis e doentes, sem identificar visualmente o genero 
+\item Fazer um pca utilizando apenas corais doentes
+\item utilizar mais filos indicados pelo random forest para fazer o pca
+\item PCA por especie
+\item Procurar por amostras de madracis que o professor trabalho - FEITO
+\item fazer uma planilha simplificada para Miguel e Amanda - FEITO (re-enviar a planilha, visto que encontrei as amostras e as incluirei na planilha de metagenomas)
+\end{itemize}
+
+
 
  \bibliographystyle{apalike}
  \bibliography{ref}
