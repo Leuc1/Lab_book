@@ -50,7 +50,7 @@
  \hspace{0.2cm}
  \normalsize  
  
-  \LaTeX{} is a high-quality typesetting system, available as free software, which allows to produce scientific or technical documents \cite{latex-main}. I am using \LaTeX{} to create a Bioinformatics Lab Book. To compile my Lab Book, I can use command lines (\command{pdflatex} and \command{bibtex}). Afterwards I can visualise the produced {\it .pdf} file with evince or another reader. Alternatevily, I can use a Latex editor, such as TexWorks (\url{https://www.tug.org/texworks/}), which allows me to write the code and control the {\it pdf} file in the same environment (Figure~\ref{texworks}).  \\
+  \LaTeX{} is a high-quality typesetting system, available as free software, which allows to produce scientific or technical documents latex-main. I am using \LaTeX{} to create a Bioinformatics Lab Book. To compile my Lab Book, I can use command lines (\command{pdflatex} and \command{bibtex}). Afterwards I can visualise the produced {\it .pdf} file with evince or another reader. Alternatevily, I can use a Latex editor, such as TexWorks (\url{https://www.tug.org/texworks/}), which allows me to write the code and control the {\it pdf} file in the same environment (Figure~\ref{texworks}).  \\
   
  % \newpage
   
@@ -901,6 +901,185 @@ As figuras a seguir foram feitas com dados de abundancia gerados com a ajuda do 
 \caption{PCA GERADO COM OS PRIMEIROS 15 FILOS DO RANDOM FOREST SUPERVISIONADO POR GENERO}
 \end{figure}
 
+\section{Obtencao de figuras 30/10/2018}
+O Rilquer sinalizou que a base de dados ainda tinha alguns problemas, entao tive de refazer as analises. Fiz análises para familia e filo. Ordem: \\
+\textbf{FILO:}
+\begin{itemize}
+\item nMDS 
+\item PCA geral
+\item Random Forest nao supervisionado
+\item PCA com os 20 primeiros filos indicados pelo RF nao supervisionado
+\item PCA com os 15 primeiros filos  indicados pelo RF nao supervisionado
+\item PCA com 10 primeiros filos  indicados pelo RF nao supervisionado
+\item Random Forest supervisionado por genero de coral
+\item PCA com os 20 primeiros filos  indicados pelo RF supervisionado por genero
+\item PCA com os 15 primeiros filos  indicados pelo RF supervisionado por genero
+\item PCA com 10 primeiros filos  indicados pelo RF supervisionado por genero
+\item Random Forest supervisionado por saude de coral
+\item PCA com os 20 primeiros filos  indicados pelo RF supervisionado por saude de coral
+\item PCA com os 15 primeiros filos  indicados pelo RF supervisionado por saude de coral
+\item PCA com 10 primeiros filos  indicados pelo RF supervisionado por saude de coral
+\end{itemize}
+
+\textbf{FAMILIA:}
+\begin{itemize}
+\item nMDS 
+\item PCA geral
+\item \textbf{Random Forest nao supervisionado}
+\item PCA com os 20 primeiras familias indicados pelo RF nao supervisionado
+\item PCA com os 15 primeiras familias  indicados pelo RF nao supervisionado
+\item PCA com 10 primeiros familias indicados pelo RF nao supervisionado
+\item \textbf{Random Forest supervisionado por genero de coral}
+\item PCA com os 20 primeiros familias  indicados pelo RF supervisionado por genero
+\item PCA com os 15 primeiros familias  indicados pelo RF supervisionado por genero
+\item PCA com 10 primeiros familias  indicados pelo RF supervisionado por genero
+\item \textbf{Random Forest supervisionado por saude de coral}
+\item PCA com os 20 primeiros familias  indicados pelo RF supervisionado por saude de coral
+\item PCA com os 15 primeiros familias  indicados pelo RF supervisionado por saude de coral
+\item PCA com 10 primeiros familias  indicados pelo RF supervisionado por saude de coral
+\end{itemize}
+
+\subsection{FILO}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/filos/nMDS_filos_corais_2018_10_30.jpg}
+\caption{nMDS feito com matriz de abundancia de filos}
+\label{fig:nMDSfeito30deoutubro}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg}
+\caption{PCA geral feito com matriz de abundancia de filos}
+\label{fig:PCAfeito30deoutubro}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia_2018_10_30.jpeg}
+\caption{RANDOM FOREST NÃO SUPERVISIONADO DAS AMOSTRAS DE CORAIS DO MG RAST FEITO DIA 30 DE OUTUBRO}
+\label{fig:Rfnaosupervisionadofeito30deoutubro}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018.jpg}
+\caption{PCA feito com os 20 primeiros filos indicados pelo Random Forest não supervisionado 30 DE OUTUBRO}
+\label{fig:PCAcom20filosderivadodoRfnaosupervisionadofeito30deoutubro}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018.jpg}
+\caption{PCA feito com os 15 primeiros filos indicados pelo Random Forest não supervisionado 30 DE OUTUBRO}
+\label{fig:PCAcom15filosderivadodoRfnaosupervisionadofeito30deoutubro}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_2018_10_30.jpeg}
+\caption{Random Forest supervisionado por genero de coral feito 30 de novembro}
+\label{fig:RandomForestsupervisionadoporgenerodecoral}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_2018.jpg}
+\caption{PCA com 20 filos indicados pelo Random Forest supervisionado por genero de coral feito 30 de novembro}
+\label{fig:PCAfeitocom20filosrandomForestsupervisionadoporgenerodecoral}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_2018.jpg}
+\caption{PCA com 15 filos indicados pelo Random Forest supervisionado por genero de coral feito 30 de novembro}
+\label{fig:PCAfeitocom15filosrandomForestsupervisionadoporgenerodecoral}
+\end{figure}
+
+\subsection{FAMILIA}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg}
+\caption{nMDS feito com matriz de abundancia de familias}
+\label{fig:nMDSfeito30deoutubroparafamilia}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg}
+\caption{PCA geral feito com matriz de abundancia de familias}
+\label{fig:PCAfeito30deoutubroparafamilia}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_2018_10_30.jpeg}
+\caption{RANDOM FOREST NAO SUPERVISIONADO PARA FAMILIAS}
+\label{fig:Randomforestnaosupervisionadoparafamilafeito30deoutubroparafamilia}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10_2018.jpg}
+\caption{PCA FEITO COM OS 20 FAMILIAS INDICADOS PELO RANDOM FOREST NÃO SUPERVISIONADO PARA FAMILIAS}
+\label{fig:PCAFEITOCOM20FAMILIAS}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10_2018.jpg}
+\caption{PCA FEITO COM OS 15 FAMILIAS INDICADOS PELO RANDOM FOREST NÃO SUPERVISIONADO PARA FAMILIAS}
+\label{fig:PCAFEITOCOM15FAMILIAS}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10_2018.jpg}
+\caption{PCA FEITO COM OS 10 FAMILIAS INDICADOS PELO RANDOM FOREST NÃO SUPERVISIONADO PARA FAMILIAS}
+\label{fig:PCAFEITOCOM10FAMILIAS}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_leticia_2018_10_30.jpeg}
+\caption{RANDOM FOREST SUPERVISIONADO POR GENERO}
+\label{fig:RFSUPERVISIONADOGENEROPFAMILIAS}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23_10_2018.jpg}
+\caption{PCA FEITO COM OS 20 FAMILIAS INDICADOS PELO RANDOM FOREST SUPERVISIONADO POR GENERO PARA FAMILIAS DE MICRORGANISMOS}
+\label{fig:PCA20FAMILIASDERIVADODORFSUPERVISIONADOGENEROPFAMILIAS}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30_10_2018.jpg}
+\caption{PCA FEITO COM OS 15 FAMILIAS INDICADOS PELO RANDOM FOREST SUPERVISIONADO POR GENERO PARA FAMILIAS DE MICRORGANISMOS}
+\label{fig:PCA15FAMILIASDERIVADODORFSUPERVISIONADOGENEROPFAMILIAS}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30_10_2018.jpg}
+\caption{PCA FEITO COM OS 10 FAMILIAS INDICADOS PELO RANDOM FOREST SUPERVISIONADO POR GENERO PARA FAMILIAS DE MICRORGANISMOS}
+\label{fig:PCA10FAMILIASDERIVADODORFSUPERVISIONADOGENEROPFAMILIAS}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_leticia_2018_10_30.jpeg}
+\caption{RANDOM FOREST SUPERVISIONADO POR SAUDE}
+\label{fig:RANDOMFORESTSUPERVISIONADOPORSAUDE}
+\end{figure}
+
+\subsection{Ferramenta microbiome no R}
+O professor recomendou utilizar a seguinte ferramenta: \url{https://microbiome.github.io/microbiome/#getting-started}. Talvez seja interessante para gerar as figuras de análises.
+
+Lendo sobre o pacote, percebi que vou precisar que os dados estejam em um formato legível pelo pacote, o formato "phyloseq". Para transformar o dado, segue a página que explica como fazer isso \url{https://joey711.github.io/phyloseq/import-data.html}.
+A página recomenda baixar, entre os vários pacotes, o library(BiocManager), 
 
 \newpage
 \chapter{Functional annotation of metagenomes}
@@ -949,22 +1128,12 @@ in marine sponges
 
 \chapter{Softwares, instalacao e linhas}
 
-\section{Profilling metagenomes}
-
-\chapter{Fundamentos teoricos}
-
-
-\chapter{meetings}
-
-
-
-
 Instalar o kraken-biome
 
-\begin{tcolorbox}[width=6.5in]
-- Folder: \textit{/home/leticia}\\
-- Command: \textit{pip install kraken-biom}\\
-- Site: \textit{https://github.com/smdabdoub/kraken-biom}
+\begin{tcolorbox}[width=6.0in]
+	- Folder: \textit{/home/leticia}\\
+	- Command: \textit{pip install kraken-biom}\\
+	- Site: \textit{https://github.com/smdabdoub/kraken-biom}
 \end{tcolorbox}
 
 Para atualizacao: \\
@@ -974,6 +1143,15 @@ git push origin master \\
 Para transferencia: \\
 maquina remota para local:
 scp leticia.cavalcante@login.sdumont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt /home/leticia/Documentos/dados
+
+\section{Profilling metagenomes}
+
+\chapter{Fundamentos teoricos}
+
+
+\chapter{Meetings}
+
+\chapter{Escrita do artigo}
 
 \subsection{30 de outubro 2018}
 Na reuniao com Amaro, Miguel e o professor, mostrei os slides contendo os resultados obtidos com analises dos metagenomas utilizando a base de dados definitiva. Foram levantadas as seguintes questoes:
@@ -993,7 +1171,35 @@ Tipo, se quero ver a diferenca existente entre as comunidades de generos de cora
 \item fazer uma planilha simplificada para Miguel e Amanda - FEITO (re-enviar a planilha, visto que encontrei as amostras e as incluirei na planilha de metagenomas)
 \end{itemize}
 
+\section{30 de novembro}
+Visto que as figuras não ficarão prontas até o dia da reunião 02/12, eu conversei ontem com o professor sobre o que falar nessa reunião e ele pediu para que aprensentássemos a estrutura proposta do artigo em vez de remarcar. Eu já tinha uma estrutura de tópicos do artigo pronta, arquivo: topic\_paper.odt na pasta papers. Mostrei a Amanda, para saber se estava claro. Ela me ajudou a re-estrutura a parte dos results, com quais perguntas quero responder com as figuras que produzirei. Ficou da seguinte maneira:\\
 
+\begin{enumerate}
+\item Pergunta: Quais os filos mais abundantes e qual fator faz com que a abundância desses variem? 
+	\begin{itemize}
+	\item Fator saude: Existe diferença na abundância desses mais abundantes entre corais com diferentes estados de saúde?\\
+	\textbf{Barplot, com X sendo corais saudáveis e doentes}
+	\item Fator localidade: Existe diferença na abundância desses mais abundantes entre corais com diferentes localidades?\\
+	\textbf{Boxplot, com X sendo diferentes localidades}
+	\item Fator desenvolvimento: Existe diferença na abundancia desses mais abundantes entre corais com diferentes tipos de desenvolvimento?\\
+	\textbf{Barplot, com X sendo diferentes tipos de desenvolvimento}
+	\end{itemize}
+\item Pergunta: A estrutura da comunidade difere quanto a:
+	\begin{itemize}
+	\item Estado de Saude?
+		\begin{itemize}
+		\item nMDS de healthy vs diseased
+		\end{itemize}
+	\item Localidade? 
+		\begin{itemize}
+		\item nMDS de diferentes localidades
+		\end{itemize}
+	\item Desenvolvimento?
+	\end{itemize}
+\item Pergunta: Qual a biosfera rara? Quais filos são ubíques?
+Tabela suplementar sugerida pela Amanda, em que as linhas são filos e as colunas será raridade a 1\% e raridade a 5\% e ubiquidade em 50\% das amostras e 75\%? 
+Maneiras de visualizar?
+\end{enumerate}
 
  \bibliographystyle{apalike}
  \bibliography{ref}
