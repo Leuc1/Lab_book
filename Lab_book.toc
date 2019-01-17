@@ -7,40 +7,44 @@
 \contentsline {chapter}{\numberline {2}Creation of data base of metagenomes and genomes}{6}{chapter.2}
 \contentsline {section}{\numberline {2.1}28}{6}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Bibliographic search for genomes}{6}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Janeiro 2019}{10}{subsection.2.1.2}
 \contentsline {section}{\numberline {2.2}28}{10}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Bibliographic search for metagenomes}{10}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Amostras do MG-RAST indicadas pelo professor e Miguel}{12}{subsection.2.2.2}
-\contentsline {chapter}{\numberline {3}Download of metagenomes}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Download of mg-rast files}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}Download of NCBI metagenomes}{13}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Amostras indicadas por Miguel na reuniao de 30 de novembro}{14}{subsection.3.2.1}
-\contentsline {chapter}{\numberline {4}Format Conversion of NCBI metagenomes}{15}{chapter.4}
-\contentsline {subsection}{\numberline {4.0.1}Taxonprofiling}{17}{subsection.4.0.1}
-\contentsline {chapter}{\numberline {5}Adaptacao dos identificadores}{18}{chapter.5}
-\contentsline {chapter}{\numberline {6}Quality filter}{19}{chapter.6}
-\contentsline {subsection}{\numberline {6.0.1}Taxonprofiling}{19}{subsection.6.0.1}
-\contentsline {chapter}{\numberline {7}Uniformity filter (size and N bases)}{20}{chapter.7}
-\contentsline {section}{\numberline {7.1}Command line}{20}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Utilizacao do Taxonprofiling}{21}{subsection.7.1.1}
-\contentsline {chapter}{\numberline {8}Profilling metagenomes}{22}{chapter.8}
-\contentsline {section}{\numberline {8.1}Mg-Rast metagenomes}{22}{section.8.1}
-\contentsline {section}{\numberline {8.2}Kraken-biom}{22}{section.8.2}
-\contentsline {section}{\numberline {8.3}Teste com o kraken no scratch}{23}{section.8.3}
-\contentsline {section}{\numberline {8.4}Profiling no Atlantico com a ajuda do Rilquer}{25}{section.8.4}
-\contentsline {subsection}{\numberline {8.4.1}MG RAST metagenomes}{25}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {8.4.2}SRA metagenomes}{26}{subsection.8.4.2}
-\contentsline {section}{\numberline {8.5}Analises e obtencao de figuras}{28}{section.8.5}
-\contentsline {section}{\numberline {8.6}Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{33}{section.8.6}
-\contentsline {section}{\numberline {8.7}Obtencao de figuras 30/10/2018}{39}{section.8.7}
-\contentsline {subsection}{\numberline {8.7.1}FILO}{41}{subsection.8.7.1}
-\contentsline {subsection}{\numberline {8.7.2}FAMILIA}{45}{subsection.8.7.2}
-\contentsline {subsection}{\numberline {8.7.3}Ferramenta microbiome no R}{50}{subsection.8.7.3}
-\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{51}{chapter.9}
-\contentsline {chapter}{\numberline {10}references}{53}{chapter.10}
-\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{55}{chapter.11}
-\contentsline {section}{\numberline {11.1}Profilling metagenomes}{55}{section.11.1}
-\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{56}{chapter.12}
-\contentsline {chapter}{\numberline {13}Meetings}{57}{chapter.13}
-\contentsline {chapter}{\numberline {14}Escrita do artigo}{58}{chapter.14}
-\contentsline {subsection}{\numberline {14.0.1}30 de outubro 2018}{58}{subsection.14.0.1}
-\contentsline {section}{\numberline {14.1}30 de novembro}{59}{section.14.1}
+\contentsline {subsection}{\numberline {2.2.2}Amostras do MG-RAST indicadas pelo professor e Miguel}{13}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}Download of metagenomes}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Download of mg-rast files}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}Download of NCBI metagenomes}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Amostras indicadas por Miguel na reuniao de 30 de novembro}{15}{subsection.3.2.1}
+\contentsline {chapter}{\numberline {4}Format Conversion of NCBI metagenomes}{16}{chapter.4}
+\contentsline {subsection}{\numberline {4.0.1}Taxonprofiling}{18}{subsection.4.0.1}
+\contentsline {chapter}{\numberline {5}Adaptacao dos identificadores}{19}{chapter.5}
+\contentsline {chapter}{\numberline {6}Quality filter}{20}{chapter.6}
+\contentsline {subsection}{\numberline {6.0.1}Taxonprofiling}{20}{subsection.6.0.1}
+\contentsline {chapter}{\numberline {7}Uniformity filter (size and N bases)}{21}{chapter.7}
+\contentsline {section}{\numberline {7.1}Command line}{21}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Utilizacao do Taxonprofiling}{22}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Janeiro de 2019}{22}{subsection.7.1.2}
+\contentsline {chapter}{\numberline {8}Profilling metagenomes}{24}{chapter.8}
+\contentsline {section}{\numberline {8.1}Mg-Rast metagenomes}{24}{section.8.1}
+\contentsline {section}{\numberline {8.2}Kraken-biom}{24}{section.8.2}
+\contentsline {section}{\numberline {8.3}Teste com o kraken no scratch}{25}{section.8.3}
+\contentsline {section}{\numberline {8.4}Profiling no Atlantico com a ajuda do Rilquer}{27}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}MG RAST metagenomes}{27}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}SRA metagenomes}{28}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.3}Janeiro de 2019}{29}{subsection.8.4.3}
+\contentsline {section}{\numberline {8.5}Analises e obtencao de figuras}{30}{section.8.5}
+\contentsline {section}{\numberline {8.6}Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{35}{section.8.6}
+\contentsline {section}{\numberline {8.7}Obtencao de figuras 30/10/2018}{41}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}FILO}{43}{subsection.8.7.1}
+\contentsline {subsection}{\numberline {8.7.2}FAMILIA}{47}{subsection.8.7.2}
+\contentsline {subsection}{\numberline {8.7.3}Ferramenta microbiome no R}{52}{subsection.8.7.3}
+\contentsline {subsubsection}{Instalando ferramenta}{52}{section*.43}
+\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{53}{chapter.9}
+\contentsline {chapter}{\numberline {10}references}{55}{chapter.10}
+\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{57}{chapter.11}
+\contentsline {section}{\numberline {11.1}Profilling metagenomes}{57}{section.11.1}
+\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{58}{chapter.12}
+\contentsline {chapter}{\numberline {13}Meetings}{59}{chapter.13}
+\contentsline {chapter}{\numberline {14}Escrita do artigo}{60}{chapter.14}
+\contentsline {subsection}{\numberline {14.0.1}30 de outubro 2018}{60}{subsection.14.0.1}
+\contentsline {section}{\numberline {14.1}30 de novembro}{61}{section.14.1}

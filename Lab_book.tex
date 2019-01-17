@@ -247,10 +247,16 @@ The list os correspondent phyla and articles is above\:
 10.1038/nature21031 &  Lokiarchaeota \\
 10.1038/nature21031 & Odinarchaeota \\
 10.1038/nature21031 & Heimdallarchaeota \\
-
  \hline
   \end{longtable}
 \end{center}
+
+\subsection{Janeiro 2019}
+A quantidade de genomas aumentou razoavelmente, mas existem problemas na tabela e o Amaro pediu minha ajuda para melhora-la. A primeira coisa da qual corri atrás foi das linhas que continham duas referencias de artigos. Fui no primeiro artigo: Differential depth distribution of microbial function and putative symbionts through sediment-hosted aquifers in the deep terrestrial subsurface e li um pouco por alto para encontrar a informação de construçao. Acabei notando que o artigo tem o seguinte trecho: "The genome database was constructed from genomes, from metagenomes and from single-cell genomes (SAGs) collected in 2014. First, all curated, newly binned genomes from metagenomes (985 in total) were combined with 222 previously published genomes". Ou seja, 222 genomas não foram reconstruidos pelo artigo e são de uma referencia anterior, do artigo: "Genomic resolution of a cold subsurface aquifer community provides metabolic insights for novel microbes adapted to high CO2 concentrations" \textbf{Environ. Microbiol. 19, 459–474 (2017)}." Indo no final desse artigo, encontrei referencias a dois bioprojects: PRJNA229517 and PRJNA297582. Ao ir nesse PRJNA229517, só encontrei listados Biosamples. 
+
+Como saber se o GenBank acession é correspondente ao identificador do Assembly Acession? R: Colocar o ID do Assembly acession para procurar em todas as bases de dados do ncbi e clicar em Assembly. Na página, virá o arquivo do GenBank e podemos checar o numero. 
+
+ARTZ00000000 - Essa sequencia foi removida e substituida por uma nova versao ARTZ00000000.1 - Esta destacada na planilha para falar para o Amaro, porque no artigo a sequencia esta com o identificador antigo.
 
 \section{28}
 
@@ -641,6 +647,24 @@ Os criterios foram modificados para:
 prinseq-lite -verbose -fastq ${OUTDIR}/fastqdump_output/${id}_pass_1.fastq -fastq2 ${OUTDIR}/fastqdump_output/${id}_pass_2.fastq -min_len 50 -min_qual_score 13 -trim_qual_left 13 -trim_qual_right 13 -ns_max_n 2 -out_format 1
 
 \end{lstlisting}
+
+\subsection{Janeiro de 2019}
+Eu não encontrei alguns dos metagenomas limpos para fazer a re-anotacao, então eu preparei um script para poder fazer o prinseq isoladamente para as amostras do mg-rast. Existe uma copia local e no Atlantico. Para executar o prinseq, é necessario submeter um job em que haja a execucao do script que criei. 
+
+COPIA LOCAL
+\begin{tcolorbox}[width=6.3in]
+	- Folder: /home/leticia/Documentos/libs/leticia\_profiling\_metagenomes
+	- Script: loop\_prinseq\_janeiro\_16\_2019.sh
+	- Command: bash loop\_prinseq\_janeiro\_16\_2019.sh
+\end{tcolorbox}
+
+NO ATLANTICO
+\begin{tcolorbox}[width=6.3in]
+	- Folder: /fsprofpedro/holobionts/mgrast/metagenomas\\
+	- Script: loop\_prinseq\_16\_jan\_2019.sh\\
+	- Script de submissao de job no Atlantico: job\_prinseq\_isolado\_16\_jan\_2019.sh\\
+	- Numero de submissao: 153939.atlantico
+\end{tcolorbox}
  
 
 \chapter{Profilling metagenomes}
@@ -792,6 +816,18 @@ taxonprofiling -s /home/pedro/holobionts_temp/SRA/SRR6793730.sra -f SRA -t /home
 \includegraphics[scale=0.3]{figures/erro_26_10.png}
 \caption{Erro com o script taxon profiling se manifestando ao não gerar as matrizes de abundância}
 \end{figure}
+
+\subsection{Janeiro de 2019}
+O Rilquer me informou de problemas na base de dados, então o profiling deve ser refeito. Para facilitar o trabalho, perguntei a ele se ele queria que os metagenomas limpos estivessem em algum local específico para facilitar a re-anotacao. Ele disse que sim. O folder de destino que ele pediu foi: /fsprofpedro/holobiontes\_limpos
+
+Para nao ter de copiar tudo a mao, fiz um script para copiar os metagenomas. Existem duas copias desse script, uma no computador local, no folder: /home/leticia/Documentos/libs/leticia\_profiling\_metagenomes, o nome é loopinho.sh. No Atlantico, está no folder: /fsprofpedro/holobionts/SRA/output/fastqdump\_output, nome: \textbf{loopinho\_copiar.sh}. 
+
+\begin{tcolorbox}[width=6.3in]
+	- Script: loopinho\_copiar.sh\\
+	- Command: nohup bash loopinho\_copiar.sh\\
+	- Folder: /fsprofpedro/holobionts/SRA/output/fastqdump\_output
+\end{tcolorbox}
+
 
 
 \newpage
@@ -1079,7 +1115,10 @@ O Rilquer sinalizou que a base de dados ainda tinha alguns problemas, entao tive
 O professor recomendou utilizar a seguinte ferramenta: \url{https://microbiome.github.io/microbiome/#getting-started}. Talvez seja interessante para gerar as figuras de análises.
 
 Lendo sobre o pacote, percebi que vou precisar que os dados estejam em um formato legível pelo pacote, o formato "phyloseq". Para transformar o dado, segue a página que explica como fazer isso \url{https://joey711.github.io/phyloseq/import-data.html}.
-A página recomenda baixar, entre os vários pacotes, o library(BiocManager), 
+A página recomenda baixar, entre os vários pacotes, o library(BiocManager). 
+\subsubsection{Instalando ferramenta}
+Primeiro, deve-se ter R 3.5. Depois instalar o pacote devtools. Depois o pacote BiocManager. 
+
 
 \newpage
 \chapter{Functional annotation of metagenomes}
@@ -1136,7 +1175,7 @@ Instalar o kraken-biome
 	- Site: \textit{https://github.com/smdabdoub/kraken-biom}
 \end{tcolorbox}
 
-Para atualizacao: \\
+Para atualizacao do Lab-Book para o Git-Hub: \\
 git commit \\
 git push origin master \\
 
