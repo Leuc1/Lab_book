@@ -382,6 +382,10 @@ O estado de saude dessas amostras nao esta claramente indicado no MG-RAST, mas p
 
 O professor indicou procurar pelo laboratorio do professor Alexandre Rosado, para encontrar mais amostras de metagenomas de corais feitas no Brasil, especificamente nos trabalho de Raquel Peixoto (nao estava encontrando antes porque pensava que o nome era Raquel Rosado). Indo em seu perfil no google academico, utilizei o recurso de ctrl f, pesquisando por coral. Os trabalhos que continham 'coral' no título não são de metagenoma. 
 
+\subsection{Janeiro de 2019}
+
+Ao preparar os dados para refazer o mapa das amostras, notei coordenadas estranhas e notei problemas nas coordenadas na planilha de metadados. O primeiro que estou tentando solucionar são as coordenadas do trabalho de Dark Spot Syndrome. Eu copiando os dados da planilha para um arquivo novo e apaguei todos do trabalho de Dark Spot syndrome. Para recomeçar com esses dados do 0, eu baixei a BioInfotable do estudos do SRA indicados pelo artigo \href{https://www.frontiersin.org/articles/10.3389/fmars.2018.00101/full}{"Corals and Their Microbiomes Are Differentially Affected by Exposure to Elevated Nutrients and a Natural Thermal Anomaly"}: SRP133535 for the 2014 metagenomes and SRP133699 for the 2012 metagenomes. A BioInfo table de 2014 esta nomeada como SraRunTable\_2014.txt, a de 2012 SraRunTable\_2012.txt. Comecei a editar a de 2014 e a primeira coisa que retirei foram linhas cujo numero de bases e bytes eram 0, o que indica que eram metagenomas vazios. 2 metagenomas estavam nessas condições, então os retirei. Também retirei aqueles em que continham 'seawater metagenome' na coluna 'organism', pois interpretei que provavelmente eram metagenomas de água. 6 metagenomas estavam assim. 
+Coisas para segunda: terminar de preencher a nova tabela e separar duas partes em metadados ambientais e de bioinformatica, decidir a unidade armazenamento, gb ou mgb
 
 \chapter{Download of metagenomes}
 \section{Download of mg-rast files} 
@@ -1110,6 +1114,30 @@ O Rilquer sinalizou que a base de dados ainda tinha alguns problemas, entao tive
 \caption{RANDOM FOREST SUPERVISIONADO POR SAUDE}
 \label{fig:RANDOMFORESTSUPERVISIONADOPORSAUDE}
 \end{figure}
+
+\section{Figuras feitas em dezembro de 2018}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.3]{figures/RF_nao_super_2018_12_20.png}
+	\caption{RANDOM FOREST NÃO SUPERVISIONADO FEITO DIA 20 DE DEZEMBRO DE 2018}
+	\label{fig:RANDOM FOREST NAO SUPERVISIONADO FEITO DIA 20 DE DEZEMBRO}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.3]{figures/RF_super_saude_2018_12_20.png}
+	\caption{RANDOM FOREST SUPERVISIONADO POR ESTADO DE SAUDE FEITO DIA 20 DE DEZEMBRO}
+	\label{fig: RANDOM FOREST SUPERVISIONADO POR ESTADO DE SAÚDE FEITO DIA 20 DE DEZEMBRO}
+\end{figure}	
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.3]{figures/RF_super_genero_2018_12_20.png}
+	\caption{RANDOM FOREST SUPERVISIONADO POR GENERO FEITO DIA 20 DE DEZEMBRO}
+	\label{fig: RANDOM FOREST SUPERVISIONADO POR GENERO FEITO DIA 20 DE DEZEMBRO}
+\end{figure}
+
 
 \subsection{Ferramenta microbiome no R}
 O professor recomendou utilizar a seguinte ferramenta: \url{https://microbiome.github.io/microbiome/#getting-started}. Talvez seja interessante para gerar as figuras de análises.
