@@ -11,40 +11,41 @@
 \BOOKMARK [2][-]{subsection.2.2.1}{Bibliographic search for metagenomes}{section.2.2}% 11
 \BOOKMARK [2][-]{subsection.2.2.2}{Amostras do MG-RAST indicadas pelo professor e Miguel}{section.2.2}% 12
 \BOOKMARK [2][-]{subsection.2.2.3}{Janeiro de 2019}{section.2.2}% 13
-\BOOKMARK [0][-]{chapter.3}{Download of metagenomes}{}% 14
-\BOOKMARK [1][-]{section.3.1}{Download of mg-rast files}{chapter.3}% 15
-\BOOKMARK [1][-]{section.3.2}{Download of NCBI metagenomes}{chapter.3}% 16
-\BOOKMARK [2][-]{subsection.3.2.1}{Amostras indicadas por Miguel na reuniao de 30 de novembro}{section.3.2}% 17
-\BOOKMARK [0][-]{chapter.4}{Format Conversion of NCBI metagenomes}{}% 18
-\BOOKMARK [1][-]{subsection.4.0.1}{Taxonprofiling}{chapter.4}% 19
-\BOOKMARK [0][-]{chapter.5}{Adaptacao dos identificadores}{}% 20
-\BOOKMARK [0][-]{chapter.6}{Quality filter}{}% 21
-\BOOKMARK [1][-]{subsection.6.0.1}{Taxonprofiling}{chapter.6}% 22
-\BOOKMARK [0][-]{chapter.7}{Uniformity filter \(size and N bases\)}{}% 23
-\BOOKMARK [1][-]{section.7.1}{Command line}{chapter.7}% 24
-\BOOKMARK [2][-]{subsection.7.1.1}{Utilizacao do Taxonprofiling}{section.7.1}% 25
-\BOOKMARK [2][-]{subsection.7.1.2}{Janeiro de 2019}{section.7.1}% 26
-\BOOKMARK [0][-]{chapter.8}{Profilling metagenomes}{}% 27
-\BOOKMARK [1][-]{section.8.1}{Mg-Rast metagenomes}{chapter.8}% 28
-\BOOKMARK [1][-]{section.8.2}{Kraken-biom}{chapter.8}% 29
-\BOOKMARK [1][-]{section.8.3}{Teste com o kraken no scratch}{chapter.8}% 30
-\BOOKMARK [1][-]{section.8.4}{Profiling no Atlantico com a ajuda do Rilquer}{chapter.8}% 31
-\BOOKMARK [2][-]{subsection.8.4.1}{MG RAST metagenomes}{section.8.4}% 32
-\BOOKMARK [2][-]{subsection.8.4.2}{SRA metagenomes}{section.8.4}% 33
-\BOOKMARK [2][-]{subsection.8.4.3}{Janeiro de 2019}{section.8.4}% 34
-\BOOKMARK [1][-]{section.8.5}{Analises e obtencao de figuras}{chapter.8}% 35
-\BOOKMARK [1][-]{section.8.6}{Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{chapter.8}% 36
-\BOOKMARK [1][-]{section.8.7}{Obtencao de figuras 30/10/2018}{chapter.8}% 37
-\BOOKMARK [2][-]{subsection.8.7.1}{FILO}{section.8.7}% 38
-\BOOKMARK [2][-]{subsection.8.7.2}{FAMILIA}{section.8.7}% 39
-\BOOKMARK [1][-]{section.8.8}{Figuras feitas em dezembro de 2018}{chapter.8}% 40
-\BOOKMARK [2][-]{subsection.8.8.1}{Ferramenta microbiome no R}{section.8.8}% 41
-\BOOKMARK [0][-]{chapter.9}{Functional annotation of metagenomes}{}% 42
-\BOOKMARK [0][-]{chapter.10}{references}{}% 43
-\BOOKMARK [0][-]{chapter.11}{Softwares, instalacao e linhas}{}% 44
-\BOOKMARK [1][-]{section.11.1}{Profilling metagenomes}{chapter.11}% 45
-\BOOKMARK [0][-]{chapter.12}{Fundamentos teoricos}{}% 46
-\BOOKMARK [0][-]{chapter.13}{Meetings}{}% 47
-\BOOKMARK [0][-]{chapter.14}{Escrita do artigo}{}% 48
-\BOOKMARK [1][-]{subsection.14.0.1}{30 de outubro 2018}{chapter.14}% 49
-\BOOKMARK [1][-]{section.14.1}{30 de novembro}{chapter.14}% 50
+\BOOKMARK [1][-]{section.2.3}{Mapa das amostras}{chapter.2}% 14
+\BOOKMARK [0][-]{chapter.3}{Download of metagenomes}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Download of mg-rast files}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.2}{Download of NCBI metagenomes}{chapter.3}% 17
+\BOOKMARK [2][-]{subsection.3.2.1}{Amostras indicadas por Miguel na reuniao de 30 de novembro}{section.3.2}% 18
+\BOOKMARK [0][-]{chapter.4}{Format Conversion of NCBI metagenomes}{}% 19
+\BOOKMARK [1][-]{subsection.4.0.1}{Taxonprofiling}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{Adaptacao dos identificadores}{}% 21
+\BOOKMARK [0][-]{chapter.6}{Quality filter}{}% 22
+\BOOKMARK [1][-]{subsection.6.0.1}{Taxonprofiling}{chapter.6}% 23
+\BOOKMARK [0][-]{chapter.7}{Uniformity filter \(size and N bases\)}{}% 24
+\BOOKMARK [1][-]{section.7.1}{Command line}{chapter.7}% 25
+\BOOKMARK [2][-]{subsection.7.1.1}{Utilizacao do Taxonprofiling}{section.7.1}% 26
+\BOOKMARK [2][-]{subsection.7.1.2}{Janeiro de 2019}{section.7.1}% 27
+\BOOKMARK [0][-]{chapter.8}{Profilling metagenomes}{}% 28
+\BOOKMARK [1][-]{section.8.1}{Mg-Rast metagenomes}{chapter.8}% 29
+\BOOKMARK [1][-]{section.8.2}{Kraken-biom}{chapter.8}% 30
+\BOOKMARK [1][-]{section.8.3}{Teste com o kraken no scratch}{chapter.8}% 31
+\BOOKMARK [1][-]{section.8.4}{Profiling no Atlantico com a ajuda do Rilquer}{chapter.8}% 32
+\BOOKMARK [2][-]{subsection.8.4.1}{MG RAST metagenomes}{section.8.4}% 33
+\BOOKMARK [2][-]{subsection.8.4.2}{SRA metagenomes}{section.8.4}% 34
+\BOOKMARK [2][-]{subsection.8.4.3}{Janeiro de 2019}{section.8.4}% 35
+\BOOKMARK [1][-]{section.8.5}{Analises e obtencao de figuras}{chapter.8}% 36
+\BOOKMARK [1][-]{section.8.6}{Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{chapter.8}% 37
+\BOOKMARK [1][-]{section.8.7}{Obtencao de figuras 30/10/2018}{chapter.8}% 38
+\BOOKMARK [2][-]{subsection.8.7.1}{FILO}{section.8.7}% 39
+\BOOKMARK [2][-]{subsection.8.7.2}{FAMILIA}{section.8.7}% 40
+\BOOKMARK [1][-]{section.8.8}{Figuras feitas em dezembro de 2018}{chapter.8}% 41
+\BOOKMARK [2][-]{subsection.8.8.1}{Ferramenta microbiome no R}{section.8.8}% 42
+\BOOKMARK [0][-]{chapter.9}{Functional annotation of metagenomes}{}% 43
+\BOOKMARK [0][-]{chapter.10}{references}{}% 44
+\BOOKMARK [0][-]{chapter.11}{Softwares, instalacao e linhas}{}% 45
+\BOOKMARK [1][-]{section.11.1}{Profilling metagenomes}{chapter.11}% 46
+\BOOKMARK [0][-]{chapter.12}{Fundamentos teoricos}{}% 47
+\BOOKMARK [0][-]{chapter.13}{Meetings}{}% 48
+\BOOKMARK [0][-]{chapter.14}{Escrita do artigo}{}% 49
+\BOOKMARK [1][-]{subsection.14.0.1}{30 de outubro 2018}{chapter.14}% 50
+\BOOKMARK [1][-]{section.14.1}{30 de novembro}{chapter.14}% 51

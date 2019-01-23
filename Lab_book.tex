@@ -387,6 +387,17 @@ O professor indicou procurar pelo laboratorio do professor Alexandre Rosado, par
 Ao preparar os dados para refazer o mapa das amostras, notei coordenadas estranhas e notei problemas nas coordenadas na planilha de metadados. O primeiro que estou tentando solucionar são as coordenadas do trabalho de Dark Spot Syndrome. Eu copiando os dados da planilha para um arquivo novo e apaguei todos do trabalho de Dark Spot syndrome. Para recomeçar com esses dados do 0, eu baixei a BioInfotable do estudos do SRA indicados pelo artigo \href{https://www.frontiersin.org/articles/10.3389/fmars.2018.00101/full}{"Corals and Their Microbiomes Are Differentially Affected by Exposure to Elevated Nutrients and a Natural Thermal Anomaly"}: SRP133535 for the 2014 metagenomes and SRP133699 for the 2012 metagenomes. A BioInfo table de 2014 esta nomeada como SraRunTable\_2014.txt, a de 2012 SraRunTable\_2012.txt. Comecei a editar a de 2014 e a primeira coisa que retirei foram linhas cujo numero de bases e bytes eram 0, o que indica que eram metagenomas vazios. 2 metagenomas estavam nessas condições, então os retirei. Também retirei aqueles em que continham 'seawater metagenome' na coluna 'organism', pois interpretei que provavelmente eram metagenomas de água. 6 metagenomas estavam assim. 
 Coisas para segunda: terminar de preencher a nova tabela e separar duas partes em metadados ambientais e de bioinformatica, decidir a unidade armazenamento, gb ou mgb
 
+\section{Mapa das amostras}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.5]{figures/aquifers_map_leticia_3.png}
+	\caption{MAPA DOS METAGENOMAS}
+	\label{fig:MAPA DOS METAGENOMAS DE CORAIS}
+\end{figure}
+
+
+
 \chapter{Download of metagenomes}
 \section{Download of mg-rast files} 
 Espaço no SDU
@@ -1137,6 +1148,80 @@ O Rilquer sinalizou que a base de dados ainda tinha alguns problemas, entao tive
 	\caption{RANDOM FOREST SUPERVISIONADO POR GENERO FEITO DIA 20 DE DEZEMBRO}
 	\label{fig: RANDOM FOREST SUPERVISIONADO POR GENERO FEITO DIA 20 DE DEZEMBRO}
 \end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_health_corais_2018_12_20.png}
+	\caption{PCA FEITO 20 DE DEZEMBRO}
+	\label{fig: PCA GERAL FEITO DIA 20 DE DEZEMBRO VISUALIZANDO CATEGORIA SAÚDE}
+\end{figure}	
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_corais_genus_2018_12_20.png}
+	\caption{PCA GERAL FEITO 20 DE DEZEMBRO VISUALIZANDO GENERO}
+	\label{fig: PCA GERAL FEITO DIA 20 DE DEZEMBRO VISUALIZANDO CATEGORIA GENERO}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_growth_157_corais_2018_12_20.png}
+	\caption{PCA GERAL FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO}
+	\label{fig: PCA GERAL FEITO DIA 20 DE DEZEMBRO VISUALIZANDO CATEGORIA CRESCIMENTO}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png}
+	\caption{PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO}
+	\label{fig: PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png}
+	\caption{PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAÚDE}
+	\label{fig: PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAÚDE}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png}
+	\caption{PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO GENERO}
+	\label{fig: PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO GENERO DE CORAIS}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png}
+	\caption{PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO GENERO}
+	\label{fig: PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO GENERO DE CORAIS}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png}
+	\caption{PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO}
+	\label{fig: PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO DE CORAIS}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png}
+	\caption{PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAUDE}
+	\label{fig: PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAUDE DE CORAIS}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png}
+	\caption{PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAUDE}
+	\label{fig: PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAUDE DE CORAIS}
+\end{figure}
+
+
+
+
 
 
 \subsection{Ferramenta microbiome no R}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  18 JAN 2019 19:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  23 JAN 2019 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -625,7 +625,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box52
 \@float@everytoks=\toks37
 \@floatcapt=\box53
-) (./Lab_book.aux)
+) (./Lab_book.aux
+
+LaTeX Warning: Label `fig: PCA COM OS 25 FILOS INDICADOS COMO MAIS RELEVANTES P
+ARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST N√ÉO SUPERVISIONADO FEITO 20 DE 
+DEZEMBRO VISUALIZANDO SAUDE DE CORAIS' multiply defined.
+
+)
 \openout1 = `Lab_book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -645,8 +651,7 @@ LaTeX Font Info:    ... okay on input line 31.
 \c@lstlisting=\count147
 \AtBeginShipoutBox=\box54
 Package hyperref Info: Link coloring OFF on input line 31.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -720,7 +725,7 @@ ing (ext4): destination with the same identifier (name{page.1}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 ...MG RAST metagenomes}{27}{subsection.8.4.1}
+l.33 ...o com a ajuda do Rilquer}{28}{section.8.4}
                                                    [1
 
 ])
@@ -754,7 +759,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-<figures/texworks-linux.png, id=279, 1922.18124pt x 1083.04625pt>
+<figures/texworks-linux.png, id=284, 1922.18124pt x 1083.04625pt>
 File: figures/texworks-linux.png Graphic file (type png)
 <use figures/texworks-linux.png>
 Package pdftex.def Info: figures/texworks-linux.png  used on input line 73.
@@ -855,31 +860,37 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
- [13]
+<figures/aquifers_map_leticia_3.png, id=355, 794.97pt x 397.485pt>
+File: figures/aquifers_map_leticia_3.png Graphic file (type png)
+<use figures/aquifers_map_leticia_3.png>
+Package pdftex.def Info: figures/aquifers_map_leticia_3.png  used on input line
+ 394.
+(pdftex.def)             Requested size: 397.48402pt x 198.742pt.
+ [13] [14 <./figures/aquifers_map_leticia_3.png (PNG copy)>]
 Cap\'{\i }tulo 3.
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ß in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≠ in font cmr12!
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 401--401
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 412--412
 [][] 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 408--408
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 419--419
 [][] 
  []
 
-[14
+[15
 
 ]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
- [15]
+ [16]
 Cap\'{\i }tulo 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--487
+Underfull \hbox (badness 10000) in paragraph at lines 496--498
 
  []
 
@@ -892,22 +903,22 @@ Missing character: There is no £ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--498
+Underfull \hbox (badness 10000) in paragraph at lines 505--509
 
  []
 
-[16
+[17
 
-] [17]
+] [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 551.
+(hyperref)                than one, level fixed on input line 562.
 
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
-[18]
+[19]
 Cap\'{\i }tulo 5.
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
@@ -918,55 +929,55 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 566.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 577.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 566.
- [19
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 577.
+ [20
 
 ]
 Cap\'{\i }tulo 6.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 578.
+(hyperref)                than one, level fixed on input line 589.
 
-[20
+[21
 
 ]
 Cap\'{\i }tulo 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 606--607
+Underfull \hbox (badness 10000) in paragraph at lines 617--618
 []\OT1/cmr/m/n/12 - Com-mand: \OT1/cmr/m/it/12 nohup bash slurm[]job[]prinseq[]
 single[]corais[]FASTA.bash &>
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 607--607
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 618--618
 [][] 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 626--626
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 637--637
 [][] 
  []
 
 
 LaTeX Warning: File `figures/Captura-2018-09-10 09-35-27.png' not found on inpu
-t line 631.
+t line 642.
 
-<figures/Captura-2018-09-10 09-35-27.png, id=392, 1927.2pt x 1084.05pt>
+<figures/Captura-2018-09-10 09-35-27.png, id=403, 1927.2pt x 1084.05pt>
 File: figures/Captura-2018-09-10 09-35-27.png Graphic file (type png)
 <use figures/Captura-2018-09-10 09-35-27.png>
 Package pdftex.def Info: figures/Captura-2018-09-10 09-35-27.png  used on input
- line 631.
+ line 642.
 (pdftex.def)             Requested size: 452.9679pt x 254.78487pt.
-[21
+[22
 
 ]
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 639--639
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 650--650
 [][] 
  []
 
@@ -977,89 +988,89 @@ Missing character: There is no £ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 663--663
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 674--674
 [][] 
  []
 
-[22 <./figures/Captura-2018-09-10 09-35-27.png>]
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 671--671
+[23 <./figures/Captura-2018-09-10 09-35-27.png>]
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 682--682
 [][] 
  []
 
-[23]
+[24]
 Cap\'{\i }tulo 8.
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 681--681
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 692--692
 [][] 
  []
 
-<figures/Captura2.png, id=410, 1927.2pt x 1084.05pt>
+<figures/Captura2.png, id=422, 1927.2pt x 1084.05pt>
 File: figures/Captura2.png Graphic file (type png)
 <use figures/Captura2.png>
-Package pdftex.def Info: figures/Captura2.png  used on input line 688.
+Package pdftex.def Info: figures/Captura2.png  used on input line 699.
 (pdftex.def)             Requested size: 452.9679pt x 254.78487pt.
-<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=411, 677.53125pt x 948.543
+<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=423, 677.53125pt x 948.543
 75pt>
 File: figures/workflow-aquifers-reviewed_03-09-18.pdf Graphic file (type pdf)
 <use figures/workflow-aquifers-reviewed_03-09-18.pdf>
 Package pdftex.def Info: figures/workflow-aquifers-reviewed_03-09-18.pdf  used 
-on input line 696.
+on input line 707.
 (pdftex.def)             Requested size: 407.66833pt x 570.75168pt.
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--706
+Underfull \hbox (badness 10000) in paragraph at lines 715--717
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 707--709
+Underfull \hbox (badness 10000) in paragraph at lines 718--720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--712
+Underfull \hbox (badness 10000) in paragraph at lines 721--723
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 713--715
+Underfull \hbox (badness 10000) in paragraph at lines 724--726
 
  []
 
 
-Overfull \hbox (44.24776pt too wide) in paragraph at lines 717--720
+Overfull \hbox (44.24776pt too wide) in paragraph at lines 728--731
 \OT1/cmr/m/n/12 com os se-guin-tes pas-sos: Na pasta /ho-me/-le-ti-ci-a/-Do-cu-
 men-tos/-libs/-le-ti-cia[]profiling[]metagenomes: 
  []
 
 
-Overfull \hbox (21.71855pt too wide) in paragraph at lines 724--725
+Overfull \hbox (21.71855pt too wide) in paragraph at lines 735--736
 []\OT1/cmr/m/n/12 perl fil-ter-Rank.pl --in-put ta-ble.from[]biom[]with[]taxono
 my.txt --rank p > abun-dance.matrix 
  []
 
-[24
+[25
 
 ]
-Overfull \hbox (10.51062pt too wide) in paragraph at lines 728--730
+Overfull \hbox (10.51062pt too wide) in paragraph at lines 739--741
 \OT1/cmr/m/n/12 perl se-lect-Groups.pl --in-put mgm4440370[]prinseq[]good[]SiDP
 .fasta[]kraken.report --file[]groups
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 739--739
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 750--750
 [][] 
  []
 
-[25 <./figures/Captura2.png>] [26 <./figures/workflow-aquifers-reviewed_03-09-1
+[26 <./figures/Captura2.png>] [27 <./figures/workflow-aquifers-reviewed_03-09-1
 8.pdf>]
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 753--753
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 764--764
 [][] 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 768--768
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 779--779
 [][] 
  []
 
@@ -1068,22 +1079,22 @@ Missing character: There is no £ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 791--793
+Underfull \hbox (badness 10000) in paragraph at lines 802--804
 \OT1/cmr/m/n/12 Command 1: nohup bash se-lect[]groups[]perl[]corais.sh > se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 794--795
+Underfull \hbox (badness 10000) in paragraph at lines 805--806
 []\OT1/cmr/m/n/12 Command 2: biom con-vert -i ta-ble[]corais[]mg[]rast.biom -o 
 ta-
  []
 
 
-Overfull \hbox (31.24088pt too wide) in paragraph at lines 797--797
+Overfull \hbox (31.24088pt too wide) in paragraph at lines 808--808
 [][] 
  []
 
-[27]
+[28]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≠ in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -1091,25 +1102,25 @@ Missing character: There is no £ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
 
-Underfull \hbox (badness 5260) in paragraph at lines 807--810
+Underfull \hbox (badness 5260) in paragraph at lines 818--821
 \OT1/cmr/m/n/12 - Li-nha: \OT1/cmr/m/it/12 ta-xon-pro-fi-ling -d /ho-me/-pe-dro
 /ho-lo-bi-onts[]temp/SRA -f SRA -t
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 810--810
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 821--821
 [][] 
  []
 
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
-<figures/erro_26_10.png, id=454, 1927.2pt x 1084.05pt>
+<figures/erro_26_10.png, id=465, 1927.2pt x 1084.05pt>
 File: figures/erro_26_10.png Graphic file (type png)
 <use figures/erro_26_10.png>
-Package pdftex.def Info: figures/erro_26_10.png  used on input line 820.
+Package pdftex.def Info: figures/erro_26_10.png  used on input line 831.
 (pdftex.def)             Requested size: 578.16447pt x 325.21751pt.
 
-Overfull \hbox (125.19658pt too wide) in paragraph at lines 820--821
+Overfull \hbox (125.19658pt too wide) in paragraph at lines 831--832
  [][] 
  []
 
@@ -1121,7 +1132,7 @@ Missing character: There is no √ in font cmr8!
 Missing character: There is no £ in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no ¢ in font cmr8!
-[28]
+[29]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -1131,11 +1142,11 @@ Missing character: There is no © in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 833--833
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 844--844
 [][] 
  []
 
-[29 <./figures/erro_26_10.png>]
+[30 <./figures/erro_26_10.png>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ß in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -1145,20 +1156,20 @@ Missing character: There is no ß in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 839--843
+Underfull \hbox (badness 10000) in paragraph at lines 850--854
 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 843--843
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 854--854
 [][] 
  []
 
-<figures/output_PCA_corais_2018_10_01.jpg, id=467, 867.24pt x 867.24pt>
+<figures/output_PCA_corais_2018_10_01.jpg, id=479, 867.24pt x 867.24pt>
 File: figures/output_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
 <use figures/output_PCA_corais_2018_10_01.jpg>
 Package pdftex.def Info: figures/output_PCA_corais_2018_10_01.jpg  used on inpu
-t line 849.
+t line 860.
 (pdftex.def)             Requested size: 407.66833pt x 407.66902pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no ° in font cmr8!
@@ -1179,38 +1190,38 @@ Missing character: There is no © in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ∫ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 853--854
+Underfull \hbox (badness 10000) in paragraph at lines 864--865
 
  []
 
-<figures/randomforest_taxonomic_corais_2018_10_01.jpeg, id=468, 730.22812pt x 5
+<figures/randomforest_taxonomic_corais_2018_10_01.jpeg, id=480, 730.22812pt x 5
 81.92406pt>
 File: figures/randomforest_taxonomic_corais_2018_10_01.jpeg Graphic file (type 
 jpg)
 <use figures/randomforest_taxonomic_corais_2018_10_01.jpeg>
 Package pdftex.def Info: figures/randomforest_taxonomic_corais_2018_10_01.jpeg 
- used on input line 857.
+ used on input line 868.
 (pdftex.def)             Requested size: 317.07614pt x 252.68207pt.
-[30 <./figures/output_PCA_corais_2018_10_01.jpg>]
-<figures/output_rf_20_PCA_corais_2018_10_01.jpg, id=475, 867.24pt x 867.24pt>
+[31 <./figures/output_PCA_corais_2018_10_01.jpg>]
+<figures/output_rf_20_PCA_corais_2018_10_01.jpg, id=486, 867.24pt x 867.24pt>
 File: figures/output_rf_20_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
 <use figures/output_rf_20_PCA_corais_2018_10_01.jpg>
 Package pdftex.def Info: figures/output_rf_20_PCA_corais_2018_10_01.jpg  used o
-n input line 865.
+n input line 876.
 (pdftex.def)             Requested size: 271.7835pt x 271.77934pt.
- [31 <./figures/randomforest_taxonomic_corais_2018_10_01.jpeg> <./figures/outpu
+ [32 <./figures/randomforest_taxonomic_corais_2018_10_01.jpeg> <./figures/outpu
 t_rf_20_PCA_corais_2018_10_01.jpg>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ß in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
-<figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png, id=482, 1156.32pt x 1
+<figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png, id=493, 1156.32pt x 1
 156.32pt>
 File: figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png Graphic file (typ
 e png)
 <use figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>
 Package pdftex.def Info: figures/output_rf_15_PCA_corais_2018_10_01_edited_3.pn
-g  used on input line 872.
+g  used on input line 883.
 (pdftex.def)             Requested size: 407.66833pt x 407.66461pt.
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ß in font cmr12!
@@ -1226,52 +1237,52 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ≠ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
-<figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg, id=483
+<figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg, id=494
 , 790.45313pt x 590.95781pt>
 File: figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg Gr
 aphic file (type jpg)
 <use figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
 Package pdftex.def Info: figures/randomforest_nao_supervisionado_corais_leticia
-_2018_10_18.jpeg  used on input line 880.
+_2018_10_18.jpeg  used on input line 891.
 (pdftex.def)             Requested size: 395.22559pt x 295.47818pt.
- [32 <./figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>]
-<figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png, id=48
-9, 1156.32pt x 1156.32pt>
+ [33 <./figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>]
+<figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png, id=50
+0, 1156.32pt x 1156.32pt>
 File: figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png G
 raphic file (type png)
 <use figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png>
 Package pdftex.def Info: figures/rf_nao_supervisionado_pca_corais_20_filos_15_1
-0_2018_edited.png  used on input line 888.
+0_2018_edited.png  used on input line 899.
 (pdftex.def)             Requested size: 271.7835pt x 271.77052pt.
-<figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png, id=49
-0, 1156.32pt x 1156.32pt>
+<figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png, id=50
+1, 1156.32pt x 1156.32pt>
 File: figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png G
 raphic file (type png)
 <use figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>
 Package pdftex.def Info: figures/rf_nao_supervisionado_pca_corais_15_filos_15_1
-0_2018_edited.png  used on input line 894.
+0_2018_edited.png  used on input line 905.
 (pdftex.def)             Requested size: 407.66833pt x 407.66461pt.
- [33 <./figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
+ [34 <./figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
  <./figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png>] [
-34 <./figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>]
-<figures/output_PCA_corais_mg_rast_2018_10_23.jpg, id=502, 867.24pt x 867.24pt>
+35 <./figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>]
+<figures/output_PCA_corais_mg_rast_2018_10_23.jpg, id=513, 867.24pt x 867.24pt>
 
 File: figures/output_PCA_corais_mg_rast_2018_10_23.jpg Graphic file (type jpg)
 <use figures/output_PCA_corais_mg_rast_2018_10_23.jpg>
 Package pdftex.def Info: figures/output_PCA_corais_mg_rast_2018_10_23.jpg  used
- on input line 904.
+ on input line 915.
 (pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
 <figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23.png,
- id=503, 1053.9375pt x 893.3375pt>
+ id=514, 1053.9375pt x 893.3375pt>
 File: figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23
 .png Graphic file (type png)
 <use figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23.
 png>
 Package pdftex.def Info: figures/randomforest_nao_supervisionado_corais_mg_rast
-_leticia_2018_10_23.png  used on input line 910.
+_leticia_2018_10_23.png  used on input line 921.
 (pdftex.def)             Requested size: 526.96747pt x 446.66765pt.
 
-Overfull \hbox (73.99957pt too wide) in paragraph at lines 910--911
+Overfull \hbox (73.99957pt too wide) in paragraph at lines 921--922
  [][] 
  []
 
@@ -1279,301 +1290,420 @@ Missing character: There is no √ in font cmr8!
 Missing character: There is no £ in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no £ in font cmr8!
-[35 <./figures/output_PCA_corais_mg_rast_2018_10_23.jpg>]
-<figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg, id=509, 867.
+[36 <./figures/output_PCA_corais_mg_rast_2018_10_23.jpg>]
+<figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg, id=521, 867.
 24pt x 867.24pt>
 File: figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg Graphic 
 file (type jpg)
 <use figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>
 Package pdftex.def Info: figures/pca_corais_rf_nao_supervisionado_20_filos_23_1
-0_2018.jpg  used on input line 916.
+0_2018.jpg  used on input line 927.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [36 <./figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_
+ [37 <./figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_
 23.png>]
-<figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg, id=517, 867.
+<figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg, id=528, 867.
 24pt x 867.24pt>
 File: figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg Graphic 
 file (type jpg)
 <use figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>
 Package pdftex.def Info: figures/pca_corais_rf_nao_supervisionado_15_filos_23_1
-0_2018.jpg  used on input line 922.
+0_2018.jpg  used on input line 933.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [37 <./figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>]
+ [38 <./figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>]
 <figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png, id=5
-23, 1053.9375pt x 792.9625pt>
+34, 1053.9375pt x 792.9625pt>
 File: figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png 
 Graphic file (type png)
 <use figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png>
 Package pdftex.def Info: figures/randomforest_supervisionado_genero_corais_leti
-cia_2018_10_23.png  used on input line 928.
+cia_2018_10_23.png  used on input line 939.
 (pdftex.def)             Requested size: 421.56754pt x 317.17938pt.
- [38 <./figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>]
+ [39 <./figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>]
 <figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jpg, id
-=529, 867.24pt x 867.24pt>
+=540, 867.24pt x 867.24pt>
 File: figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jp
 g Graphic file (type jpg)
 <use figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jpg
 >
 Package pdftex.def Info: figures/pca_corais_mg_rast_rf_supervisionado_genus_20_
-filos_23_10_2018.jpg  used on input line 934.
+filos_23_10_2018.jpg  used on input line 945.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [39 <./figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.pn
+ [40 <./figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.pn
 g>]
 <figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jpg, id
-=536, 867.24pt x 867.24pt>
+=547, 867.24pt x 867.24pt>
 File: figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jp
 g Graphic file (type jpg)
 <use figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jpg
 >
 Package pdftex.def Info: figures/pca_corais_mg_rast_rf_supervisionado_genus_15_
-filos_23_10_2018.jpg  used on input line 940.
+filos_23_10_2018.jpg  used on input line 951.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [40 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.
+ [41 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.
 jpg>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
- [41 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.
+ [42 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.
 jpg>]
-<figures/filos/nMDS_filos_corais_2018_10_30.jpg, id=547, 722.7pt x 578.16pt>
+<figures/filos/nMDS_filos_corais_2018_10_30.jpg, id=559, 722.7pt x 578.16pt>
 File: figures/filos/nMDS_filos_corais_2018_10_30.jpg Graphic file (type jpg)
 <use figures/filos/nMDS_filos_corais_2018_10_30.jpg>
 Package pdftex.def Info: figures/filos/nMDS_filos_corais_2018_10_30.jpg  used o
-n input line 985.
+n input line 996.
 (pdftex.def)             Requested size: 289.07487pt x 231.2599pt.
- [42]
-<figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg, id=553, 867.24pt
+ [43]
+<figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg, id=564, 867.24pt
  x 867.24pt>
 File: figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg Graphic file
  (type jpg)
 <use figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg>
 Package pdftex.def Info: figures/filos/output_PCA_corais_filos_mg_rast_2018_10_
-30.jpg  used on input line 992.
+30.jpg  used on input line 1003.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
 <figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia_2018
-_10_30.jpeg, id=554, 790.45313pt x 741.52031pt>
+_10_30.jpeg, id=565, 790.45313pt x 741.52031pt>
 File: figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia
 _2018_10_30.jpeg Graphic file (type jpg)
 <use figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia_
 2018_10_30.jpeg>
 Package pdftex.def Info: figures/filos/randomforest_nao_supervisionado_corais_m
-grast_filos_leticia_2018_10_30.jpeg  used on input line 999.
+grast_filos_leticia_2018_10_30.jpeg  used on input line 1010.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 
-[43 <./figures/filos/nMDS_filos_corais_2018_10_30.jpg> <./figures/filos/output_
+[44 <./figures/filos/nMDS_filos_corais_2018_10_30.jpg> <./figures/filos/output_
 PCA_corais_filos_mg_rast_2018_10_30.jpg>]
 <figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018.jpg,
- id=561, 867.24pt x 867.24pt>
+ id=572, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018
 .jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018.
 jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_
-20_filos_30_10_2018.jpg  used on input line 1006.
+20_filos_30_10_2018.jpg  used on input line 1017.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no £ in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no £ in font cmr8!
 <figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018.jpg,
- id=562, 867.24pt x 867.24pt>
+ id=573, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018
 .jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018.
 jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_
-15_filos_30_10_2018.jpg  used on input line 1013.
+15_filos_30_10_2018.jpg  used on input line 1024.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no £ in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no £ in font cmr8!
- [44 <./figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_letic
+ [45 <./figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_letic
 ia_2018_10_30.jpeg> <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20
 _filos_30_10_2018.jpg>]
 <figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_2018_10
-_30.jpeg, id=569, 790.45313pt x 741.52031pt>
+_30.jpeg, id=581, 790.45313pt x 741.52031pt>
 File: figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_20
 18_10_30.jpeg Graphic file (type jpg)
 <use figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_201
 8_10_30.jpeg>
 Package pdftex.def Info: figures/filos/randomforest_supervisionado_genero_corai
-s_mgrast_leticia_2018_10_30.jpeg  used on input line 1020.
+s_mgrast_leticia_2018_10_30.jpeg  used on input line 1031.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
 <figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_2018.j
-pg, id=570, 867.24pt x 867.24pt>
+pg, id=582, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_2
 018.jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_20
 18.jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mg_rast_rf_supervisionado_gen
-us_20_filos_30_10_2018.jpg  used on input line 1027.
+us_20_filos_30_10_2018.jpg  used on input line 1038.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [45 <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_20
+ [46 <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_20
 18.jpg> <./figures/filos/randomforest_supervisionado_genero_corais_mgrast_letic
 ia_2018_10_30.jpeg>]
 <figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_2018.j
-pg, id=578, 867.24pt x 867.24pt>
+pg, id=589, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_2
 018.jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_20
 18.jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mg_rast_rf_supervisionado_gen
-us_15_filos_30_10_2018.jpg  used on input line 1034.
+us_15_filos_30_10_2018.jpg  used on input line 1045.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-<figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg, id=579, 722.7pt x
+<figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg, id=590, 722.7pt x
  578.16pt>
 File: figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg Graphic file 
 (type jpg)
 <use figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg>
 Package pdftex.def Info: figures/familia/nMDS_taxonomic_family_corais_2018_10_3
-0.jpg  used on input line 1042.
+0.jpg  used on input line 1053.
 (pdftex.def)             Requested size: 289.07487pt x 231.2599pt.
- [46 <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10
+ [47 <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10
 _2018.jpg> <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos
 _30_10_2018.jpg>]
-<figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg, id=586, 867.
+<figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg, id=597, 867.
 24pt x 867.24pt>
 File: figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg Graphic 
 file (type jpg)
 <use figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg>
 Package pdftex.def Info: figures/familia/output_PCA_corais_familia_mg_rast_2018
-_10_30.jpg  used on input line 1049.
+_10_30.jpg  used on input line 1060.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
 <figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_2018_10
-_30.jpeg, id=587, 790.45313pt x 741.52031pt>
+_30.jpeg, id=598, 790.45313pt x 741.52031pt>
 File: figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_20
 18_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_201
 8_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_nao_supervi_corais_mgrast
-_familia_leticia_2018_10_30.jpeg  used on input line 1056.
+_familia_leticia_2018_10_30.jpeg  used on input line 1067.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
- [47 <./figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg> <./figures
+ [48 <./figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg> <./figures
 /familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg>]
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10_2018
-.jpg, id=594, 867.24pt x 867.24pt>
+.jpg, id=606, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_20_familias_30_10_2018.jpg  used on input line 1063.
+o_20_familias_30_10_2018.jpg  used on input line 1074.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10_2018
-.jpg, id=595, 867.24pt x 867.24pt>
+.jpg, id=607, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_15_familias_30_10_2018.jpg  used on input line 1070.
+o_15_familias_30_10_2018.jpg  used on input line 1081.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
- [48 <./figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_
+ [49 <./figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_
 2018_10_30.jpeg> <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_
 familias_30_10_2018.jpg>]
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10_2018
-.jpg, id=603, 867.24pt x 867.24pt>
+.jpg, id=614, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_10_familias_30_10_2018.jpg  used on input line 1078.
+o_10_familias_30_10_2018.jpg  used on input line 1089.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 <figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_letic
-ia_2018_10_30.jpeg, id=604, 790.45313pt x 741.52031pt>
+ia_2018_10_30.jpeg, id=615, 790.45313pt x 741.52031pt>
 File: figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_
 leticia_2018_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_l
 eticia_2018_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_supervisionado_genero_cor
-ais_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1085.
+ais_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1096.
 (pdftex.def)             Requested size: 237.13776pt x 222.45781pt.
- [49 <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_
+ [50 <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_
 10_2018.jpg> <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_fami
 lias_30_10_2018.jpg>]
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23_10_2
-018.jpg, id=611, 867.24pt x 867.24pt>
+018.jpg, id=622, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_20_familias_23_10_2018.jpg  used on input line 1092.
+enus_20_familias_23_10_2018.jpg  used on input line 1103.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30_10_2
-018.jpg, id=612, 867.24pt x 867.24pt>
+018.jpg, id=623, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_15_familias_30_10_2018.jpg  used on input line 1099.
+enus_15_familias_30_10_2018.jpg  used on input line 1110.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [50 <./figures/familia/randomforest_supervisionado_genero_corais_mgrast_famili
+ [51 <./figures/familia/randomforest_supervisionado_genero_corais_mgrast_famili
 a_leticia_2018_10_30.jpeg> <./figures/familia/pca_corais_mg_rast_rf_supervision
 ado_genus_20_familias_23_10_2018.jpg>]
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30_10_2
-018.jpg, id=619, 867.24pt x 867.24pt>
+018.jpg, id=630, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_10_familias_30_10_2018.jpg  used on input line 1106.
+enus_10_familias_30_10_2018.jpg  used on input line 1117.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_letici
-a_2018_10_30.jpeg, id=620, 867.24pt x 867.24pt>
+a_2018_10_30.jpeg, id=631, 867.24pt x 867.24pt>
 File: figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_l
 eticia_2018_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_le
 ticia_2018_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_supervisionado_saude_cora
-is_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1113.
+is_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1124.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [51 <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_
+ [52 <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_
 30_10_2018.jpg> <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_1
 0_familias_30_10_2018.jpg>]
-<figures/RF_nao_super_2018_12_20.png, id=627, 1059.96pt x 819.06pt>
+<figures/RF_nao_super_2018_12_20.png, id=638, 1059.96pt x 819.06pt>
 File: figures/RF_nao_super_2018_12_20.png Graphic file (type png)
 <use figures/RF_nao_super_2018_12_20.png>
 Package pdftex.def Info: figures/RF_nao_super_2018_12_20.png  used on input lin
-e 1122.
+e 1133.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
 Missing character: There is no √ in font cmr8!
 Missing character: There is no É in font cmr8!
-<figures/RF_super_saude_2018_12_20.png, id=628, 1059.96pt x 819.06pt>
+<figures/RF_super_saude_2018_12_20.png, id=639, 1059.96pt x 819.06pt>
 File: figures/RF_super_saude_2018_12_20.png Graphic file (type png)
 <use figures/RF_super_saude_2018_12_20.png>
 Package pdftex.def Info: figures/RF_super_saude_2018_12_20.png  used on input l
-ine 1129.
+ine 1140.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
- [52 <./figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia
+ [53 <./figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia
 _leticia_2018_10_30.jpeg> <./figures/RF_nao_super_2018_12_20.png>]
-<figures/RF_super_genero_2018_12_20.png, id=635, 1059.96pt x 819.06pt>
+<figures/RF_super_genero_2018_12_20.png, id=646, 1059.96pt x 819.06pt>
 File: figures/RF_super_genero_2018_12_20.png Graphic file (type png)
 <use figures/RF_super_genero_2018_12_20.png>
 Package pdftex.def Info: figures/RF_super_genero_2018_12_20.png  used on input 
-line 1136.
+line 1147.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
+<figures/PCA_health_corais_2018_12_20.png, id=647, 867.24pt x 867.24pt>
+File: figures/PCA_health_corais_2018_12_20.png Graphic file (type png)
+<use figures/PCA_health_corais_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_health_corais_2018_12_20.png  used on inpu
+t line 1154.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+ [54 <./figures/RF_super_saude_2018_12_20.png> <./figures/RF_super_genero_2018_
+12_20.png>]
+<figures/PCA_corais_genus_2018_12_20.png, id=655, 867.24pt x 867.24pt>
+File: figures/PCA_corais_genus_2018_12_20.png Graphic file (type png)
+<use figures/PCA_corais_genus_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_corais_genus_2018_12_20.png  used on input
+ line 1161.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+ [55 <./figures/PCA_health_corais_2018_12_20.png (PNG copy)>]
+<figures/PCA_growth_157_corais_2018_12_20.png, id=661, 867.24pt x 867.24pt>
+File: figures/PCA_growth_157_corais_2018_12_20.png Graphic file (type png)
+<use figures/PCA_growth_157_corais_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_growth_157_corais_2018_12_20.png  used on 
+input line 1168.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+ [56 <./figures/PCA_corais_genus_2018_12_20.png (PNG copy)>]
+<figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png, id=667, 867.24pt 
+x 867.24pt>
+File: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png Graphic file 
+(type png)
+<use figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_2
+0.png  used on input line 1175.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+
+[57 <./figures/PCA_growth_157_corais_2018_12_20.png (PNG copy)>]
+<figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png, id=673, 867.24pt
+ x 867.24pt>
+File: figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png Graphic file
+ (type png)
+<use figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_health_2018_12_
+20.png  used on input line 1182.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no ö in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no ö in font cmr8!
+ [58 <./figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png (PNG copy)>
+]
+File: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png Graphic file 
+(type png)
+<use figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_2
+0.png  used on input line 1189.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+ [59 <./figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png (PNG copy)
+>]
+<figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png, id=684, 867.24pt 
+x 867.24pt>
+File: figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png Graphic file 
+(type png)
+<use figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_2
+0.png  used on input line 1196.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+ [60]
+<figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png, id=691, 867.24pt
+ x 867.24pt>
+File: figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png Graphic file
+ (type png)
+<use figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_
+20.png  used on input line 1203.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+
+[61 <./figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png (PNG copy)>]
+<figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png, id=697, 867.24pt
+ x 867.24pt>
+File: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png Graphic file
+ (type png)
+<use figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_
+20.png  used on input line 1210.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+[62 <./figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png (PNG copy)>
+]
+File: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png Graphic file
+ (type png)
+<use figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_
+20.png  used on input line 1217.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+Missing character: There is no √ in font cmr8!
+Missing character: There is no É in font cmr8!
+ [63 <./figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png (PNG copy)
+>]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
 Missing character: There is no √ in font cmr12!
@@ -1584,21 +1714,20 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
- [53 <./figures/RF_super_saude_2018_12_20.png> <./figures/RF_super_genero_2018_
-12_20.png>] [54]
+ [64]
 Cap\'{\i }tulo 9.
-<figures/pipeline_functional.jpg, id=651, 327.2225pt x 743.77875pt>
+<figures/pipeline_functional.jpg, id=717, 327.2225pt x 743.77875pt>
 File: figures/pipeline_functional.jpg Graphic file (type jpg)
 <use figures/pipeline_functional.jpg>
-Package pdftex.def Info: figures/pipeline_functional.jpg  used on input line 11
-55.
+Package pdftex.def Info: figures/pipeline_functional.jpg  used on input line 12
+40.
 (pdftex.def)             Requested size: 317.07614pt x 720.71548pt.
 
-LaTeX Warning: Float too large for page by 69.7086pt on input line 1157.
+LaTeX Warning: Float too large for page by 69.7086pt on input line 1242.
 
-[55
+[65
 
-] [56 <./figures/pipeline_functional.jpg>]
+] [66 <./figures/pipeline_functional.jpg>]
 Cap\'{\i }tulo 10.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no à in font cmr12!
@@ -1609,36 +1738,36 @@ Missing character: There is no í in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no à in font cmr12!
 Missing character: There is no í in font cmr12!
-[57
+[67
 
-] [58]
+] [68]
 Cap\'{\i }tulo 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1206--1209
+Underfull \hbox (badness 10000) in paragraph at lines 1291--1294
 
  []
 
 
-Overfull \hbox (168.33954pt too wide) in paragraph at lines 1210--1213
+Overfull \hbox (168.33954pt too wide) in paragraph at lines 1295--1298
 \OT1/cmr/m/n/12 maquina re-mota para lo-cal: scp le-ti-cia.cavalcante@login.sdu
 mont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt
  []
 
-[59
+[69
 
 ]
 Cap\'{\i }tulo 12.
-[60
+[70
 
 ]
 Cap\'{\i }tulo 13.
-[61
+[71
 
 ]
 Cap\'{\i }tulo 14.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1223.
+(hyperref)                than one, level fixed on input line 1308.
 
 Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
@@ -1661,11 +1790,11 @@ Missing character: There is no ° in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ≥ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1242--1243
+Underfull \hbox (badness 10000) in paragraph at lines 1327--1328
 
  []
 
-[62
+[72
 
 ]
 Missing character: There is no √ in font cmr12!
@@ -1692,28 +1821,32 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no £ in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
- (./Lab_book.bbl [63]
+ (./Lab_book.bbl [73]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [64
+) [74
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1276.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1276.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1361.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1361.
  (./Lab_book.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1361.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1361.
 
 Package rerunfilecheck Info: File `Lab_book.out' has not changed.
-(rerunfilecheck)             Checksum: 96152CFBD11605484E212CAF6A76F654;3505.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1276.
+(rerunfilecheck)             Checksum: 3DA412D226AA7D3DF5227A5D8CF0380D;3569.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1361.
  ) 
 Here is how much of TeX's memory you used:
- 19383 strings out of 492982
- 360672 string characters out of 6134895
- 445601 words of memory out of 5000000
- 22402 multiletter control sequences out of 15000+600000
+ 19461 strings out of 492982
+ 364626 string characters out of 6134895
+ 447110 words of memory out of 5000000
+ 22449 multiletter control sequences out of 15000+600000
  12764 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,9n,73p,1254b,1138s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1729,10 +1862,10 @@ msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on Lab_book.pdf (65 pages, 11902526 bytes).
+Output written on Lab_book.pdf (75 pages, 17986018 bytes).
 PDF statistics:
- 782 PDF objects out of 1000 (max. 8388607)
- 641 compressed objects within 7 object streams
- 180 named destinations out of 1000 (max. 500000)
- 623 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 855 PDF objects out of 1000 (max. 8388607)
+ 695 compressed objects within 7 object streams
+ 202 named destinations out of 1000 (max. 500000)
+ 676 words of extra memory for PDF output out of 10000 (max. 10000000)
 
