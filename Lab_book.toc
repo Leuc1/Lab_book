@@ -40,14 +40,18 @@
 \contentsline {subsection}{\numberline {8.7.1}FILO}{44}{subsection.8.7.1}
 \contentsline {subsection}{\numberline {8.7.2}FAMILIA}{48}{subsection.8.7.2}
 \contentsline {section}{\numberline {8.8}Figuras feitas em dezembro de 2018}{53}{section.8.8}
-\contentsline {subsection}{\numberline {8.8.1}Ferramenta microbiome no R}{64}{subsection.8.8.1}
-\contentsline {subsubsection}{Instalando ferramenta}{64}{section*.57}
-\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{65}{chapter.9}
-\contentsline {chapter}{\numberline {10}references}{67}{chapter.10}
-\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{69}{chapter.11}
-\contentsline {section}{\numberline {11.1}Profilling metagenomes}{69}{section.11.1}
-\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{70}{chapter.12}
-\contentsline {chapter}{\numberline {13}Meetings}{71}{chapter.13}
-\contentsline {chapter}{\numberline {14}Escrita do artigo}{72}{chapter.14}
-\contentsline {subsection}{\numberline {14.0.1}30 de outubro 2018}{72}{subsection.14.0.1}
-\contentsline {section}{\numberline {14.1}30 de novembro}{73}{section.14.1}
+\contentsline {section}{\numberline {8.9}Fevereiro de 2019}{65}{section.8.9}
+\contentsline {subsection}{\numberline {8.9.1}Graficos de abundancia}{65}{subsection.8.9.1}
+\contentsline {subsubsection}{Graficos com categorias isoladas}{65}{section*.57}
+\contentsline {subsubsection}{Graficos com categorias mistas}{67}{section*.61}
+\contentsline {subsection}{\numberline {8.9.2}Ferramenta microbiome no R}{70}{subsection.8.9.2}
+\contentsline {subsubsection}{Instalando ferramenta}{70}{section*.65}
+\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{71}{chapter.9}
+\contentsline {chapter}{\numberline {10}references}{73}{chapter.10}
+\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{75}{chapter.11}
+\contentsline {section}{\numberline {11.1}Profilling metagenomes}{75}{section.11.1}
+\contentsline {chapter}{\numberline {12}Fundamentos teoricos}{76}{chapter.12}
+\contentsline {chapter}{\numberline {13}Meetings}{77}{chapter.13}
+\contentsline {chapter}{\numberline {14}Escrita do artigo}{78}{chapter.14}
+\contentsline {subsection}{\numberline {14.0.1}30 de outubro 2018}{78}{subsection.14.0.1}
+\contentsline {section}{\numberline {14.1}30 de novembro}{79}{section.14.1}
