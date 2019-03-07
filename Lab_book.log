@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  5 FEB 2019 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  7 MAR 2019 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,14 +618,343 @@ File: babel.def 2018/02/14 3.18 Babel common definitions
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks36
+\inpenc@posthook=\toks37
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count146
-\float@exts=\toks36
+\float@exts=\toks38
 \float@box=\box52
-\@float@everytoks=\toks37
+\@float@everytoks=\toks39
 \@floatcapt=\box53
-) (./Lab_book.aux
+)
+   defining Unicode char U+2212 (decimal 8722)
+ (./Lab_book.aux
 
 LaTeX Warning: Label `fig: barplotcoralgenus12mostabundantofothers1fevereiro201
 9' multiply defined.
@@ -633,23 +962,23 @@ LaTeX Warning: Label `fig: barplotcoralgenus12mostabundantofothers1fevereiro201
 )
 \openout1 = `Lab_book.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 \c@lstlisting=\count147
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -658,9 +987,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count148
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
 
 (./Lab_book.out) (./Lab_book.out)
 \@outlinefile=\write6
@@ -674,12 +1003,12 @@ LaTeX Info: Redefining \nameref on input line 31.
 \scratchbox=\box55
 \nofMPsegments=\count150
 \nofMParguments=\count151
-\everyMPshowfont=\toks38
+\everyMPshowfont=\toks40
 \MPscratchCnt=\count152
 \MPscratchDim=\dimen174
 \MPnumerator=\count153
 \makeMPintoPDFobject=\count154
-\everyMPtoPDFconversion=\toks39
+\everyMPtoPDFconversion=\toks41
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -714,10 +1043,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-ABD: EveryShipout initializing macros
-Missing character: There is no Ã in font cmr17!
-Missing character: There is no ­ in font cmr17!
- [1
+ABD: EveryShipout initializing macros [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Lab_book.tocpdfTeX warn
 ing (ext4): destination with the same identifier (name{page.1}) has been alread
@@ -734,175 +1060,111 @@ l.33 ...o com a ajuda do Rilquer}{28}{section.8.4}
  [2]
 Cap\'{\i }tulo 1.
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 49--49
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 52--52
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 56.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-<figures/texworks-linux.png, id=294, 1922.18124pt x 1083.04625pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<figures/texworks-linux.png, id=312, 1922.18124pt x 1083.04625pt>
 File: figures/texworks-linux.png Graphic file (type png)
 <use figures/texworks-linux.png>
-Package pdftex.def Info: figures/texworks-linux.png  used on input line 73.
+Package pdftex.def Info: figures/texworks-linux.png  used on input line 76.
 (pdftex.def)             Requested size: 452.9679pt x 255.20999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 [3
 
 ] [4 <./figures/texworks-linux.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 98.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
  [5]
 Cap\'{\i }tulo 2.
 
-Overfull \hbox (25.31836pt too wide) in paragraph at lines 125--126
-[]\OT1/cmr/m/n/12 SILVA da-ta-base LSU(large su-bu-nit of ri-bo-some) []$\OT1/c
-mtt/m/n/12 https : / / www . arb-[]silva . de / browser /
+Overfull \hbox (25.21132pt too wide) in paragraph at lines 128--129
+[]\T1/cmr/m/n/12 SILVA da-ta-base LSU(large su-bu-nit of ri-bo-some) []$\T1/cmt
+t/m/n/12 https : / / www . arb-[]silva . de / browser /
  []
 
 
-Overfull \hbox (26.52806pt too wide) in paragraph at lines 126--127
-[]\OT1/cmr/m/n/12 SILVA da-ta-base SSU(small su-bu-nit of ri-bo-some) []$\OT1/c
-mtt/m/n/12 https : / / www . arb-[]silva . de / browser /
+Overfull \hbox (26.4207pt too wide) in paragraph at lines 129--130
+[]\T1/cmr/m/n/12 SILVA da-ta-base SSU(small su-bu-nit of ri-bo-some) []$\T1/cmt
+t/m/n/12 https : / / www . arb-[]silva . de / browser /
  []
 
 
-Overfull \hbox (1.70326pt too wide) in paragraph at lines 127--128
-[]\OT1/cmr/m/n/12 PATRIC GE-NO-MES []$\OT1/cmtt/m/n/12 https : / / www . patric
-brc . org / view / Taxonomy / 2 # view _ tab =
+Overfull \hbox (1.60036pt too wide) in paragraph at lines 130--131
+[]\T1/cmr/m/n/12 PATRIC GE-NO-MES []$\T1/cmtt/m/n/12 https : / / www . patricbr
+c . org / view / Taxonomy / 2 # view _ tab =
  []
 
 [6
 
 ] [7] [8
 
-] [9]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no â in font cmbx12!
-Missing character: There is no € in font cmbx12!
-Missing character: There is no “ in font cmbx12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ³ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
- [10] [11]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
- [12]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no µ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-<figures/aquifers_map_leticia_3.png, id=365, 794.97pt x 397.485pt>
+] [9] [10] [11] [12] [13]
+<figures/aquifers_map_leticia_3.png, id=392, 794.97pt x 397.485pt>
 File: figures/aquifers_map_leticia_3.png Graphic file (type png)
 <use figures/aquifers_map_leticia_3.png>
 Package pdftex.def Info: figures/aquifers_map_leticia_3.png  used on input line
- 394.
+ 397.
 (pdftex.def)             Requested size: 397.48402pt x 198.742pt.
- [13] [14 <./figures/aquifers_map_leticia_3.png (PNG copy)>]
+ [14 <./figures/aquifers_map_leticia_3.png (PNG copy)>]
 Cap\'{\i }tulo 3.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 412--412
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 415--415
 [][] 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 419--419
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 422--422
 [][] 
  []
 
 [15
 
-]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
- [16]
+] [16]
 Cap\'{\i }tulo 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--498
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
 
  []
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--509
+Underfull \hbox (badness 10000) in paragraph at lines 508--512
 
  []
 
@@ -911,117 +1173,95 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--509
 ] [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 562.
+(hyperref)                than one, level fixed on input line 565.
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
 [19]
 Cap\'{\i }tulo 5.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 577.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 577.
- [20
+[20
 
 ]
 Cap\'{\i }tulo 6.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 589.
+(hyperref)                than one, level fixed on input line 592.
 
 [21
 
 ]
 Cap\'{\i }tulo 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 617--618
-[]\OT1/cmr/m/n/12 - Com-mand: \OT1/cmr/m/it/12 nohup bash slurm[]job[]prinseq[]
-single[]corais[]FASTA.bash &>
+Underfull \hbox (badness 1147) in paragraph at lines 620--621
+[]\T1/cmr/m/n/12 - Com-mand: \T1/cmr/m/it/12 nohup bash slurm_job_prinseq_singl
+e_corais_FASTA.bash &>
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 618--618
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 621--621
 [][] 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 637--637
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 640--640
 [][] 
  []
 
 
 LaTeX Warning: File `figures/Captura-2018-09-10 09-35-27.png' not found on inpu
-t line 642.
+t line 645.
 
-<figures/Captura-2018-09-10 09-35-27.png, id=413, 1927.2pt x 1084.05pt>
+<figures/Captura-2018-09-10 09-35-27.png, id=435, 1927.2pt x 1084.05pt>
 File: figures/Captura-2018-09-10 09-35-27.png Graphic file (type png)
 <use figures/Captura-2018-09-10 09-35-27.png>
 Package pdftex.def Info: figures/Captura-2018-09-10 09-35-27.png  used on input
- line 642.
+ line 645.
 (pdftex.def)             Requested size: 452.9679pt x 254.78487pt.
 [22
 
 ]
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 650--650
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 653--653
 [][] 
  []
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 674--674
+Underfull \hbox (badness 10000) in paragraph at lines 674--677
+[]\T1/cmr/m/n/12 - Fol-der: /ho-me/-le-ti-ci-a/-Do-cu-men-tos/-libs/-le-ti-cia_
+profiling_metagenomes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--677
+\T1/cmr/m/n/12 - Script: loop_prinseq_janeiro_16_2019.sh - Com-mand: bash
+ []
+
+
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 677--677
 [][] 
  []
 
 [23 <./figures/Captura-2018-09-10 09-35-27.png>]
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 682--682
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 685--685
 [][] 
  []
 
 [24]
 Cap\'{\i }tulo 8.
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 692--692
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 695--695
 [][] 
  []
 
-<figures/Captura2.png, id=432, 1927.2pt x 1084.05pt>
+<figures/Captura2.png, id=455, 1927.2pt x 1084.05pt>
 File: figures/Captura2.png Graphic file (type png)
 <use figures/Captura2.png>
-Package pdftex.def Info: figures/Captura2.png  used on input line 699.
+Package pdftex.def Info: figures/Captura2.png  used on input line 702.
 (pdftex.def)             Requested size: 452.9679pt x 254.78487pt.
-<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=433, 677.53125pt x 948.543
+<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=456, 677.53125pt x 948.543
 75pt>
 File: figures/workflow-aquifers-reviewed_03-09-18.pdf Graphic file (type pdf)
 <use figures/workflow-aquifers-reviewed_03-09-18.pdf>
 Package pdftex.def Info: figures/workflow-aquifers-reviewed_03-09-18.pdf  used 
-on input line 707.
+on input line 710.
 (pdftex.def)             Requested size: 407.66833pt x 570.75168pt.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 715--717
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 718--720
 
@@ -1038,926 +1278,757 @@ Underfull \hbox (badness 10000) in paragraph at lines 724--726
  []
 
 
-Overfull \hbox (44.24776pt too wide) in paragraph at lines 728--731
-\OT1/cmr/m/n/12 com os se-guin-tes pas-sos: Na pasta /ho-me/-le-ti-ci-a/-Do-cu-
-men-tos/-libs/-le-ti-cia[]profiling[]metagenomes: 
+Underfull \hbox (badness 10000) in paragraph at lines 727--729
+
  []
 
 
-Overfull \hbox (21.71855pt too wide) in paragraph at lines 735--736
-[]\OT1/cmr/m/n/12 perl fil-ter-Rank.pl --in-put ta-ble.from[]biom[]with[]taxono
-my.txt --rank p > abun-dance.matrix 
+Overfull \hbox (53.94667pt too wide) in paragraph at lines 731--734
+\T1/cmr/m/n/12 com os se-guin-tes pas-sos: Na pasta /ho-me/-le-ti-ci-a/-Do-cu-m
+en-tos/-libs/-le-ti-cia_profiling_metagenomes: 
+ []
+
+
+Overfull \hbox (4.58961pt too wide) in paragraph at lines 737--738
+[]\T1/cmr/m/n/12 biom con-vert -i ta-ble.biom -o ta-ble.from_biom_with_taxonomy
+.txt --to-tsv --header-
  []
 
 [25
 
 ]
-Overfull \hbox (10.51062pt too wide) in paragraph at lines 739--741
-\OT1/cmr/m/n/12 perl se-lect-Groups.pl --in-put mgm4440370[]prinseq[]good[]SiDP
-.fasta[]kraken.report --file[]groups
+Overfull \hbox (34.94048pt too wide) in paragraph at lines 742--744
+\T1/cmr/m/n/12 perl se-lect-Groups.pl --input mgm4440370_prinseq_good_SiDP.fast
+a_kraken.report --file_groups
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 750--750
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 753--753
 [][] 
  []
 
 [26 <./figures/Captura2.png>] [27 <./figures/workflow-aquifers-reviewed_03-09-1
 8.pdf>]
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 764--764
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 767--767
 [][] 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 779--779
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 782--782
 [][] 
  []
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--804
-\OT1/cmr/m/n/12 Command 1: nohup bash se-lect[]groups[]perl[]corais.sh > se-
+Underfull \hbox (badness 10000) in paragraph at lines 805--807
+\T1/cmr/m/n/12 Command 1: nohup bash se-lect_groups_perl_corais.sh > se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 805--806
-[]\OT1/cmr/m/n/12 Command 2: biom con-vert -i ta-ble[]corais[]mg[]rast.biom -o 
-ta-
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+[]\T1/cmr/m/n/12 Command 2: biom con-vert -i ta-ble_corais_mg_rast.biom -o ta-
  []
 
 
-Overfull \hbox (31.24088pt too wide) in paragraph at lines 808--808
+Overfull \hbox (23.7919pt too wide) in paragraph at lines 810--811
+[]\T1/cmr/m/n/12 Comman 3: perl fil-ter-Rank.pl --input ta-ble_corais_mg_rast.f
+rom_biom_with_taxonomy.txt
+ []
+
+
+Overfull \hbox (31.24088pt too wide) in paragraph at lines 811--811
 [][] 
  []
 
 [28]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-
-Underfull \hbox (badness 5260) in paragraph at lines 818--821
-\OT1/cmr/m/n/12 - Li-nha: \OT1/cmr/m/it/12 ta-xon-pro-fi-ling -d /ho-me/-pe-dro
-/ho-lo-bi-onts[]temp/SRA -f SRA -t
+Underfull \hbox (badness 4072) in paragraph at lines 821--824
+\T1/cmr/m/n/12 - Li-nha: \T1/cmr/m/it/12 ta-xon-pro-fi-ling -d /ho-me/-pe-dro/h
+o-lo-bi-onts_temp/SRA -f SRA -t
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 821--821
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 824--824
 [][] 
  []
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-<figures/erro_26_10.png, id=475, 1927.2pt x 1084.05pt>
+<figures/erro_26_10.png, id=497, 1927.2pt x 1084.05pt>
 File: figures/erro_26_10.png Graphic file (type png)
 <use figures/erro_26_10.png>
-Package pdftex.def Info: figures/erro_26_10.png  used on input line 831.
+Package pdftex.def Info: figures/erro_26_10.png  used on input line 834.
 (pdftex.def)             Requested size: 578.16447pt x 325.21751pt.
 
-Overfull \hbox (125.19658pt too wide) in paragraph at lines 831--832
+Overfull \hbox (125.19658pt too wide) in paragraph at lines 834--835
  [][] 
  []
 
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ¢ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ¢ in font cmr8!
 [29]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 844--844
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 847--847
 [][] 
  []
 
-[30 <./figures/erro_26_10.png>]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 850--854
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 852--852
+[] 
+ []
+
+[30 <./figures/erro_26_10.png>] [31] [32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 982--986
 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 854--854
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 986--986
 [][] 
  []
 
-<figures/output_PCA_corais_2018_10_01.jpg, id=489, 867.24pt x 867.24pt>
+<figures/output_PCA_corais_2018_10_01.jpg, id=524, 867.24pt x 867.24pt>
 File: figures/output_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
 <use figures/output_PCA_corais_2018_10_01.jpg>
 Package pdftex.def Info: figures/output_PCA_corais_2018_10_01.jpg  used on inpu
-t line 860.
+t line 992.
 (pdftex.def)             Requested size: 407.66833pt x 407.66902pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ¡ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ¡ in font cmr8!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no º in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 864--865
+Underfull \hbox (badness 10000) in paragraph at lines 996--997
 
  []
 
-<figures/randomforest_taxonomic_corais_2018_10_01.jpeg, id=490, 730.22812pt x 5
+[34 <./figures/output_PCA_corais_2018_10_01.jpg>]
+<figures/randomforest_taxonomic_corais_2018_10_01.jpeg, id=530, 730.22812pt x 5
 81.92406pt>
 File: figures/randomforest_taxonomic_corais_2018_10_01.jpeg Graphic file (type 
 jpg)
 <use figures/randomforest_taxonomic_corais_2018_10_01.jpeg>
 Package pdftex.def Info: figures/randomforest_taxonomic_corais_2018_10_01.jpeg 
- used on input line 868.
+ used on input line 1000.
 (pdftex.def)             Requested size: 317.07614pt x 252.68207pt.
-[31 <./figures/output_PCA_corais_2018_10_01.jpg>]
-<figures/output_rf_20_PCA_corais_2018_10_01.jpg, id=496, 867.24pt x 867.24pt>
+<figures/output_rf_20_PCA_corais_2018_10_01.jpg, id=531, 867.24pt x 867.24pt>
 File: figures/output_rf_20_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
 <use figures/output_rf_20_PCA_corais_2018_10_01.jpg>
 Package pdftex.def Info: figures/output_rf_20_PCA_corais_2018_10_01.jpg  used o
-n input line 876.
+n input line 1008.
 (pdftex.def)             Requested size: 271.7835pt x 271.77934pt.
- [32 <./figures/randomforest_taxonomic_corais_2018_10_01.jpeg> <./figures/outpu
+ [35 <./figures/randomforest_taxonomic_corais_2018_10_01.jpeg> <./figures/outpu
 t_rf_20_PCA_corais_2018_10_01.jpg>]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-<figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png, id=503, 1156.32pt x 1
+<figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png, id=538, 1156.32pt x 1
 156.32pt>
 File: figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png Graphic file (typ
 e png)
 <use figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>
 Package pdftex.def Info: figures/output_rf_15_PCA_corais_2018_10_01_edited_3.pn
-g  used on input line 883.
+g  used on input line 1015.
 (pdftex.def)             Requested size: 407.66833pt x 407.66461pt.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-<figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg, id=504
+<figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg, id=539
 , 790.45313pt x 590.95781pt>
 File: figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg Gr
 aphic file (type jpg)
 <use figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
 Package pdftex.def Info: figures/randomforest_nao_supervisionado_corais_leticia
-_2018_10_18.jpeg  used on input line 891.
+_2018_10_18.jpeg  used on input line 1023.
 (pdftex.def)             Requested size: 395.22559pt x 295.47818pt.
- [33 <./figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>]
-<figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png, id=51
-0, 1156.32pt x 1156.32pt>
+ [36 <./figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>]
+<figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png, id=54
+6, 1156.32pt x 1156.32pt>
 File: figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png G
 raphic file (type png)
 <use figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png>
 Package pdftex.def Info: figures/rf_nao_supervisionado_pca_corais_20_filos_15_1
-0_2018_edited.png  used on input line 899.
+0_2018_edited.png  used on input line 1031.
 (pdftex.def)             Requested size: 271.7835pt x 271.77052pt.
-<figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png, id=51
-1, 1156.32pt x 1156.32pt>
+<figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png, id=54
+7, 1156.32pt x 1156.32pt>
 File: figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png G
 raphic file (type png)
 <use figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>
 Package pdftex.def Info: figures/rf_nao_supervisionado_pca_corais_15_filos_15_1
-0_2018_edited.png  used on input line 905.
+0_2018_edited.png  used on input line 1037.
 (pdftex.def)             Requested size: 407.66833pt x 407.66461pt.
- [34 <./figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
+ [37 <./figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
  <./figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png>] [
-35 <./figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>]
-<figures/output_PCA_corais_mg_rast_2018_10_23.jpg, id=523, 867.24pt x 867.24pt>
+38 <./figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>]
+<figures/output_PCA_corais_mg_rast_2018_10_23.jpg, id=559, 867.24pt x 867.24pt>
 
 File: figures/output_PCA_corais_mg_rast_2018_10_23.jpg Graphic file (type jpg)
 <use figures/output_PCA_corais_mg_rast_2018_10_23.jpg>
 Package pdftex.def Info: figures/output_PCA_corais_mg_rast_2018_10_23.jpg  used
- on input line 915.
+ on input line 1047.
 (pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
 <figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23.png,
- id=524, 1053.9375pt x 893.3375pt>
+ id=560, 1053.9375pt x 893.3375pt>
 File: figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23
 .png Graphic file (type png)
 <use figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23.
 png>
 Package pdftex.def Info: figures/randomforest_nao_supervisionado_corais_mg_rast
-_leticia_2018_10_23.png  used on input line 921.
+_leticia_2018_10_23.png  used on input line 1053.
 (pdftex.def)             Requested size: 526.96747pt x 446.66765pt.
 
-Overfull \hbox (73.99957pt too wide) in paragraph at lines 921--922
+Overfull \hbox (73.99957pt too wide) in paragraph at lines 1053--1054
  [][] 
  []
 
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
-[36 <./figures/output_PCA_corais_mg_rast_2018_10_23.jpg>]
-<figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg, id=531, 867.
+[39 <./figures/output_PCA_corais_mg_rast_2018_10_23.jpg>]
+<figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg, id=566, 867.
 24pt x 867.24pt>
 File: figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg Graphic 
 file (type jpg)
 <use figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>
 Package pdftex.def Info: figures/pca_corais_rf_nao_supervisionado_20_filos_23_1
-0_2018.jpg  used on input line 927.
+0_2018.jpg  used on input line 1059.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [37 <./figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_
+ [40 <./figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_
 23.png>]
-<figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg, id=538, 867.
+<figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg, id=573, 867.
 24pt x 867.24pt>
 File: figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg Graphic 
 file (type jpg)
 <use figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>
 Package pdftex.def Info: figures/pca_corais_rf_nao_supervisionado_15_filos_23_1
-0_2018.jpg  used on input line 933.
+0_2018.jpg  used on input line 1065.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [38 <./figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>]
+ [41 <./figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>]
 <figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png, id=5
-44, 1053.9375pt x 792.9625pt>
+79, 1053.9375pt x 792.9625pt>
 File: figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png 
 Graphic file (type png)
 <use figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png>
 Package pdftex.def Info: figures/randomforest_supervisionado_genero_corais_leti
-cia_2018_10_23.png  used on input line 939.
+cia_2018_10_23.png  used on input line 1071.
 (pdftex.def)             Requested size: 421.56754pt x 317.17938pt.
- [39 <./figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>]
+ [42 <./figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>]
 <figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jpg, id
-=550, 867.24pt x 867.24pt>
+=587, 867.24pt x 867.24pt>
 File: figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jp
 g Graphic file (type jpg)
 <use figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jpg
 >
 Package pdftex.def Info: figures/pca_corais_mg_rast_rf_supervisionado_genus_20_
-filos_23_10_2018.jpg  used on input line 945.
+filos_23_10_2018.jpg  used on input line 1077.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [40 <./figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.pn
+ [43 <./figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.pn
 g>]
 <figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jpg, id
-=557, 867.24pt x 867.24pt>
+=594, 867.24pt x 867.24pt>
 File: figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jp
 g Graphic file (type jpg)
 <use figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jpg
 >
 Package pdftex.def Info: figures/pca_corais_mg_rast_rf_supervisionado_genus_15_
-filos_23_10_2018.jpg  used on input line 951.
+filos_23_10_2018.jpg  used on input line 1083.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [41 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.
-jpg>]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
- [42 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.
-jpg>]
-<figures/filos/nMDS_filos_corais_2018_10_30.jpg, id=569, 722.7pt x 578.16pt>
+ [44 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.
+jpg>] [45 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_
+2018.jpg>]
+<figures/filos/nMDS_filos_corais_2018_10_30.jpg, id=605, 722.7pt x 578.16pt>
 File: figures/filos/nMDS_filos_corais_2018_10_30.jpg Graphic file (type jpg)
 <use figures/filos/nMDS_filos_corais_2018_10_30.jpg>
 Package pdftex.def Info: figures/filos/nMDS_filos_corais_2018_10_30.jpg  used o
-n input line 996.
+n input line 1128.
 (pdftex.def)             Requested size: 289.07487pt x 231.2599pt.
- [43]
-<figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg, id=574, 867.24pt
+ [46]
+<figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg, id=610, 867.24pt
  x 867.24pt>
 File: figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg Graphic file
  (type jpg)
 <use figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg>
 Package pdftex.def Info: figures/filos/output_PCA_corais_filos_mg_rast_2018_10_
-30.jpg  used on input line 1003.
+30.jpg  used on input line 1135.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
 <figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia_2018
-_10_30.jpeg, id=575, 790.45313pt x 741.52031pt>
+_10_30.jpeg, id=611, 790.45313pt x 741.52031pt>
 File: figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia
 _2018_10_30.jpeg Graphic file (type jpg)
 <use figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia_
 2018_10_30.jpeg>
 Package pdftex.def Info: figures/filos/randomforest_nao_supervisionado_corais_m
-grast_filos_leticia_2018_10_30.jpeg  used on input line 1010.
+grast_filos_leticia_2018_10_30.jpeg  used on input line 1142.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
 
-[44 <./figures/filos/nMDS_filos_corais_2018_10_30.jpg> <./figures/filos/output_
+[47 <./figures/filos/nMDS_filos_corais_2018_10_30.jpg> <./figures/filos/output_
 PCA_corais_filos_mg_rast_2018_10_30.jpg>]
 <figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018.jpg,
- id=583, 867.24pt x 867.24pt>
+ id=618, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018
 .jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018.
 jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_
-20_filos_30_10_2018.jpg  used on input line 1017.
+20_filos_30_10_2018.jpg  used on input line 1149.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
 <figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018.jpg,
- id=584, 867.24pt x 867.24pt>
+ id=619, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018
 .jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018.
 jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_
-15_filos_30_10_2018.jpg  used on input line 1024.
+15_filos_30_10_2018.jpg  used on input line 1156.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no £ in font cmr8!
- [45 <./figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_letic
+ [48 <./figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_letic
 ia_2018_10_30.jpeg> <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20
 _filos_30_10_2018.jpg>]
 <figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_2018_10
-_30.jpeg, id=591, 790.45313pt x 741.52031pt>
+_30.jpeg, id=627, 790.45313pt x 741.52031pt>
 File: figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_20
 18_10_30.jpeg Graphic file (type jpg)
 <use figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_201
 8_10_30.jpeg>
 Package pdftex.def Info: figures/filos/randomforest_supervisionado_genero_corai
-s_mgrast_leticia_2018_10_30.jpeg  used on input line 1031.
+s_mgrast_leticia_2018_10_30.jpeg  used on input line 1163.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
 <figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_2018.j
-pg, id=592, 867.24pt x 867.24pt>
+pg, id=628, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_2
 018.jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_20
 18.jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mg_rast_rf_supervisionado_gen
-us_20_filos_30_10_2018.jpg  used on input line 1038.
+us_20_filos_30_10_2018.jpg  used on input line 1170.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [46 <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_20
+ [49 <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_20
 18.jpg> <./figures/filos/randomforest_supervisionado_genero_corais_mgrast_letic
 ia_2018_10_30.jpeg>]
 <figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_2018.j
-pg, id=599, 867.24pt x 867.24pt>
+pg, id=635, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_2
 018.jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_20
 18.jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mg_rast_rf_supervisionado_gen
-us_15_filos_30_10_2018.jpg  used on input line 1045.
+us_15_filos_30_10_2018.jpg  used on input line 1177.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-<figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg, id=600, 722.7pt x
+<figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg, id=636, 722.7pt x
  578.16pt>
 File: figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg Graphic file 
 (type jpg)
 <use figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg>
 Package pdftex.def Info: figures/familia/nMDS_taxonomic_family_corais_2018_10_3
-0.jpg  used on input line 1053.
+0.jpg  used on input line 1185.
 (pdftex.def)             Requested size: 289.07487pt x 231.2599pt.
- [47 <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10
+ [50 <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10
 _2018.jpg> <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos
 _30_10_2018.jpg>]
-<figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg, id=607, 867.
+<figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg, id=643, 867.
 24pt x 867.24pt>
 File: figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg Graphic 
 file (type jpg)
 <use figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg>
 Package pdftex.def Info: figures/familia/output_PCA_corais_familia_mg_rast_2018
-_10_30.jpg  used on input line 1060.
+_10_30.jpg  used on input line 1192.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
 <figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_2018_10
-_30.jpeg, id=608, 790.45313pt x 741.52031pt>
+_30.jpeg, id=644, 790.45313pt x 741.52031pt>
 File: figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_20
 18_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_201
 8_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_nao_supervi_corais_mgrast
-_familia_leticia_2018_10_30.jpeg  used on input line 1067.
+_familia_leticia_2018_10_30.jpeg  used on input line 1199.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
- [48 <./figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg> <./figures
+ [51 <./figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg> <./figures
 /familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg>]
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10_2018
-.jpg, id=616, 867.24pt x 867.24pt>
+.jpg, id=651, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_20_familias_30_10_2018.jpg  used on input line 1074.
+o_20_familias_30_10_2018.jpg  used on input line 1206.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10_2018
-.jpg, id=617, 867.24pt x 867.24pt>
+.jpg, id=652, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_15_familias_30_10_2018.jpg  used on input line 1081.
+o_15_familias_30_10_2018.jpg  used on input line 1213.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
- [49 <./figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_
+ [52 <./figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_
 2018_10_30.jpeg> <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_
 familias_30_10_2018.jpg>]
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10_2018
-.jpg, id=624, 867.24pt x 867.24pt>
+.jpg, id=659, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_10_familias_30_10_2018.jpg  used on input line 1089.
+o_10_familias_30_10_2018.jpg  used on input line 1221.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
 <figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_letic
-ia_2018_10_30.jpeg, id=625, 790.45313pt x 741.52031pt>
+ia_2018_10_30.jpeg, id=660, 790.45313pt x 741.52031pt>
 File: figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_
 leticia_2018_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_l
 eticia_2018_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_supervisionado_genero_cor
-ais_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1096.
+ais_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1228.
 (pdftex.def)             Requested size: 237.13776pt x 222.45781pt.
- [50 <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_
+ [53 <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_
 10_2018.jpg> <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_fami
 lias_30_10_2018.jpg>]
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23_10_2
-018.jpg, id=632, 867.24pt x 867.24pt>
+018.jpg, id=667, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_20_familias_23_10_2018.jpg  used on input line 1103.
+enus_20_familias_23_10_2018.jpg  used on input line 1235.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30_10_2
-018.jpg, id=633, 867.24pt x 867.24pt>
+018.jpg, id=668, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_15_familias_30_10_2018.jpg  used on input line 1110.
+enus_15_familias_30_10_2018.jpg  used on input line 1242.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [51 <./figures/familia/randomforest_supervisionado_genero_corais_mgrast_famili
+ [54 <./figures/familia/randomforest_supervisionado_genero_corais_mgrast_famili
 a_leticia_2018_10_30.jpeg> <./figures/familia/pca_corais_mg_rast_rf_supervision
 ado_genus_20_familias_23_10_2018.jpg>]
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30_10_2
-018.jpg, id=640, 867.24pt x 867.24pt>
+018.jpg, id=676, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_10_familias_30_10_2018.jpg  used on input line 1117.
+enus_10_familias_30_10_2018.jpg  used on input line 1249.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_letici
-a_2018_10_30.jpeg, id=641, 867.24pt x 867.24pt>
+a_2018_10_30.jpeg, id=677, 867.24pt x 867.24pt>
 File: figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_l
 eticia_2018_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_le
 ticia_2018_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_supervisionado_saude_cora
-is_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1124.
+is_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1256.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [52 <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_
+ [55 <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_
 30_10_2018.jpg> <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_1
 0_familias_30_10_2018.jpg>]
-<figures/RF_nao_super_2018_12_20.png, id=648, 1059.96pt x 819.06pt>
+<figures/RF_nao_super_2018_12_20.png, id=684, 1059.96pt x 819.06pt>
 File: figures/RF_nao_super_2018_12_20.png Graphic file (type png)
 <use figures/RF_nao_super_2018_12_20.png>
 Package pdftex.def Info: figures/RF_nao_super_2018_12_20.png  used on input lin
-e 1133.
+e 1265.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-<figures/RF_super_saude_2018_12_20.png, id=649, 1059.96pt x 819.06pt>
+<figures/RF_super_saude_2018_12_20.png, id=685, 1059.96pt x 819.06pt>
 File: figures/RF_super_saude_2018_12_20.png Graphic file (type png)
 <use figures/RF_super_saude_2018_12_20.png>
 Package pdftex.def Info: figures/RF_super_saude_2018_12_20.png  used on input l
-ine 1140.
+ine 1272.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
- [53 <./figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia
+ [56 <./figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia
 _leticia_2018_10_30.jpeg> <./figures/RF_nao_super_2018_12_20.png>]
-<figures/RF_super_genero_2018_12_20.png, id=656, 1059.96pt x 819.06pt>
+<figures/RF_super_genero_2018_12_20.png, id=692, 1059.96pt x 819.06pt>
 File: figures/RF_super_genero_2018_12_20.png Graphic file (type png)
 <use figures/RF_super_genero_2018_12_20.png>
 Package pdftex.def Info: figures/RF_super_genero_2018_12_20.png  used on input 
-line 1147.
+line 1279.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
-<figures/PCA_health_corais_2018_12_20.png, id=657, 867.24pt x 867.24pt>
-File: figures/PCA_health_corais_2018_12_20.png Graphic file (type png)
-<use figures/PCA_health_corais_2018_12_20.png>
-Package pdftex.def Info: figures/PCA_health_corais_2018_12_20.png  used on inpu
-t line 1154.
-(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [54 <./figures/RF_super_saude_2018_12_20.png> <./figures/RF_super_genero_2018_
-12_20.png>]
-<figures/PCA_corais_genus_2018_12_20.png, id=665, 867.24pt x 867.24pt>
+<figures/PCA_health_corais_2018_12_20_edited.png, id=693, 1156.32pt x 1156.32pt
+>
+File: figures/PCA_health_corais_2018_12_20_edited.png Graphic file (type png)
+<use figures/PCA_health_corais_2018_12_20_edited.png>
+Package pdftex.def Info: figures/PCA_health_corais_2018_12_20_edited.png  used 
+on input line 1286.
+(pdftex.def)             Requested size: 462.5198pt x 462.5198pt.
+
+Overfull \hbox (9.55191pt too wide) in paragraph at lines 1286--1287
+ [][] 
+ []
+
+[57 <./figures/RF_super_saude_2018_12_20.png> <./figures/RF_super_genero_2018_1
+2_20.png>]
+<figures/PCA_corais_genus_2018_12_20.png, id=700, 867.24pt x 867.24pt>
 File: figures/PCA_corais_genus_2018_12_20.png Graphic file (type png)
 <use figures/PCA_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_corais_genus_2018_12_20.png  used on input
- line 1161.
-(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [55 <./figures/PCA_health_corais_2018_12_20.png (PNG copy)>]
-<figures/PCA_growth_157_corais_2018_12_20.png, id=671, 867.24pt x 867.24pt>
+ line 1295.
+(pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
+ [58 <./figures/PCA_health_corais_2018_12_20_edited.png>]
+<figures/PCA_growth_157_corais_2018_12_20.png, id=706, 867.24pt x 867.24pt>
 File: figures/PCA_growth_157_corais_2018_12_20.png Graphic file (type png)
 <use figures/PCA_growth_157_corais_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_growth_157_corais_2018_12_20.png  used on 
-input line 1168.
+input line 1304.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [56 <./figures/PCA_corais_genus_2018_12_20.png (PNG copy)>]
-<figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png, id=677, 867.24pt 
+ [59 <./figures/PCA_corais_genus_2018_12_20.png (PNG copy)>]
+<figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png, id=712, 867.24pt 
 x 867.24pt>
 File: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png Graphic file 
 (type png)
 <use figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_2
-0.png  used on input line 1175.
+0.png  used on input line 1311.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-
-[57 <./figures/PCA_growth_157_corais_2018_12_20.png (PNG copy)>]
-<figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png, id=683, 867.24pt
+ [60 <./figures/PCA_growth_157_corais_2018_12_20.png (PNG copy)>]
+<figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png, id=719, 867.24pt
  x 867.24pt>
 File: figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png Graphic file
  (type png)
 <use figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_health_2018_12_
-20.png  used on input line 1182.
+20.png  used on input line 1319.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no š in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no š in font cmr8!
- [58 <./figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png (PNG copy)>
+ [61 <./figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png (PNG copy)>
 ]
 File: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png Graphic file 
 (type png)
 <use figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_2
-0.png  used on input line 1189.
+0.png  used on input line 1326.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
- [59 <./figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png (PNG copy)
+ [62 <./figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png (PNG copy)
 >]
-<figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png, id=694, 867.24pt 
+<figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png, id=730, 867.24pt 
 x 867.24pt>
 File: figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png Graphic file 
 (type png)
 <use figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_2
-0.png  used on input line 1196.
+0.png  used on input line 1333.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
- [60]
-<figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png, id=701, 867.24pt
+ [63]
+<figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png, id=737, 867.24pt
  x 867.24pt>
 File: figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png Graphic file
  (type png)
 <use figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_
-20.png  used on input line 1203.
+20.png  used on input line 1340.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-
-[61 <./figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png (PNG copy)>]
-<figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png, id=707, 867.24pt
+ [64 <./figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png (PNG copy)>
+]
+<figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png, id=743, 867.24pt
  x 867.24pt>
 File: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png Graphic file
  (type png)
 <use figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_
-20.png  used on input line 1210.
+20.png  used on input line 1347.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-[62 <./figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png (PNG copy)>
-]
+ [65 <./figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png (PNG copy)
+>]
 File: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png Graphic file
  (type png)
 <use figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_
-20.png  used on input line 1217.
+20.png  used on input line 1354.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
-Missing character: There is no Ã in font cmr8!
-Missing character: There is no ƒ in font cmr8!
- [63 <./figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png (PNG copy)
->] [64]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
+ [66 <./figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png (PNG copy)
+>] [67]
 <figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png, id=7
-23, 1112.155pt x 760.8425pt>
+60, 1112.155pt x 760.8425pt>
 File: figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png 
 Graphic file (type png)
 <use figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus_12_most_abundant_1_feverei
-ro_2019_edited.png  used on input line 1235.
+ro_2019_edited.png  used on input line 1372.
 (pdftex.def)             Requested size: 444.85413pt x 304.3316pt.
-<figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png, id=724, 115
+<figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png, id=761, 115
 6.32pt x 770.88pt>
 File: figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png Graphic
  file (type png)
 <use figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus_12_others_1_fevereiro_2019
-_edited.png  used on input line 1242.
+_edited.png  used on input line 1379.
 (pdftex.def)             Requested size: 462.5198pt x 308.34654pt.
 
-Overfull \hbox (9.55191pt too wide) in paragraph at lines 1242--1243
+Overfull \hbox (9.55191pt too wide) in paragraph at lines 1379--1380
  [][] 
  []
 
-[65 <./figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png
+[68 <./figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png
 >]
 <figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_edited
-.png, id=733, 1156.32pt x 770.88pt>
+.png, id=769, 1156.32pt x 770.88pt>
 File: figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_e
 dited.png Graphic file (type png)
 <use figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_ed
 ited.png>
 Package pdftex.def Info: figures/barplot_coral_genus_10_most_abundant_candidate
-_1_fevereiro_2019_edited.png  used on input line 1249.
+_1_fevereiro_2019_edited.png  used on input line 1386.
 (pdftex.def)             Requested size: 462.5198pt x 308.34654pt.
 
-Overfull \hbox (9.55191pt too wide) in paragraph at lines 1249--1250
+Overfull \hbox (9.55191pt too wide) in paragraph at lines 1386--1387
  [][] 
  []
 
-[66 <./figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png>]
+[69 <./figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png>]
 <figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_2019_edi
-ted.png, id=740, 1185.42876pt x 784.9325pt>
+ted.png, id=775, 1185.42876pt x 784.9325pt>
 File: figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_201
 9_edited.png Graphic file (type png)
 <use figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_2019
 _edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus&health_status_12_most_abun
-dant_31_janeiro_2019_edited.png  used on input line 1260.
+dant_31_janeiro_2019_edited.png  used on input line 1397.
 (pdftex.def)             Requested size: 474.1631pt x 313.96744pt.
 
-Overfull \hbox (21.1952pt too wide) in paragraph at lines 1260--1261
+Overfull \hbox (21.1952pt too wide) in paragraph at lines 1397--1398
  [][] 
  []
 
-[67 <./figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_
+[70 <./figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_
 edited.png>]
 <figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edited.pn
-g, id=747, 1156.32pt x 770.88pt>
+g, id=782, 1156.32pt x 770.88pt>
 File: figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edit
 ed.png Graphic file (type png)
 <use figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edite
 d.png>
 Package pdftex.def Info: figures/barplot_coral_genus&health_status_12_others_1_
-fevereiro_2019_edited.png  used on input line 1267.
+fevereiro_2019_edited.png  used on input line 1404.
 (pdftex.def)             Requested size: 462.5198pt x 308.34654pt.
 
-Overfull \hbox (9.55191pt too wide) in paragraph at lines 1267--1268
+Overfull \hbox (9.55191pt too wide) in paragraph at lines 1404--1405
  [][] 
  []
 
-[68 <./figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_20
+[71 <./figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_20
 19_edited.png>]
 <figures/barplot_coral_genus&health_status_10_most_abundant_candidate_1_feverei
-ro_2019_edited.png, id=754, 1186.4325pt x 774.895pt>
+ro_2019_edited.png, id=789, 1186.4325pt x 774.895pt>
 File: figures/barplot_coral_genus&health_status_10_most_abundant_candidate_1_fe
 vereiro_2019_edited.png Graphic file (type png)
 <use figures/barplot_coral_genus&health_status_10_most_abundant_candidate_1_fev
 ereiro_2019_edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus&health_status_10_most_abun
-dant_candidate_1_fevereiro_2019_edited.png  used on input line 1274.
+dant_candidate_1_fevereiro_2019_edited.png  used on input line 1411.
 (pdftex.def)             Requested size: 474.56459pt x 309.95251pt.
 
-Overfull \hbox (21.5967pt too wide) in paragraph at lines 1274--1275
+Overfull \hbox (21.5967pt too wide) in paragraph at lines 1411--1412
  [][] 
  []
 
-[69 <./figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edi
-ted.png>]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
- [70 <./figures/barplot_coral_genus&health_status_10_most_abundant_candidate_1_
-fevereiro_2019_edited.png>]
+[72 <./figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edi
+ted.png>] [73 <./figures/barplot_coral_genus&health_status_10_most_abundant_can
+didate_1_fevereiro_2019_edited.png>] [74]
 Cap\'{\i }tulo 9.
-<figures/pipeline_functional.jpg, id=770, 327.2225pt x 743.77875pt>
+<figures/pipeline_functional.jpg, id=810, 327.2225pt x 743.77875pt>
 File: figures/pipeline_functional.jpg Graphic file (type jpg)
 <use figures/pipeline_functional.jpg>
-Package pdftex.def Info: figures/pipeline_functional.jpg  used on input line 12
-95.
+Package pdftex.def Info: figures/pipeline_functional.jpg  used on input line 14
+36.
 (pdftex.def)             Requested size: 317.07614pt x 720.71548pt.
 
-LaTeX Warning: Float too large for page by 69.7086pt on input line 1297.
-
-[71
-
-] [72 <./figures/pipeline_functional.jpg>]
-Cap\'{\i }tulo 10.
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-[73
-
-] [74]
-Cap\'{\i }tulo 11.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1346--1349
-
- []
-
-
-Overfull \hbox (168.33954pt too wide) in paragraph at lines 1350--1353
-\OT1/cmr/m/n/12 maquina re-mota para lo-cal: scp le-ti-cia.cavalcante@login.sdu
-mont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt
- []
+LaTeX Warning: Float too large for page by 69.7086pt on input line 1438.
 
 [75
 
-]
-Cap\'{\i }tulo 12.
-[76
+] [76 <./figures/pipeline_functional.jpg>]
+Cap\'{\i }tulo 10.
+[77
+
+] [78]
+Cap\'{\i }tulo 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1487--1490
+
+ []
+
+
+Overfull \hbox (168.19365pt too wide) in paragraph at lines 1491--1494
+\T1/cmr/m/n/12 maquina re-mota para lo-cal: scp le-ti-cia.cavalcante@login.sdum
+ont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt
+ []
+
+[79
 
 ]
+Cap\'{\i }tulo 12.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1499--1505
+
+ []
+
+<figures/venn_diagram_health_condition_example.png, id=833, 601.24625pt x 559.0
+8875pt>
+File: figures/venn_diagram_health_condition_example.png Graphic file (type png)
+
+<use figures/venn_diagram_health_condition_example.png>
+Package pdftex.def Info: figures/venn_diagram_health_condition_example.png  use
+d on input line 1519.
+(pdftex.def)             Requested size: 226.48395pt x 210.60469pt.
+[80
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+
+ []
+
+[81 <./figures/venn_diagram_health_condition_example.png>]
 Cap\'{\i }tulo 13.
-[77
+[82
 
 ]
 Cap\'{\i }tulo 14.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1363.
+(hyperref)                than one, level fixed on input line 1540.
 
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ³ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ³ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
+Underfull \hbox (badness 10000) in paragraph at lines 1559--1560
 
  []
 
-[78
+[83
 
-]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¢ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¢ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no Ã in font cmbx12!
-Missing character: There is no ¡ in font cmbx12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¢ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no § in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ­ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¡ in font cmr12!
- (./Lab_book.bbl [79]
+] (./Lab_book.bbl [84]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [80
+) [85
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1416.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1416.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1593.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1593.
  (./Lab_book.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1416.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1416.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1593.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1593.
 
 Package rerunfilecheck Info: File `Lab_book.out' has not changed.
-(rerunfilecheck)             Checksum: 8E48F3F91AFAC5DE8F6759359231CF25;3709.
+(rerunfilecheck)             Checksum: 44EBC94A411CBE07DC00C4D5203B1EC1;3948.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1416.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1593.
  ) 
 Here is how much of TeX's memory you used:
- 19515 strings out of 492982
- 367755 string characters out of 6134895
- 447978 words of memory out of 5000000
- 22481 multiletter control sequences out of 15000+600000
- 12764 words of font info for 46 fonts, out of 8000000 for 9000
+ 20445 strings out of 492982
+ 375814 string characters out of 6134895
+ 451618 words of memory out of 5000000
+ 23370 multiletter control sequences out of 15000+600000
+ 20594 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,9n,73p,1254b,1138s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on Lab_book.pdf (81 pages, 18399078 bytes).
+ 54i,9n,73p,1832b,1058s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti2074.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sftt1200.pfb>
+Output written on Lab_book.pdf (86 pages, 18028327 bytes).
 PDF statistics:
- 914 PDF objects out of 1000 (max. 8388607)
- 738 compressed objects within 8 object streams
- 218 named destinations out of 1000 (max. 500000)
- 722 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 987 PDF objects out of 1000 (max. 8388607)
+ 796 compressed objects within 8 object streams
+ 228 named destinations out of 1000 (max. 500000)
+ 751 words of extra memory for PDF output out of 10000 (max. 10000000)
 

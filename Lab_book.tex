@@ -14,8 +14,11 @@
  \usepackage{tcolorbox}
 \usepackage{longtable}
 \usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{listings}
 \usepackage{float}
+\DeclareUnicodeCharacter{2212}{-}
 
 
  \newcommand\tab[1][0.5cm]{\hspace*{#1}}
@@ -843,6 +846,135 @@ Para nao ter de copiar tudo a mao, fiz um script para copiar os metagenomas. Exi
 	- Folder: /fsprofpedro/holobionts/SRA/output/fastqdump\_output
 \end{tcolorbox}
 
+\section{Profiling no Scolymia}
+\begin{tcolorbox}[width=6.3in]
+	- Folder: \textit{/home/scolymia/leticia/fsprofpedro/\\holobionts/SRA/output/fastqdump\_output/limpos}
+\end{tcolorbox}
+O Felipe começou a me ajudar com a anotação taxonômica no Scolymia. Entretanto, devido a menor poder de computação, devo anotar amostras por vez. A lista de metagenomas é: 
+\begin{center}
+	\begin{longtable}{c}
+		SRR1275409\\
+		SRR1275449\\
+		SRR1283349\\
+		SRR1283371\\
+		SRR1283377\\
+		SRR1283433\\
+		SRR1283435\\
+		SRR1283437\\
+		SRR1286223\\
+		SRR1286225\\
+		SRR1286226\\
+		SRR1286227\\
+		SRR1286229\\
+		SRR1286232\\
+		SRR1822488\\
+		SRR1822516\\
+		SRR2937345\\
+		SRR2937346\\
+		SRR2937347\\
+		SRR2937348\\
+		SRR2937349\\
+		SRR2937350\\
+		SRR2937351\\
+		SRR2937352\\
+		SRR2937353\\
+		SRR2937354\\
+		SRR2937355\\
+		SRR2937356\\
+		SRR3499156\\
+		SRR3569370\\
+		SRR3694369\\
+		SRR3694370\\
+		SRR3694371\\
+		SRR3694372\\
+		SRR5215424\\
+		SRR5215455\\
+		SRR5215457\\
+		SRR5215462\\
+		SRR5605611\\
+		SRR6784973\\
+		SRR6784974\\
+		SRR6784975\\
+		SRR6784976\\
+		SRR6784977\\
+		SRR6784978\\
+		SRR6784979\\
+		SRR6784980\\
+		SRR6784981\\
+		SRR6784982\\
+		SRR6784983\\
+		SRR6784984\\
+		SRR6784985\\
+		SRR6784986\\
+		SRR6784987\\
+		SRR6784988\\
+		SRR6784989\\
+		SRR6784990\\
+		SRR6784991\\
+		SRR6784992\\
+		SRR6784993\\
+		SRR6784994\\
+		SRR6784995\\
+		SRR6784996\\
+		SRR6784997\\
+		SRR6784998\\
+		SRR6784999\\
+		SRR6785000\\
+		SRR6785005\\
+		SRR6785006\\
+		SRR6785009\\
+		SRR6785010\\
+		SRR6785011\\
+		SRR6785012\\
+		SRR6785013\\
+		SRR6785014\\
+		SRR6785015\\
+		SRR6785017\\
+		SRR6785018\\
+		SRR6785019\\
+		SRR6785020\\
+		SRR6785021\\
+		SRR6785022\\
+		SRR6785023\\
+		SRR6785024\\
+		SRR6785026\\
+		SRR6785027\\
+		SRR6785028\\
+		SRR6785029\\
+		SRR6785030\\
+		SRR6785031\\
+		SRR6785032\\
+		SRR6785033\\
+		SRR6785034\\
+		SRR6785035\\
+		SRR6785036\\
+		SRR6785037\\
+		SRR6785038\\
+		SRR6785039\\
+		SRR6785040\\
+		SRR6785041\\
+		SRR6785042\\
+		SRR6785043\\
+		SRR6785044\\
+		SRR6785045\\
+		SRR6785046\\
+		SRR6785047\\
+		SRR6785048\\
+		SRR6785049\\
+		SRR6785050\\
+		SRR6785051\\
+		SRR6785052\\
+		SRR6785053\\
+		SRR6785054\\
+		SRR6785055\\
+		SRR6785056\\
+		SRR6785057\\
+		SRR6785058\\
+	\end{longtable}
+\end{center}
+
+Dessa lista, eu fui até SRR2937348 no dia 07/03/2019. Eu coloquei para rodar o script 'kraken\_isolado\_fevereiro\_sra\_2019\_20\_primeiros.sh' e já criei os outros. 
+
 
 
 \newpage
@@ -1151,37 +1283,42 @@ O Rilquer sinalizou que a base de dados ainda tinha alguns problemas, entao tive
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.4]{figures/PCA_health_corais_2018_12_20.png}
+	\includegraphics[scale=0.4]{figures/PCA_health_corais_2018_12_20_edited.png}
 	\caption{PCA FEITO 20 DE DEZEMBRO}
-	\label{fig: PCA GERAL FEITO DIA 20 DE DEZEMBRO VISUALIZANDO CATEGORIA SAÚDE}
-\end{figure}	
+	\label{fig:PCAGERALFEITODIA20DEDEZEMBROVISUALIZANDOCATEGORIASAÚDE}
+\end{figure}
+
+Nessa figura, eu noto que diferente dos outros PCAs gerais, existe uma separacao muito explícita em vez de existir um grande agrupamento no centro gerado poluicao visual. Sendo que Firmicutes é a variável que direciona a variacao das amostras. Nao enxergo separacao visivel entre categorias de estados de saude.  	
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.4]{figures/PCA_corais_genus_2018_12_20.png}
+	\includegraphics[scale=0.5]{figures/PCA_corais_genus_2018_12_20.png}
 	\caption{PCA GERAL FEITO 20 DE DEZEMBRO VISUALIZANDO GENERO}
-	\label{fig: PCA GERAL FEITO DIA 20 DE DEZEMBRO VISUALIZANDO CATEGORIA GENERO}
+	\label{fig: PCAGERALFEITODIA20DEDEZEMBROVISUALIZANDOCATEGORIAGENERO}
 \end{figure}
+
+Nessa figura, enxergo uma separacao entre as amostras de diferentes mais clara do que o PCA da pagina anterior por genero de corais. 
 
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.4]{figures/PCA_growth_157_corais_2018_12_20.png}
 	\caption{PCA GERAL FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO}
-	\label{fig: PCA GERAL FEITO DIA 20 DE DEZEMBRO VISUALIZANDO CATEGORIA CRESCIMENTO}
+	\label{fig: PCAGERALFEITODIA20DEDEZEMBROVISUALIZANDOCATEGORIACRESCIMENTO}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png}
 	\caption{PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO}
-	\label{fig: PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO CRESCIMENTO}
+	\label{fig: PCACOMOS30FILOSINDICADOSCOMOMAISRELEVANTESPARACLASSIFICARASAMOSTRASPELORANDOMFORESTNÃOSUPERVISIONADOFEITO20DEDEZEMBROVISUALIZANDOCRESCIMENTO}
 \end{figure}
+Nessa figura também enxergo uma separação melhor do que por estado de saúde. Entretanto, devo ressaltar que essa melhor separacao que enxergo é pela similaridade das amostras do trabalho da Thurber, em que ela trabalha com Dark spot syndrome.
 
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.4]{figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png}
 	\caption{PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAÚDE}
-	\label{fig: PCA COM OS 30 FILOS INDICADOS COMO MAIS RELEVANTES PARA CLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAÚDE}
+	\label{fig: PCACOMOS30FILOSINDICADOSCOMOMAISRELEVANTES PARACLASSIFICAR AS AMOSTRAS PELO RANDOM FOREST NÃO SUPERVISIONADO FEITO 20 DE DEZEMBRO VISUALIZANDO SAÚDE}
 \end{figure}
 
 \begin{figure}[H]
@@ -1276,6 +1413,10 @@ As figuras a seguir ficarão obsoletas com a anotação que botei para rodar dia
 	\label{fig: barplotcoralgenus&health10candidate1fevereiro2019}
 \end{figure}
 
+Eu estou fazendo figuras demais e honestamente não sei mais o que devo avaliar. Isso ficou evidente na reunião do dia 15/02. Amaro e Miguel sugeriram uma leitura teórica maior e uma reflexão sobre o objetivo do meu trabalho, para que eu não tenha que fazer tantas figuras. 
+
+\subsection{Problemas no Atlantico}
+A algumas semanas atrás, quando o Rilquer falou que a base de dados do Kraken já estava pronta, eu resolvi colocar as anotações do Kraken para rodar. Depois de dois dias na fila, notei que, embora o status do job na fila seja 'R', de "running", o tempo de uso não saia do 00:00:00. E não havia output algum na pasta. Relatei esse problema ao Rilquer e ao Pedro. Duas possibilidades levantadas: problemas no job ou problemas no Atlantico, sendo que um não excluia o outro. O Rilquer avaliou a possibilidade de ser um problema no Atlantico e relatou que consertou o script do TAXONPROFILING, pois esse script não estava reconhecendo arquivos limpos de metagenomas. Entretanto, depois de consertar o script, o problema permaneceu o mesmo. Relatei isso ao Rilquer e ele decidiu fazer um teste com metagenomas de solo e ele teve o mesmo problema. Decidi rodar o kraken isoladamente no 'head node', utilizando bash e nohup. Para as amostras do MG-RAST, deu certo e os reports atualizados do mg-rast já estão prontos. Para os do SRA, coloquei para rodar utilizando bash e nohup. Ao checar na sexta-feira pela manhã, o subprograma classify do kraken ainda estava na lista do TOP. De tarde, no mesmo dia, o job já não estava mais lá. Bertolino comentou que provalvemente a equipe matou o job propositadamente. Resolvi fazer um teste com uma amostra isolada, de 20 mb e com 12 threads em vez de 24 e chequei na segunda, dia 25/02 e o trabalho não estava na lista do top e não há sinal do output. Coloquei mais uma vez para anotar uma amostra isolada, de 15MGB: SRR6784993, utilizando bash e nohup e também submeti para fila. O job na fila permanece com o mesmo problema, já o que submeti no 'head node' ainda está listado no TOP por enquanto. Coloquei o trabalho no head node às 10:40. 
 
 
 
@@ -1353,7 +1494,43 @@ scp leticia.cavalcante@login.sdumont.lncc.br:/scratch/ebiodiv/leticia.cavalcante
 
 \section{Profilling metagenomes}
 
-\chapter{Fundamentos teoricos}
+\chapter{Fundamentos teóricos e escrita do artigo}
+\section{março de 2019}
+Decidi fundir os capítulos, após a conversa com a Amanda e compreender por alto por onde exatamente minhas leituras devem ir para fundamentar o meu trabalho, em vez de ficar lendo para acumular conhecimento sobre corais de forma não estruturada.
+A Amanda conversou comigo sobre fundamentar melhor as perguntas e resultados desejados para meu trabalho. Chegamos as seguintes conclusões: \\
+Minhas perguntas são: \\
+\textbf{1) Como (e se) as comunidades microbianas se diferenciam dado mudanças no estado de saúde, localidade, gênero, desenvolvimento e estudo?}\\
+\textbf{2) Quais são as variáveis mais importantes para separação da comunidade microbiana?}\\
+\textbf{3) A assinatura (biosfera rara) da comunidade também varia com os fatores acima?}\\
+
+Hipótese teórica: sim, existe diferença na comunidade microbiana de corais dado diferença na saúde, localidade etc. 
+
+Hipótese operacional: a diferença se manifestará na estrutura(I), composição(II) e abundância(III)
+
+Resultados\\
+Para responder a pergunta 1, utilizaremos o nMDS, observando a estrutura(I) das comunidades e também para a pergunta 2, vendo qual a melhor condição que as diferencia.
+A abundância(elemento III) será um dos critérios para observamos a diferenciação da comunidade e responder a pergunta 1, utilizando barras de abundância. 
+Para responder a pergunta 3, utilizaremos diagrama de venn para cada condição, em que cada universo conterá filos únicos, compartilhando entre os diferentes estados das condições e aquilo que for compartilhado por todos será core. 
+Sobre direcionar minha leitura de artigos, para que meu conhecimento seja mais estruturado, eu lerei artigos procurando respostas prováveis para minhas perguntas. \\
+1) Leitura do artigo "Coral physiology and microbiome dynamics under combined warming and ocean acidification 
+   
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\textwidth]{figures/venn_diagram_health_condition_example.png}
+	\caption{Diagrama de Venn exemplificando como eu visualizarei a assinatura da comunidade microbiana de corais em diferentes condições, utilizando a composição como elemento 2}
+	\label{fig: Venndiagramhealthexample}
+\end{figure}
+
+Dessa forma, as figuras que devo fazer são:\\
+\begin{itemize}
+	\item a) nMDS(s) em que eu colorirei as amostras utilizando as diferentes condições
+	\item b) Com os nMDSs acima, verei qual é a condição que melhor separa as comunidades
+	\item c) RF supervisionado pelas diferentes fatores que estou analisando
+	\item d) Gráficos de abundância em que visualizo os filos que apareceram nos random forest(s)
+	\item e) Diagramas de Venn
+\end{itemize}
+
+Uma das coisas que talvez eu deva discutir melhor é a parte de assinatura. A Amanda e eu conversamos que, muito provavelmente os filos mais abundantes não variem muito nas comunidades microbianas, mas a biosfera rara varie. Dessa forma, a biosfera rara será considerada como assinatura.
 
 
 \chapter{Meetings}
