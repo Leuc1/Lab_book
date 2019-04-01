@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  7 MAR 2019 18:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.15)  1 APR 2019 14:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1087,7 +1087,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-<figures/texworks-linux.png, id=312, 1922.18124pt x 1083.04625pt>
+<figures/texworks-linux.png, id=337, 1922.18124pt x 1083.04625pt>
 File: figures/texworks-linux.png Graphic file (type png)
 <use figures/texworks-linux.png>
 Package pdftex.def Info: figures/texworks-linux.png  used on input line 76.
@@ -1136,7 +1136,7 @@ c . org / view / Taxonomy / 2 # view _ tab =
 ] [7] [8
 
 ] [9] [10] [11] [12] [13]
-<figures/aquifers_map_leticia_3.png, id=392, 794.97pt x 397.485pt>
+<figures/aquifers_map_leticia_3.png, id=417, 794.97pt x 397.485pt>
 File: figures/aquifers_map_leticia_3.png Graphic file (type png)
 <use figures/aquifers_map_leticia_3.png>
 Package pdftex.def Info: figures/aquifers_map_leticia_3.png  used on input line
@@ -1209,7 +1209,7 @@ Overfull \hbox (2.33331pt too wide) in paragraph at lines 640--640
 LaTeX Warning: File `figures/Captura-2018-09-10 09-35-27.png' not found on inpu
 t line 645.
 
-<figures/Captura-2018-09-10 09-35-27.png, id=435, 1927.2pt x 1084.05pt>
+<figures/Captura-2018-09-10 09-35-27.png, id=461, 1927.2pt x 1084.05pt>
 File: figures/Captura-2018-09-10 09-35-27.png Graphic file (type png)
 <use figures/Captura-2018-09-10 09-35-27.png>
 Package pdftex.def Info: figures/Captura-2018-09-10 09-35-27.png  used on input
@@ -1250,12 +1250,12 @@ Overfull \hbox (2.33331pt too wide) in paragraph at lines 695--695
 [][] 
  []
 
-<figures/Captura2.png, id=455, 1927.2pt x 1084.05pt>
+<figures/Captura2.png, id=480, 1927.2pt x 1084.05pt>
 File: figures/Captura2.png Graphic file (type png)
 <use figures/Captura2.png>
 Package pdftex.def Info: figures/Captura2.png  used on input line 702.
 (pdftex.def)             Requested size: 452.9679pt x 254.78487pt.
-<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=456, 677.53125pt x 948.543
+<figures/workflow-aquifers-reviewed_03-09-18.pdf, id=481, 677.53125pt x 948.543
 75pt>
 File: figures/workflow-aquifers-reviewed_03-09-18.pdf Graphic file (type pdf)
 <use figures/workflow-aquifers-reviewed_03-09-18.pdf>
@@ -1350,7 +1350,7 @@ Overfull \hbox (2.33331pt too wide) in paragraph at lines 824--824
 [][] 
  []
 
-<figures/erro_26_10.png, id=497, 1927.2pt x 1084.05pt>
+<figures/erro_26_10.png, id=522, 1927.2pt x 1084.05pt>
 File: figures/erro_26_10.png Graphic file (type png)
 <use figures/erro_26_10.png>
 Package pdftex.def Info: figures/erro_26_10.png  used on input line 834.
@@ -1370,640 +1370,662 @@ Overfull \hbox (2.33331pt too wide) in paragraph at lines 852--852
 [] 
  []
 
-[30 <./figures/erro_26_10.png>] [31] [32] [33]
-Underfull \hbox (badness 10000) in paragraph at lines 982--986
+[30 <./figures/erro_26_10.png>] [31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 980--983
+\T1/cmr/m/n/12 - Li-nha: \T1/cmr/m/it/12 biom_matrix -d /ho-me/s-coly-mi-a/-le-
+ti-ci-a/-re-ports -n ho-lo-bi-
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 980--983
+\T1/cmr/m/it/12 onts_matrix_marco_2019 -g /s-to-rage2/pedro/bin/groups -o /ho-m
+e/s-coly-mi-
+ []
+
+
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 983--983
+[] 
+ []
+
+[33] [34]
+Underfull \hbox (badness 10000) in paragraph at lines 989--993
 
  []
 
 
-Overfull \hbox (2.33331pt too wide) in paragraph at lines 986--986
+Overfull \hbox (2.33331pt too wide) in paragraph at lines 993--993
 [][] 
  []
 
-<figures/output_PCA_corais_2018_10_01.jpg, id=524, 867.24pt x 867.24pt>
+<figures/output_PCA_corais_2018_10_01.jpg, id=553, 867.24pt x 867.24pt>
 File: figures/output_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
 <use figures/output_PCA_corais_2018_10_01.jpg>
 Package pdftex.def Info: figures/output_PCA_corais_2018_10_01.jpg  used on inpu
-t line 992.
+t line 999.
 (pdftex.def)             Requested size: 407.66833pt x 407.66902pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 996--997
+Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
 
  []
 
-[34 <./figures/output_PCA_corais_2018_10_01.jpg>]
-<figures/randomforest_taxonomic_corais_2018_10_01.jpeg, id=530, 730.22812pt x 5
+[35 <./figures/output_PCA_corais_2018_10_01.jpg>]
+<figures/randomforest_taxonomic_corais_2018_10_01.jpeg, id=559, 730.22812pt x 5
 81.92406pt>
 File: figures/randomforest_taxonomic_corais_2018_10_01.jpeg Graphic file (type 
 jpg)
 <use figures/randomforest_taxonomic_corais_2018_10_01.jpeg>
 Package pdftex.def Info: figures/randomforest_taxonomic_corais_2018_10_01.jpeg 
- used on input line 1000.
+ used on input line 1007.
 (pdftex.def)             Requested size: 317.07614pt x 252.68207pt.
-<figures/output_rf_20_PCA_corais_2018_10_01.jpg, id=531, 867.24pt x 867.24pt>
+<figures/output_rf_20_PCA_corais_2018_10_01.jpg, id=560, 867.24pt x 867.24pt>
 File: figures/output_rf_20_PCA_corais_2018_10_01.jpg Graphic file (type jpg)
 <use figures/output_rf_20_PCA_corais_2018_10_01.jpg>
 Package pdftex.def Info: figures/output_rf_20_PCA_corais_2018_10_01.jpg  used o
-n input line 1008.
+n input line 1015.
 (pdftex.def)             Requested size: 271.7835pt x 271.77934pt.
- [35 <./figures/randomforest_taxonomic_corais_2018_10_01.jpeg> <./figures/outpu
+ [36 <./figures/randomforest_taxonomic_corais_2018_10_01.jpeg> <./figures/outpu
 t_rf_20_PCA_corais_2018_10_01.jpg>]
-<figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png, id=538, 1156.32pt x 1
+<figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png, id=568, 1156.32pt x 1
 156.32pt>
 File: figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png Graphic file (typ
 e png)
 <use figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>
 Package pdftex.def Info: figures/output_rf_15_PCA_corais_2018_10_01_edited_3.pn
-g  used on input line 1015.
+g  used on input line 1022.
 (pdftex.def)             Requested size: 407.66833pt x 407.66461pt.
-<figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg, id=539
+<figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg, id=569
 , 790.45313pt x 590.95781pt>
 File: figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg Gr
 aphic file (type jpg)
 <use figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
 Package pdftex.def Info: figures/randomforest_nao_supervisionado_corais_leticia
-_2018_10_18.jpeg  used on input line 1023.
+_2018_10_18.jpeg  used on input line 1030.
 (pdftex.def)             Requested size: 395.22559pt x 295.47818pt.
- [36 <./figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>]
-<figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png, id=54
-6, 1156.32pt x 1156.32pt>
+ [37 <./figures/output_rf_15_PCA_corais_2018_10_01_edited_3.png>]
+<figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png, id=57
+5, 1156.32pt x 1156.32pt>
 File: figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png G
 raphic file (type png)
 <use figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png>
 Package pdftex.def Info: figures/rf_nao_supervisionado_pca_corais_20_filos_15_1
-0_2018_edited.png  used on input line 1031.
+0_2018_edited.png  used on input line 1038.
 (pdftex.def)             Requested size: 271.7835pt x 271.77052pt.
-<figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png, id=54
-7, 1156.32pt x 1156.32pt>
+<figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png, id=57
+6, 1156.32pt x 1156.32pt>
 File: figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png G
 raphic file (type png)
 <use figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>
 Package pdftex.def Info: figures/rf_nao_supervisionado_pca_corais_15_filos_15_1
-0_2018_edited.png  used on input line 1037.
+0_2018_edited.png  used on input line 1044.
 (pdftex.def)             Requested size: 407.66833pt x 407.66461pt.
- [37 <./figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
+ [38 <./figures/randomforest_nao_supervisionado_corais_leticia_2018_10_18.jpeg>
  <./figures/rf_nao_supervisionado_pca_corais_20_filos_15_10_2018_edited.png>] [
-38 <./figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>]
-<figures/output_PCA_corais_mg_rast_2018_10_23.jpg, id=559, 867.24pt x 867.24pt>
+39 <./figures/rf_nao_supervisionado_pca_corais_15_filos_15_10_2018_edited.png>]
+<figures/output_PCA_corais_mg_rast_2018_10_23.jpg, id=589, 867.24pt x 867.24pt>
 
 File: figures/output_PCA_corais_mg_rast_2018_10_23.jpg Graphic file (type jpg)
 <use figures/output_PCA_corais_mg_rast_2018_10_23.jpg>
 Package pdftex.def Info: figures/output_PCA_corais_mg_rast_2018_10_23.jpg  used
- on input line 1047.
+ on input line 1054.
 (pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
 <figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23.png,
- id=560, 1053.9375pt x 893.3375pt>
+ id=590, 1053.9375pt x 893.3375pt>
 File: figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23
 .png Graphic file (type png)
 <use figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_23.
 png>
 Package pdftex.def Info: figures/randomforest_nao_supervisionado_corais_mg_rast
-_leticia_2018_10_23.png  used on input line 1053.
+_leticia_2018_10_23.png  used on input line 1060.
 (pdftex.def)             Requested size: 526.96747pt x 446.66765pt.
 
-Overfull \hbox (73.99957pt too wide) in paragraph at lines 1053--1054
+Overfull \hbox (73.99957pt too wide) in paragraph at lines 1060--1061
  [][] 
  []
 
-[39 <./figures/output_PCA_corais_mg_rast_2018_10_23.jpg>]
-<figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg, id=566, 867.
+[40 <./figures/output_PCA_corais_mg_rast_2018_10_23.jpg>]
+<figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg, id=596, 867.
 24pt x 867.24pt>
 File: figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg Graphic 
 file (type jpg)
 <use figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>
 Package pdftex.def Info: figures/pca_corais_rf_nao_supervisionado_20_filos_23_1
-0_2018.jpg  used on input line 1059.
+0_2018.jpg  used on input line 1066.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [40 <./figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_
+ [41 <./figures/randomforest_nao_supervisionado_corais_mg_rast_leticia_2018_10_
 23.png>]
-<figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg, id=573, 867.
+<figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg, id=603, 867.
 24pt x 867.24pt>
 File: figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg Graphic 
 file (type jpg)
 <use figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>
 Package pdftex.def Info: figures/pca_corais_rf_nao_supervisionado_15_filos_23_1
-0_2018.jpg  used on input line 1065.
+0_2018.jpg  used on input line 1072.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [41 <./figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>]
-<figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png, id=5
-79, 1053.9375pt x 792.9625pt>
+ [42 <./figures/pca_corais_rf_nao_supervisionado_20_filos_23_10_2018.jpg>]
+<figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png, id=6
+10, 1053.9375pt x 792.9625pt>
 File: figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png 
 Graphic file (type png)
 <use figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.png>
 Package pdftex.def Info: figures/randomforest_supervisionado_genero_corais_leti
-cia_2018_10_23.png  used on input line 1071.
+cia_2018_10_23.png  used on input line 1078.
 (pdftex.def)             Requested size: 421.56754pt x 317.17938pt.
- [42 <./figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>]
+ [43 <./figures/pca_corais_rf_nao_supervisionado_15_filos_23_10_2018.jpg>]
 <figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jpg, id
-=587, 867.24pt x 867.24pt>
+=616, 867.24pt x 867.24pt>
 File: figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jp
 g Graphic file (type jpg)
 <use figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.jpg
 >
 Package pdftex.def Info: figures/pca_corais_mg_rast_rf_supervisionado_genus_20_
-filos_23_10_2018.jpg  used on input line 1077.
+filos_23_10_2018.jpg  used on input line 1084.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [43 <./figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.pn
+ [44 <./figures/randomforest_supervisionado_genero_corais_leticia_2018_10_23.pn
 g>]
 <figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jpg, id
-=594, 867.24pt x 867.24pt>
+=623, 867.24pt x 867.24pt>
 File: figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jp
 g Graphic file (type jpg)
 <use figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_2018.jpg
 >
 Package pdftex.def Info: figures/pca_corais_mg_rast_rf_supervisionado_genus_15_
-filos_23_10_2018.jpg  used on input line 1083.
+filos_23_10_2018.jpg  used on input line 1090.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [44 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.
-jpg>] [45 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_
+ [45 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_23_10_2018.
+jpg>] [46 <./figures/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_23_10_
 2018.jpg>]
-<figures/filos/nMDS_filos_corais_2018_10_30.jpg, id=605, 722.7pt x 578.16pt>
+<figures/filos/nMDS_filos_corais_2018_10_30.jpg, id=634, 722.7pt x 578.16pt>
 File: figures/filos/nMDS_filos_corais_2018_10_30.jpg Graphic file (type jpg)
 <use figures/filos/nMDS_filos_corais_2018_10_30.jpg>
 Package pdftex.def Info: figures/filos/nMDS_filos_corais_2018_10_30.jpg  used o
-n input line 1128.
+n input line 1135.
 (pdftex.def)             Requested size: 289.07487pt x 231.2599pt.
- [46]
-<figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg, id=610, 867.24pt
+ [47]
+<figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg, id=639, 867.24pt
  x 867.24pt>
 File: figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg Graphic file
  (type jpg)
 <use figures/filos/output_PCA_corais_filos_mg_rast_2018_10_30.jpg>
 Package pdftex.def Info: figures/filos/output_PCA_corais_filos_mg_rast_2018_10_
-30.jpg  used on input line 1135.
+30.jpg  used on input line 1142.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
 <figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia_2018
-_10_30.jpeg, id=611, 790.45313pt x 741.52031pt>
+_10_30.jpeg, id=640, 790.45313pt x 741.52031pt>
 File: figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia
 _2018_10_30.jpeg Graphic file (type jpg)
 <use figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_leticia_
 2018_10_30.jpeg>
 Package pdftex.def Info: figures/filos/randomforest_nao_supervisionado_corais_m
-grast_filos_leticia_2018_10_30.jpeg  used on input line 1142.
+grast_filos_leticia_2018_10_30.jpeg  used on input line 1149.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
 
-[47 <./figures/filos/nMDS_filos_corais_2018_10_30.jpg> <./figures/filos/output_
+[48 <./figures/filos/nMDS_filos_corais_2018_10_30.jpg> <./figures/filos/output_
 PCA_corais_filos_mg_rast_2018_10_30.jpg>]
 <figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018.jpg,
- id=618, 867.24pt x 867.24pt>
+ id=648, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018
 .jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20_filos_30_10_2018.
 jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_
-20_filos_30_10_2018.jpg  used on input line 1149.
+20_filos_30_10_2018.jpg  used on input line 1156.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018.jpg,
- id=619, 867.24pt x 867.24pt>
+ id=649, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018
 .jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_2018.
 jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mgrast_rf_nao_supervisionado_
-15_filos_30_10_2018.jpg  used on input line 1156.
+15_filos_30_10_2018.jpg  used on input line 1163.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [48 <./figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_letic
+ [49 <./figures/filos/randomforest_nao_supervisionado_corais_mgrast_filos_letic
 ia_2018_10_30.jpeg> <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_20
 _filos_30_10_2018.jpg>]
 <figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_2018_10
-_30.jpeg, id=627, 790.45313pt x 741.52031pt>
+_30.jpeg, id=656, 790.45313pt x 741.52031pt>
 File: figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_20
 18_10_30.jpeg Graphic file (type jpg)
 <use figures/filos/randomforest_supervisionado_genero_corais_mgrast_leticia_201
 8_10_30.jpeg>
 Package pdftex.def Info: figures/filos/randomforest_supervisionado_genero_corai
-s_mgrast_leticia_2018_10_30.jpeg  used on input line 1163.
+s_mgrast_leticia_2018_10_30.jpeg  used on input line 1170.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
 <figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_2018.j
-pg, id=628, 867.24pt x 867.24pt>
+pg, id=657, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_2
 018.jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10_20
 18.jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mg_rast_rf_supervisionado_gen
-us_20_filos_30_10_2018.jpg  used on input line 1170.
+us_20_filos_30_10_2018.jpg  used on input line 1177.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [49 <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_20
+ [50 <./figures/filos/pca_corais_mgrast_rf_nao_supervisionado_15_filos_30_10_20
 18.jpg> <./figures/filos/randomforest_supervisionado_genero_corais_mgrast_letic
 ia_2018_10_30.jpeg>]
 <figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_2018.j
-pg, id=635, 867.24pt x 867.24pt>
+pg, id=664, 867.24pt x 867.24pt>
 File: figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_2
 018.jpg Graphic file (type jpg)
 <use figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos_30_10_20
 18.jpg>
 Package pdftex.def Info: figures/filos/pca_corais_mg_rast_rf_supervisionado_gen
-us_15_filos_30_10_2018.jpg  used on input line 1177.
+us_15_filos_30_10_2018.jpg  used on input line 1184.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
-<figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg, id=636, 722.7pt x
+<figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg, id=665, 722.7pt x
  578.16pt>
 File: figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg Graphic file 
 (type jpg)
 <use figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg>
 Package pdftex.def Info: figures/familia/nMDS_taxonomic_family_corais_2018_10_3
-0.jpg  used on input line 1185.
+0.jpg  used on input line 1192.
 (pdftex.def)             Requested size: 289.07487pt x 231.2599pt.
- [50 <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10
+ [51 <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_20_filos_30_10
 _2018.jpg> <./figures/filos/pca_corais_mg_rast_rf_supervisionado_genus_15_filos
 _30_10_2018.jpg>]
-<figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg, id=643, 867.
+<figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg, id=672, 867.
 24pt x 867.24pt>
 File: figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg Graphic 
 file (type jpg)
 <use figures/familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg>
 Package pdftex.def Info: figures/familia/output_PCA_corais_familia_mg_rast_2018
-_10_30.jpg  used on input line 1192.
+_10_30.jpg  used on input line 1199.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
 <figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_2018_10
-_30.jpeg, id=644, 790.45313pt x 741.52031pt>
+_30.jpeg, id=673, 790.45313pt x 741.52031pt>
 File: figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_20
 18_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_201
 8_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_nao_supervi_corais_mgrast
-_familia_leticia_2018_10_30.jpeg  used on input line 1199.
+_familia_leticia_2018_10_30.jpeg  used on input line 1206.
 (pdftex.def)             Requested size: 316.17564pt x 296.60286pt.
- [51 <./figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg> <./figures
+ [52 <./figures/familia/nMDS_taxonomic_family_corais_2018_10_30.jpg> <./figures
 /familia/output_PCA_corais_familia_mg_rast_2018_10_30.jpg>]
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10_2018
-.jpg, id=651, 867.24pt x 867.24pt>
+.jpg, id=680, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_20_familias_30_10_2018.jpg  used on input line 1206.
+o_20_familias_30_10_2018.jpg  used on input line 1213.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10_2018
-.jpg, id=652, 867.24pt x 867.24pt>
+.jpg, id=681, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_15_familias_30_10_2018.jpg  used on input line 1213.
+o_15_familias_30_10_2018.jpg  used on input line 1220.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [52 <./figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_
+ [53 <./figures/familia/randomforest_nao_supervi_corais_mgrast_familia_leticia_
 2018_10_30.jpeg> <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_20_
 familias_30_10_2018.jpg>]
 <figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10_2018
-.jpg, id=659, 867.24pt x 867.24pt>
+.jpg, id=688, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10
 _2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_familias_30_10_
 2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mgrast_rf_nao_supervisionad
-o_10_familias_30_10_2018.jpg  used on input line 1221.
+o_10_familias_30_10_2018.jpg  used on input line 1228.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_letic
-ia_2018_10_30.jpeg, id=660, 790.45313pt x 741.52031pt>
+ia_2018_10_30.jpeg, id=689, 790.45313pt x 741.52031pt>
 File: figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_
 leticia_2018_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_supervisionado_genero_corais_mgrast_familia_l
 eticia_2018_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_supervisionado_genero_cor
-ais_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1228.
+ais_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1235.
 (pdftex.def)             Requested size: 237.13776pt x 222.45781pt.
- [53 <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_
+ [54 <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_15_familias_30_
 10_2018.jpg> <./figures/familia/pca_corais_mgrast_rf_nao_supervisionado_10_fami
 lias_30_10_2018.jpg>]
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23_10_2
-018.jpg, id=667, 867.24pt x 867.24pt>
+018.jpg, id=697, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_20_familias_23_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_20_familias_23_10_2018.jpg  used on input line 1235.
+enus_20_familias_23_10_2018.jpg  used on input line 1242.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30_10_2
-018.jpg, id=668, 867.24pt x 867.24pt>
+018.jpg, id=698, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_30_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_15_familias_30_10_2018.jpg  used on input line 1242.
+enus_15_familias_30_10_2018.jpg  used on input line 1249.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [54 <./figures/familia/randomforest_supervisionado_genero_corais_mgrast_famili
+ [55 <./figures/familia/randomforest_supervisionado_genero_corais_mgrast_famili
 a_leticia_2018_10_30.jpeg> <./figures/familia/pca_corais_mg_rast_rf_supervision
 ado_genus_20_familias_23_10_2018.jpg>]
 <figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30_10_2
-018.jpg, id=676, 867.24pt x 867.24pt>
+018.jpg, id=705, 867.24pt x 867.24pt>
 File: figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30
 _10_2018.jpg Graphic file (type jpg)
 <use figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_10_familias_30_
 10_2018.jpg>
 Package pdftex.def Info: figures/familia/pca_corais_mg_rast_rf_supervisionado_g
-enus_10_familias_30_10_2018.jpg  used on input line 1249.
+enus_10_familias_30_10_2018.jpg  used on input line 1256.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
 <figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_letici
-a_2018_10_30.jpeg, id=677, 867.24pt x 867.24pt>
+a_2018_10_30.jpeg, id=706, 867.24pt x 867.24pt>
 File: figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_l
 eticia_2018_10_30.jpeg Graphic file (type jpg)
 <use figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia_le
 ticia_2018_10_30.jpeg>
 Package pdftex.def Info: figures/familia/randomforest_supervisionado_saude_cora
-is_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1256.
+is_mgrast_familia_leticia_2018_10_30.jpeg  used on input line 1263.
 (pdftex.def)             Requested size: 260.17401pt x 260.17401pt.
- [55 <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_
+ [56 <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_15_familias_
 30_10_2018.jpg> <./figures/familia/pca_corais_mg_rast_rf_supervisionado_genus_1
 0_familias_30_10_2018.jpg>]
-<figures/RF_nao_super_2018_12_20.png, id=684, 1059.96pt x 819.06pt>
+<figures/RF_nao_super_2018_12_20.png, id=713, 1059.96pt x 819.06pt>
 File: figures/RF_nao_super_2018_12_20.png Graphic file (type png)
 <use figures/RF_nao_super_2018_12_20.png>
 Package pdftex.def Info: figures/RF_nao_super_2018_12_20.png  used on input lin
-e 1265.
+e 1272.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
-<figures/RF_super_saude_2018_12_20.png, id=685, 1059.96pt x 819.06pt>
+<figures/RF_super_saude_2018_12_20.png, id=714, 1059.96pt x 819.06pt>
 File: figures/RF_super_saude_2018_12_20.png Graphic file (type png)
 <use figures/RF_super_saude_2018_12_20.png>
 Package pdftex.def Info: figures/RF_super_saude_2018_12_20.png  used on input l
-ine 1272.
+ine 1279.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
- [56 <./figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia
+ [57 <./figures/familia/randomforest_supervisionado_saude_corais_mgrast_familia
 _leticia_2018_10_30.jpeg> <./figures/RF_nao_super_2018_12_20.png>]
-<figures/RF_super_genero_2018_12_20.png, id=692, 1059.96pt x 819.06pt>
+<figures/RF_super_genero_2018_12_20.png, id=721, 1059.96pt x 819.06pt>
 File: figures/RF_super_genero_2018_12_20.png Graphic file (type png)
 <use figures/RF_super_genero_2018_12_20.png>
 Package pdftex.def Info: figures/RF_super_genero_2018_12_20.png  used on input 
-line 1279.
+line 1286.
 (pdftex.def)             Requested size: 317.99045pt x 245.7199pt.
-<figures/PCA_health_corais_2018_12_20_edited.png, id=693, 1156.32pt x 1156.32pt
+<figures/PCA_health_corais_2018_12_20_edited.png, id=722, 1156.32pt x 1156.32pt
 >
 File: figures/PCA_health_corais_2018_12_20_edited.png Graphic file (type png)
 <use figures/PCA_health_corais_2018_12_20_edited.png>
 Package pdftex.def Info: figures/PCA_health_corais_2018_12_20_edited.png  used 
-on input line 1286.
+on input line 1293.
 (pdftex.def)             Requested size: 462.5198pt x 462.5198pt.
 
-Overfull \hbox (9.55191pt too wide) in paragraph at lines 1286--1287
+Overfull \hbox (9.55191pt too wide) in paragraph at lines 1293--1294
  [][] 
  []
 
-[57 <./figures/RF_super_saude_2018_12_20.png> <./figures/RF_super_genero_2018_1
+[58 <./figures/RF_super_saude_2018_12_20.png> <./figures/RF_super_genero_2018_1
 2_20.png>]
-<figures/PCA_corais_genus_2018_12_20.png, id=700, 867.24pt x 867.24pt>
+<figures/PCA_corais_genus_2018_12_20.png, id=729, 867.24pt x 867.24pt>
 File: figures/PCA_corais_genus_2018_12_20.png Graphic file (type png)
 <use figures/PCA_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_corais_genus_2018_12_20.png  used on input
- line 1295.
+ line 1302.
 (pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
- [58 <./figures/PCA_health_corais_2018_12_20_edited.png>]
-<figures/PCA_growth_157_corais_2018_12_20.png, id=706, 867.24pt x 867.24pt>
+ [59 <./figures/PCA_health_corais_2018_12_20_edited.png>]
+<figures/PCA_growth_157_corais_2018_12_20.png, id=735, 867.24pt x 867.24pt>
 File: figures/PCA_growth_157_corais_2018_12_20.png Graphic file (type png)
 <use figures/PCA_growth_157_corais_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_growth_157_corais_2018_12_20.png  used on 
-input line 1304.
+input line 1311.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [59 <./figures/PCA_corais_genus_2018_12_20.png (PNG copy)>]
-<figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png, id=712, 867.24pt 
+ [60 <./figures/PCA_corais_genus_2018_12_20.png (PNG copy)>]
+<figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png, id=743, 867.24pt 
 x 867.24pt>
 File: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png Graphic file 
 (type png)
 <use figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_2
-0.png  used on input line 1311.
+0.png  used on input line 1318.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [60 <./figures/PCA_growth_157_corais_2018_12_20.png (PNG copy)>]
-<figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png, id=719, 867.24pt
+ [61 <./figures/PCA_growth_157_corais_2018_12_20.png (PNG copy)>]
+<figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png, id=749, 867.24pt
  x 867.24pt>
 File: figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png Graphic file
  (type png)
 <use figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_health_2018_12_
-20.png  used on input line 1319.
+20.png  used on input line 1326.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [61 <./figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png (PNG copy)>
+ [62 <./figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png (PNG copy)>
 ]
 File: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png Graphic file 
 (type png)
 <use figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_30_157_corais_genus_2018_12_2
-0.png  used on input line 1326.
+0.png  used on input line 1333.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [62 <./figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png (PNG copy)
+ [63 <./figures/PCA_rf_nao_super_30_157_corais_health_2018_12_20.png (PNG copy)
 >]
-<figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png, id=730, 867.24pt 
+<figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png, id=760, 867.24pt 
 x 867.24pt>
 File: figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png Graphic file 
 (type png)
 <use figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_2
-0.png  used on input line 1333.
+0.png  used on input line 1340.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [63]
-<figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png, id=737, 867.24pt
+ [64]
+<figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png, id=766, 867.24pt
  x 867.24pt>
 File: figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png Graphic file
  (type png)
 <use figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_
-20.png  used on input line 1340.
-(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [64 <./figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png (PNG copy)>
-]
-<figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png, id=743, 867.24pt
- x 867.24pt>
-File: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png Graphic file
- (type png)
-<use figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png>
-Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_
 20.png  used on input line 1347.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [65 <./figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png (PNG copy)
->]
+ [65 <./figures/PCA_rf_nao_super_25_157_corais_genus_2018_12_20.png (PNG copy)>
+]
+<figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png, id=772, 867.24pt
+ x 867.24pt>
 File: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png Graphic file
  (type png)
 <use figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png>
 Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_
 20.png  used on input line 1354.
 (pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
- [66 <./figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png (PNG copy)
->] [67]
+ [66 <./figures/PCA_rf_nao_super_25_157_corais_growth_2018_12_20.png (PNG copy)
+>]
+File: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png Graphic file
+ (type png)
+<use figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png>
+Package pdftex.def Info: figures/PCA_rf_nao_super_25_157_corais_health_2018_12_
+20.png  used on input line 1361.
+(pdftex.def)             Requested size: 346.88986pt x 346.88986pt.
+ [67 <./figures/PCA_rf_nao_super_25_157_corais_health_2018_12_20.png (PNG copy)
+>] [68]
 <figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png, id=7
-60, 1112.155pt x 760.8425pt>
+89, 1112.155pt x 760.8425pt>
 File: figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png 
 Graphic file (type png)
 <use figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus_12_most_abundant_1_feverei
-ro_2019_edited.png  used on input line 1372.
+ro_2019_edited.png  used on input line 1379.
 (pdftex.def)             Requested size: 444.85413pt x 304.3316pt.
-<figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png, id=761, 115
+<figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png, id=790, 115
 6.32pt x 770.88pt>
 File: figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png Graphic
  file (type png)
 <use figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus_12_others_1_fevereiro_2019
-_edited.png  used on input line 1379.
-(pdftex.def)             Requested size: 462.5198pt x 308.34654pt.
-
-Overfull \hbox (9.55191pt too wide) in paragraph at lines 1379--1380
- [][] 
- []
-
-[68 <./figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png
->]
-<figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_edited
-.png, id=769, 1156.32pt x 770.88pt>
-File: figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_e
-dited.png Graphic file (type png)
-<use figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_ed
-ited.png>
-Package pdftex.def Info: figures/barplot_coral_genus_10_most_abundant_candidate
-_1_fevereiro_2019_edited.png  used on input line 1386.
+_edited.png  used on input line 1386.
 (pdftex.def)             Requested size: 462.5198pt x 308.34654pt.
 
 Overfull \hbox (9.55191pt too wide) in paragraph at lines 1386--1387
  [][] 
  []
 
-[69 <./figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png>]
+[69 <./figures/barplot_coral_genus_12_most_abundant_1_fevereiro_2019_edited.png
+>]
+<figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_edited
+.png, id=798, 1156.32pt x 770.88pt>
+File: figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_e
+dited.png Graphic file (type png)
+<use figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_ed
+ited.png>
+Package pdftex.def Info: figures/barplot_coral_genus_10_most_abundant_candidate
+_1_fevereiro_2019_edited.png  used on input line 1393.
+(pdftex.def)             Requested size: 462.5198pt x 308.34654pt.
+
+Overfull \hbox (9.55191pt too wide) in paragraph at lines 1393--1394
+ [][] 
+ []
+
+[70 <./figures/barplot_coral_genus_12_others_1_fevereiro_2019_edited.png>]
 <figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_2019_edi
-ted.png, id=775, 1185.42876pt x 784.9325pt>
+ted.png, id=804, 1185.42876pt x 784.9325pt>
 File: figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_201
 9_edited.png Graphic file (type png)
 <use figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_2019
 _edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus&health_status_12_most_abun
-dant_31_janeiro_2019_edited.png  used on input line 1397.
+dant_31_janeiro_2019_edited.png  used on input line 1404.
 (pdftex.def)             Requested size: 474.1631pt x 313.96744pt.
 
-Overfull \hbox (21.1952pt too wide) in paragraph at lines 1397--1398
+Overfull \hbox (21.1952pt too wide) in paragraph at lines 1404--1405
  [][] 
  []
 
-[70 <./figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_
+[71 <./figures/barplot_coral_genus_10_most_abundant_candidate_1_fevereiro_2019_
 edited.png>]
 <figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edited.pn
-g, id=782, 1156.32pt x 770.88pt>
+g, id=811, 1156.32pt x 770.88pt>
 File: figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edit
 ed.png Graphic file (type png)
 <use figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edite
 d.png>
 Package pdftex.def Info: figures/barplot_coral_genus&health_status_12_others_1_
-fevereiro_2019_edited.png  used on input line 1404.
+fevereiro_2019_edited.png  used on input line 1411.
 (pdftex.def)             Requested size: 462.5198pt x 308.34654pt.
 
-Overfull \hbox (9.55191pt too wide) in paragraph at lines 1404--1405
+Overfull \hbox (9.55191pt too wide) in paragraph at lines 1411--1412
  [][] 
  []
 
-[71 <./figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_20
+[72 <./figures/barplot_coral_genus&health_status_12_most_abundant_31_janeiro_20
 19_edited.png>]
 <figures/barplot_coral_genus&health_status_10_most_abundant_candidate_1_feverei
-ro_2019_edited.png, id=789, 1186.4325pt x 774.895pt>
+ro_2019_edited.png, id=819, 1186.4325pt x 774.895pt>
 File: figures/barplot_coral_genus&health_status_10_most_abundant_candidate_1_fe
 vereiro_2019_edited.png Graphic file (type png)
 <use figures/barplot_coral_genus&health_status_10_most_abundant_candidate_1_fev
 ereiro_2019_edited.png>
 Package pdftex.def Info: figures/barplot_coral_genus&health_status_10_most_abun
-dant_candidate_1_fevereiro_2019_edited.png  used on input line 1411.
+dant_candidate_1_fevereiro_2019_edited.png  used on input line 1418.
 (pdftex.def)             Requested size: 474.56459pt x 309.95251pt.
 
-Overfull \hbox (21.5967pt too wide) in paragraph at lines 1411--1412
+Overfull \hbox (21.5967pt too wide) in paragraph at lines 1418--1419
  [][] 
  []
 
-[72 <./figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edi
-ted.png>] [73 <./figures/barplot_coral_genus&health_status_10_most_abundant_can
-didate_1_fevereiro_2019_edited.png>] [74]
+[73 <./figures/barplot_coral_genus&health_status_12_others_1_fevereiro_2019_edi
+ted.png>] [74 <./figures/barplot_coral_genus&health_status_10_most_abundant_can
+didate_1_fevereiro_2019_edited.png>] [75]
 Cap\'{\i }tulo 9.
-<figures/pipeline_functional.jpg, id=810, 327.2225pt x 743.77875pt>
+<figures/pipeline_functional.jpg, id=839, 327.2225pt x 743.77875pt>
 File: figures/pipeline_functional.jpg Graphic file (type jpg)
 <use figures/pipeline_functional.jpg>
 Package pdftex.def Info: figures/pipeline_functional.jpg  used on input line 14
-36.
+47.
 (pdftex.def)             Requested size: 317.07614pt x 720.71548pt.
 
-LaTeX Warning: Float too large for page by 69.7086pt on input line 1438.
+LaTeX Warning: Float too large for page by 69.7086pt on input line 1449.
 
-[75
+[76
 
-] [76 <./figures/pipeline_functional.jpg>]
+] [77 <./figures/pipeline_functional.jpg>]
 Cap\'{\i }tulo 10.
-[77
+[78
 
-] [78]
+] [79]
 Cap\'{\i }tulo 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1490
+Underfull \hbox (badness 10000) in paragraph at lines 1498--1501
 
  []
 
 
-Overfull \hbox (168.19365pt too wide) in paragraph at lines 1491--1494
+Overfull \hbox (168.19365pt too wide) in paragraph at lines 1502--1505
 \T1/cmr/m/n/12 maquina re-mota para lo-cal: scp le-ti-cia.cavalcante@login.sdum
 ont.lncc.br:/scratch/ebiodiv/leticia.cavalcante/ncbi/ncbi.txt
  []
 
-[79
+[80
 
 ]
 Cap\'{\i }tulo 12.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1499--1505
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1516
 
  []
 
-<figures/venn_diagram_health_condition_example.png, id=833, 601.24625pt x 559.0
+<figures/venn_diagram_health_condition_example.png, id=862, 601.24625pt x 559.0
 8875pt>
 File: figures/venn_diagram_health_condition_example.png Graphic file (type png)
 
 <use figures/venn_diagram_health_condition_example.png>
 Package pdftex.def Info: figures/venn_diagram_health_condition_example.png  use
-d on input line 1519.
+d on input line 1530.
 (pdftex.def)             Requested size: 226.48395pt x 210.60469pt.
-[80
+[81
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+Underfull \hbox (badness 10000) in paragraph at lines 1535--1536
 
  []
 
-[81 <./figures/venn_diagram_health_condition_example.png>]
+[82 <./figures/venn_diagram_health_condition_example.png>]
 Cap\'{\i }tulo 13.
-[82
 
-]
-Cap\'{\i }tulo 14.
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1540.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1559--1560
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1553
 
  []
 
 [83
 
-] (./Lab_book.bbl [84]
+] [84]
+Cap\'{\i }tulo 14.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1578.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1597--1598
+
+ []
+
+[85
+
+] (./Lab_book.bbl [86]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [85
+) [87
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1593.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1593.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1631.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1631.
  (./Lab_book.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1593.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1593.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1631.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1631.
 
 Package rerunfilecheck Info: File `Lab_book.out' has not changed.
-(rerunfilecheck)             Checksum: 44EBC94A411CBE07DC00C4D5203B1EC1;3948.
+(rerunfilecheck)             Checksum: 2C0A161C8395D652B19E8E19D7AE18A8;4369.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1593.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1631.
  ) 
 Here is how much of TeX's memory you used:
- 20445 strings out of 492982
- 375814 string characters out of 6134895
- 451618 words of memory out of 5000000
- 23370 multiletter control sequences out of 15000+600000
+ 20460 strings out of 492982
+ 376009 string characters out of 6134895
+ 451621 words of memory out of 5000000
+ 23378 multiletter control sequences out of 15000+600000
  20594 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,9n,73p,1832b,1058s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2025,10 +2047,10 @@ ts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public/cm-s
 uper/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti2074.pfb></
 usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/font
 s/type1/public/cm-super/sftt1200.pfb>
-Output written on Lab_book.pdf (86 pages, 18028327 bytes).
+Output written on Lab_book.pdf (88 pages, 18038368 bytes).
 PDF statistics:
- 987 PDF objects out of 1000 (max. 8388607)
- 796 compressed objects within 8 object streams
- 228 named destinations out of 1000 (max. 500000)
- 751 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1023 PDF objects out of 1200 (max. 8388607)
+ 829 compressed objects within 9 object streams
+ 235 named destinations out of 1000 (max. 500000)
+ 791 words of extra memory for PDF output out of 10000 (max. 10000000)
 

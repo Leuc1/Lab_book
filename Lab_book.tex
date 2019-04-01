@@ -975,6 +975,13 @@ O Felipe começou a me ajudar com a anotação taxonômica no Scolymia. Entretan
 
 Dessa lista, eu fui até SRR2937348 no dia 07/03/2019. Eu coloquei para rodar o script 'kraken\_isolado\_fevereiro\_sra\_2019\_20\_primeiros.sh' e já criei os outros. 
 
+\section{Obtenção das matrizes}
+\begin{tcolorbox}[width=6.3in]
+	- Folder: \textit{/home/pedro/holobionts\_temp/SRA} \\
+	- Command: \textit{qsub profiling\_metagenomes\_corais\_SRA.sh}\\
+	- Linha: \textit{biom\_matrix -d /home/scolymia/leticia/reports -n holobionts\_matrix\_marco\_2019 -g /storage2/pedro/bin/groups -o /home/scolymia/leticia/reports/matrizes -r P,C,O,F,G}
+\end{tcolorbox}
+
 
 
 \newpage
@@ -1428,6 +1435,10 @@ A página recomenda baixar, entre os vários pacotes, o library(BiocManager).
 \subsubsection{Instalando ferramenta}
 Primeiro, deve-se ter R 3.5. Depois instalar o pacote devtools. Depois o pacote BiocManager. 
 
+\section{Obtenção das matrizes}
+
+
+
 
 \newpage
 \chapter{Functional annotation of metagenomes}
@@ -1532,8 +1543,35 @@ Dessa forma, as figuras que devo fazer são:\\
 
 Uma das coisas que talvez eu deva discutir melhor é a parte de assinatura. A Amanda e eu conversamos que, muito provavelmente os filos mais abundantes não variem muito nas comunidades microbianas, mas a biosfera rara varie. Dessa forma, a biosfera rara será considerada como assinatura.
 
+\section{Mudanças após a reunião de 29 de março de 2019})
+A pergunta foi reformulada para "Como a biosfera rara de corais se diferenciam dado mudanças no estado de saúde e gênero"? Entre as subperguntas: Existe diferença na composição da biosfera rara? Filos raros considerados relevantes alteram sua abundância frente ao (...)? A estrutura da biosfera rara muda frente ao fator (...)?. As respostas para as perguntas serão obtidas como antes, a mudança maior é na parte de visualização de estrutura, em que os nMDS serão plotados usando apenas os dados da biosfera rara. Uma das coisas discutidas também foi se usaria a resolução taxonômica de filo. 
+
 
 \chapter{Meetings}
+\section{Reunião 22 de março de 2019}
+Eu apresentei os resultados que eu e Amanda tivemos de nossas reuniões para melhorar a pergunta e a obtenção de resultados. Alguns dos encaminhamentos foram dados: \\
+\begin{itemize}
+	\item Foi sugerido que eu não utilizasse tantos fatores em minha pergunta, tanto para poder ter um maior foco e diminuir o trabalho quanto por diminuir as chances de um futuro editor de revista editar. 
+	\item As exploratórias seriam feitas para ajudar a decidir um fator para a pergunta
+	\item Foi ressaltado o retorno ao foco a biosfera rara ou filos candidatos(ressaltando que em uma reunião os co-autores apontaram com a questão desses candidatos ou dessa biosfera rara me deixava mais confusa do que me dando um norte).
+	\item As figuras exploratórias deveriam estar prontas até 29/03
+	\item A pergunta ficou: "Como a biosfera rara muda nos corais, frente aos fatores (a ser definido, e.g. espécia/estado de saúde)?"
+\end{itemize}
+
+\section{Reunião 29 de março de 2019}
+Apresentei as figuras feitas na semana. Os encaminhamentos foram:
+\begin{itemize}
+	\item Reduzir growth form 
+	\item Para checar vieses, em vez de plotar por autor de trabalho, plotar por tipo de sequenciamento.
+	\item Saúde e gênero de corais parecem ser os fatores mais promissores. 
+	\item Entre as figuras, ter nMDS total e raro, dessa forma poderíamos enxergar a biosfera rara como uma assinatura que diferencia as comunidades. 
+	\item Unir black band disease e cyanobacterial patches em uma categoria de saúde
+	\item Diferentes estados de bleaching e bleached em apenas bleached. 
+	\item Será feita uma seleção de modelo que indique o fator mais explicativo.
+	\item Critério de corte para o Random Forest
+	\item leitura do trabalho da China
+\end{itemize}
+
 
 \chapter{Escrita do artigo}
 

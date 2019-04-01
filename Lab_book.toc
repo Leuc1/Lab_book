@@ -35,26 +35,31 @@
 \contentsline {subsection}{\numberline {8.4.2}SRA metagenomes}{29}{subsection.8.4.2}
 \contentsline {subsection}{\numberline {8.4.3}Janeiro de 2019}{30}{subsection.8.4.3}
 \contentsline {section}{\numberline {8.5}Profiling no Scolymia}{31}{section.8.5}
-\contentsline {section}{\numberline {8.6}Analises e obtencao de figuras}{34}{section.8.6}
-\contentsline {section}{\numberline {8.7}Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{39}{section.8.7}
-\contentsline {section}{\numberline {8.8}Obtencao de figuras 30/10/2018}{45}{section.8.8}
-\contentsline {subsection}{\numberline {8.8.1}FILO}{47}{subsection.8.8.1}
-\contentsline {subsection}{\numberline {8.8.2}FAMILIA}{51}{subsection.8.8.2}
-\contentsline {section}{\numberline {8.9}Figuras feitas em dezembro de 2018}{56}{section.8.9}
-\contentsline {section}{\numberline {8.10}Fevereiro de 2019}{68}{section.8.10}
-\contentsline {subsection}{\numberline {8.10.1}Graficos de abundancia}{68}{subsection.8.10.1}
-\contentsline {subsubsection}{Graficos com categorias isoladas}{68}{section*.57}
-\contentsline {subsubsection}{Graficos com categorias mistas}{70}{section*.61}
-\contentsline {subsection}{\numberline {8.10.2}Problemas no Atlantico}{73}{subsection.8.10.2}
-\contentsline {subsection}{\numberline {8.10.3}Ferramenta microbiome no R}{74}{subsection.8.10.3}
-\contentsline {subsubsection}{Instalando ferramenta}{74}{section*.65}
-\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{75}{chapter.9}
-\contentsline {chapter}{\numberline {10}references}{77}{chapter.10}
-\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{79}{chapter.11}
-\contentsline {section}{\numberline {11.1}Profilling metagenomes}{79}{section.11.1}
-\contentsline {chapter}{\numberline {12}Fundamentos te\IeC {\'o}ricos e escrita do artigo}{80}{chapter.12}
-\contentsline {section}{\numberline {12.1}mar\IeC {\c c}o de 2019}{80}{section.12.1}
-\contentsline {chapter}{\numberline {13}Meetings}{82}{chapter.13}
-\contentsline {chapter}{\numberline {14}Escrita do artigo}{83}{chapter.14}
-\contentsline {subsection}{\numberline {14.0.1}30 de outubro 2018}{83}{subsection.14.0.1}
-\contentsline {section}{\numberline {14.1}30 de novembro}{84}{section.14.1}
+\contentsline {section}{\numberline {8.6}Obten\IeC {\c c}\IeC {\~a}o das matrizes}{34}{section.8.6}
+\contentsline {section}{\numberline {8.7}Analises e obtencao de figuras}{35}{section.8.7}
+\contentsline {section}{\numberline {8.8}Obtencao de figuras com o segundo profiling feito com a ajuda do Rilquer - 23/10/2018}{40}{section.8.8}
+\contentsline {section}{\numberline {8.9}Obtencao de figuras 30/10/2018}{46}{section.8.9}
+\contentsline {subsection}{\numberline {8.9.1}FILO}{48}{subsection.8.9.1}
+\contentsline {subsection}{\numberline {8.9.2}FAMILIA}{52}{subsection.8.9.2}
+\contentsline {section}{\numberline {8.10}Figuras feitas em dezembro de 2018}{57}{section.8.10}
+\contentsline {section}{\numberline {8.11}Fevereiro de 2019}{69}{section.8.11}
+\contentsline {subsection}{\numberline {8.11.1}Graficos de abundancia}{69}{subsection.8.11.1}
+\contentsline {subsubsection}{Graficos com categorias isoladas}{69}{section*.57}
+\contentsline {subsubsection}{Graficos com categorias mistas}{71}{section*.61}
+\contentsline {subsection}{\numberline {8.11.2}Problemas no Atlantico}{74}{subsection.8.11.2}
+\contentsline {subsection}{\numberline {8.11.3}Ferramenta microbiome no R}{75}{subsection.8.11.3}
+\contentsline {subsubsection}{Instalando ferramenta}{75}{section*.65}
+\contentsline {section}{\numberline {8.12}Obten\IeC {\c c}\IeC {\~a}o das matrizes}{75}{section.8.12}
+\contentsline {chapter}{\numberline {9}Functional annotation of metagenomes}{76}{chapter.9}
+\contentsline {chapter}{\numberline {10}references}{78}{chapter.10}
+\contentsline {chapter}{\numberline {11}Softwares, instalacao e linhas}{80}{chapter.11}
+\contentsline {section}{\numberline {11.1}Profilling metagenomes}{80}{section.11.1}
+\contentsline {chapter}{\numberline {12}Fundamentos te\IeC {\'o}ricos e escrita do artigo}{81}{chapter.12}
+\contentsline {section}{\numberline {12.1}mar\IeC {\c c}o de 2019}{81}{section.12.1}
+\contentsline {section}{\numberline {12.2}Mudan\IeC {\c c}as ap\IeC {\'o}s a reuni\IeC {\~a}o de 29 de mar\IeC {\c c}o de 2019}{82}{section.12.2}
+\contentsline {chapter}{\numberline {13}Meetings}{83}{chapter.13}
+\contentsline {section}{\numberline {13.1}Reuni\IeC {\~a}o 22 de mar\IeC {\c c}o de 2019}{83}{section.13.1}
+\contentsline {section}{\numberline {13.2}Reuni\IeC {\~a}o 29 de mar\IeC {\c c}o de 2019}{83}{section.13.2}
+\contentsline {chapter}{\numberline {14}Escrita do artigo}{85}{chapter.14}
+\contentsline {subsection}{\numberline {14.0.1}30 de outubro 2018}{85}{subsection.14.0.1}
+\contentsline {section}{\numberline {14.1}30 de novembro}{86}{section.14.1}
